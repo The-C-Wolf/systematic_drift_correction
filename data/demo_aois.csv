@@ -1,0 +1,1691 @@
+kind,name,x,y,width,height,content,orig_x,orig_y,orig_width,orig_height,line,part,stimfile
+line,line 1,731,245,459,27,,731,245,459,27,1,,blut_schwer_000.png
+sub-line,line 1 part 1,731,245,211,27,Blutuntersuchung,731,245,211,27,1,1.0,blut_schwer_000.png
+sub-line,line 1 part 2,952,245,54,27,(ggf.,952,245,54,27,1,2.0,blut_schwer_000.png
+sub-line,line 1 part 3,1017,245,39,27,mit,1017,245,39,21,1,3.0,blut_schwer_000.png
+sub-line,line 1 part 4,1064,245,126,27,HIV-Test),1064,246,126,24,1,4.0,blut_schwer_000.png
+line,line 2,611,295,627,22,,611,295,627,22,2,,blut_schwer_000.png
+sub-line,line 2 part 1,611,295,43,22,Sehr,611,295,43,17,2,1.0,blut_schwer_000.png
+sub-line,line 2 part 2,661,295,70,22,geehrte,661,295,70,22,2,2.0,blut_schwer_000.png
+sub-line,line 2 part 3,738,295,92,22,"Patientin,",738,295,92,21,2,3.0,blut_schwer_000.png
+sub-line,line 2 part 4,838,295,39,22,sehr,838,295,39,17,2,4.0,blut_schwer_000.png
+sub-line,line 2 part 5,884,295,79,22,geehrter,884,295,79,22,2,5.0,blut_schwer_000.png
+sub-line,line 2 part 6,969,295,73,22,"Patient,",969,295,73,21,2,6.0,blut_schwer_000.png
+sub-line,line 2 part 7,1050,295,39,22,sehr,1050,295,39,17,2,7.0,blut_schwer_000.png
+sub-line,line 2 part 8,1096,295,70,22,geehrte,1096,295,70,22,2,8.0,blut_schwer_000.png
+sub-line,line 2 part 9,1173,295,65,22,"Eltern,",1173,295,65,21,2,9.0,blut_schwer_000.png
+line,line 3,611,345,528,17,,611,345,528,17,3,,blut_schwer_000.png
+sub-line,line 3 part 1,611,345,42,17,dieser,611,345,42,13,3,1.0,blut_schwer_000.png
+sub-line,line 3 part 2,658,345,134,17,Aufklärungsbogen,658,345,134,17,3,2.0,blut_schwer_000.png
+sub-line,line 3 part 3,798,345,35,17,dient,798,345,35,13,3,3.0,blut_schwer_000.png
+sub-line,line 3 part 4,838,345,35,17,Ihrer,838,345,35,13,3,4.0,blut_schwer_000.png
+sub-line,line 3 part 5,878,345,86,17,Information,878,345,86,13,3,5.0,blut_schwer_000.png
+sub-line,line 3 part 6,969,345,27,17,und,969,345,27,13,3,6.0,blut_schwer_000.png
+sub-line,line 3 part 7,1001,345,54,17,bereitet,1001,345,54,13,3,7.0,blut_schwer_000.png
+sub-line,line 3 part 8,1061,345,21,17,Sie,1061,346,21,12,3,8.0,blut_schwer_000.png
+sub-line,line 3 part 9,1089,345,24,17,auf,1089,345,24,13,3,9.0,blut_schwer_000.png
+sub-line,line 3 part 10,1117,345,22,17,das,1117,345,22,13,3,10.0,blut_schwer_000.png
+line,line 4,610,396,607,17,,610,396,607,17,4,,blut_schwer_000.png
+sub-line,line 4 part 1,610,396,154,17,Aufklärungsgespräch,610,396,154,17,4,1.0,blut_schwer_000.png
+sub-line,line 4 part 2,769,396,27,17,vor.,769,401,27,8,4,2.0,blut_schwer_000.png
+sub-line,line 4 part 3,803,396,34,17,Bitte,803,397,34,12,4,3.0,blut_schwer_000.png
+sub-line,line 4 part 4,844,396,36,17,lesen,844,396,36,13,4,4.0,blut_schwer_000.png
+sub-line,line 4 part 5,886,396,21,17,Sie,886,397,21,12,4,5.0,blut_schwer_000.png
+sub-line,line 4 part 6,914,396,22,17,ihn,914,396,22,13,4,6.0,blut_schwer_000.png
+sub-line,line 4 part 7,941,396,24,17,vor,941,401,24,8,4,7.0,blut_schwer_000.png
+sub-line,line 4 part 8,971,396,30,17,dem,971,396,30,13,4,8.0,blut_schwer_000.png
+sub-line,line 4 part 9,1007,396,67,17,Gespräch,1007,396,67,17,4,9.0,blut_schwer_000.png
+sub-line,line 4 part 10,1080,396,88,17,aufmerksam,1080,396,88,13,4,10.0,blut_schwer_000.png
+sub-line,line 4 part 11,1174,396,43,17,durch.,1174,396,43,13,4,11.0,blut_schwer_000.png
+line,line 5,610,448,504,22,,610,448,504,22,5,,blut_schwer_000.png
+sub-line,line 5 part 1,610,448,84,22,Weshalb,610,448,84,17,5,1.0,blut_schwer_000.png
+sub-line,line 5 part 2,701,448,71,22,werden,701,448,71,17,5,2.0,blut_schwer_000.png
+sub-line,line 5 part 3,778,448,195,22,Blutuntersuchungen,778,448,195,22,5,3.0,blut_schwer_000.png
+sub-line,line 5 part 4,980,448,134,22,durchgeführt?,980,448,134,22,5,4.0,blut_schwer_000.png
+line,line 6,610,498,674,17,,610,498,674,17,6,,blut_schwer_000.png
+sub-line,line 6 part 1,610,498,62,17,Bluttests,610,498,62,13,6,1.0,blut_schwer_000.png
+sub-line,line 6 part 2,679,498,57,17,gehören,679,498,57,17,6,2.0,blut_schwer_000.png
+sub-line,line 6 part 3,741,498,17,17,zu,741,503,17,8,6,3.0,blut_schwer_000.png
+sub-line,line 6 part 4,764,498,25,17,den,764,498,25,13,6,4.0,blut_schwer_000.png
+sub-line,line 6 part 5,795,498,81,17,einfachsten,795,498,81,13,6,5.0,blut_schwer_000.png
+sub-line,line 6 part 6,881,498,27,17,und,881,498,27,13,6,6.0,blut_schwer_000.png
+sub-line,line 6 part 7,914,498,71,17,sichersten,914,498,71,13,6,7.0,blut_schwer_000.png
+sub-line,line 6 part 8,990,498,179,17,Untersuchungsmethoden,990,498,179,17,6,8.0,blut_schwer_000.png
+sub-line,line 6 part 9,1175,498,13,17,in,1175,503,13,8,6,9.0,blut_schwer_000.png
+sub-line,line 6 part 10,1194,498,22,17,der,1194,498,22,13,6,10.0,blut_schwer_000.png
+sub-line,line 6 part 11,1221,498,63,17,Medizin.,1221,498,63,13,6,11.0,blut_schwer_000.png
+line,line 7,611,549,384,17,,611,549,384,17,7,,blut_schwer_000.png
+sub-line,line 7 part 1,611,549,21,17,Sie,611,550,21,12,7,1.0,blut_schwer_000.png
+sub-line,line 7 part 2,639,549,29,17,sind,639,549,29,13,7,2.0,blut_schwer_000.png
+sub-line,line 7 part 3,674,549,22,17,aus,674,554,22,8,7,3.0,blut_schwer_000.png
+sub-line,line 7 part 4,702,549,68,17,mehreren,702,549,68,13,7,4.0,blut_schwer_000.png
+sub-line,line 7 part 5,776,549,62,17,Gründen,776,549,62,13,7,5.0,blut_schwer_000.png
+sub-line,line 7 part 6,843,549,54,17,wichtig,843,549,54,17,7,6.0,blut_schwer_000.png
+sub-line,line 7 part 7,902,549,27,17,und,902,549,27,13,7,7.0,blut_schwer_000.png
+sub-line,line 7 part 8,934,549,61,17,hilfreich:,934,549,61,13,7,8.0,blut_schwer_000.png
+line,line 8,631,600,561,17,,631,600,561,17,8,,blut_schwer_000.png
+sub-line,line 8 part 1,631,600,155,17,- Blutuntersuchungen,631,600,155,17,8,1.0,blut_schwer_000.png
+sub-line,line 8 part 2,791,600,53,17,können,791,600,53,13,8,2.0,blut_schwer_000.png
+sub-line,line 8 part 3,850,600,64,17,deutliche,850,600,64,13,8,3.0,blut_schwer_000.png
+sub-line,line 8 part 4,920,600,67,17,Hinweise,920,601,67,12,8,4.0,blut_schwer_000.png
+sub-line,line 8 part 5,995,600,22,17,auf,995,600,22,13,8,5.0,blut_schwer_000.png
+sub-line,line 8 part 6,1024,600,26,17,eine,1024,589,26,32,8,6.0,blut_schwer_000.png
+sub-line,line 8 part 7,1056,600,85,17,Erkrankung,1056,600,85,17,8,7.0,blut_schwer_000.png
+sub-line,line 8 part 8,1147,600,45,17,geben.,1147,600,45,17,8,8.0,blut_schwer_000.png
+line,line 9,631,651,624,17,,631,651,624,17,9,,blut_schwer_000.png
+sub-line,line 9 part 1,631,651,32,17,- Sie,631,652,32,12,9,1.0,blut_schwer_000.png
+sub-line,line 9 part 2,670,651,89,17,ermöglichen,670,651,89,17,9,2.0,blut_schwer_000.png
+sub-line,line 9 part 3,765,651,30,17,dem,765,651,30,13,9,3.0,blut_schwer_000.png
+sub-line,line 9 part 4,800,651,32,17,Arzt,800,652,32,12,9,4.0,blut_schwer_000.png
+sub-line,line 9 part 5,837,651,50,17,"häufig,",837,651,50,17,9,5.0,blut_schwer_000.png
+sub-line,line 9 part 6,894,651,28,17,eine,894,656,28,8,9,6.0,blut_schwer_000.png
+sub-line,line 9 part 7,929,651,49,17,genaue,929,656,49,12,9,7.0,blut_schwer_000.png
+sub-line,line 9 part 8,984,651,67,17,Diagnose,984,652,67,16,9,8.0,blut_schwer_000.png
+sub-line,line 9 part 9,1057,651,17,17,zu,1057,656,17,8,9,9.0,blut_schwer_000.png
+sub-line,line 9 part 10,1080,651,46,17,stellen,1080,651,46,13,9,10.0,blut_schwer_000.png
+sub-line,line 9 part 11,1131,651,27,17,und,1131,651,27,13,9,11.0,blut_schwer_000.png
+sub-line,line 9 part 12,1164,651,57,17,dadurch,1164,651,57,13,9,12.0,blut_schwer_000.png
+sub-line,line 9 part 13,1227,651,28,17,eine,1227,656,28,8,9,13.0,blut_schwer_000.png
+line,line 10,646,702,225,17,,646,702,225,17,10,,blut_schwer_000.png
+sub-line,line 10 part 1,646,702,54,17,gezielte,646,702,54,17,10,1.0,blut_schwer_000.png
+sub-line,line 10 part 2,706,702,87,17,Behandlung,706,702,87,17,10,2.0,blut_schwer_000.png
+sub-line,line 10 part 3,798,702,17,17,zu,798,707,17,8,10,3.0,blut_schwer_000.png
+sub-line,line 10 part 4,820,702,51,17,planen.,820,702,51,17,10,4.0,blut_schwer_000.png
+line,line 11,631,753,632,17,,631,753,632,17,11,,blut_schwer_000.png
+sub-line,line 11 part 1,631,753,32,17,- Sie,631,754,32,12,11,1.0,blut_schwer_000.png
+sub-line,line 11 part 2,669,753,53,17,können,669,753,53,13,11,2.0,blut_schwer_000.png
+sub-line,line 11 part 3,728,753,18,17,als,728,753,18,13,11,3.0,blut_schwer_000.png
+sub-line,line 11 part 4,752,753,175,17,Kontrolluntersuchungen,752,753,175,17,11,4.0,blut_schwer_000.png
+sub-line,line 11 part 5,933,753,63,17,"erfolgen,",933,753,63,17,11,5.0,blut_schwer_000.png
+sub-line,line 11 part 6,1002,753,23,17,um,1002,758,23,8,11,6.0,blut_schwer_000.png
+sub-line,line 11 part 7,1031,753,28,17,eine,1031,758,28,8,11,7.0,blut_schwer_000.png
+sub-line,line 11 part 8,1065,753,87,17,Behandlung,1065,753,87,17,11,8.0,blut_schwer_000.png
+sub-line,line 11 part 9,1157,753,17,17,zu,1157,758,17,8,11,9.0,blut_schwer_000.png
+sub-line,line 11 part 10,1180,753,51,17,steuern,1180,755,51,11,11,10.0,blut_schwer_000.png
+sub-line,line 11 part 11,1236,753,27,17,und,1236,753,27,13,11,11.0,blut_schwer_000.png
+line,line 12,646,804,276,17,,646,804,276,17,12,,blut_schwer_000.png
+sub-line,line 12 part 1,646,804,25,17,den,646,804,25,13,12,1.0,blut_schwer_000.png
+sub-line,line 12 part 2,676,804,137,17,Behandlungserfolg,676,804,137,17,12,2.0,blut_schwer_000.png
+sub-line,line 12 part 3,818,804,17,17,zu,818,809,17,8,12,3.0,blut_schwer_000.png
+sub-line,line 12 part 4,840,804,82,17,überprüfen.,840,804,82,17,12,4.0,blut_schwer_000.png
+line,line 1,610,294,646,17,,610,294,646,17,1,,blut_schwer_001.png
+sub-line,line 1 part 1,610,294,27,17,Der,610,295,27,12,1,1.0,blut_schwer_001.png
+sub-line,line 1 part 2,642,294,32,17,Arzt,642,295,32,12,1,2.0,blut_schwer_001.png
+sub-line,line 1 part 3,679,294,33,17,wird,679,294,33,13,1,3.0,blut_schwer_001.png
+sub-line,line 1 part 4,718,294,21,17,Sie,718,295,21,12,1,4.0,blut_schwer_001.png
+sub-line,line 1 part 5,746,294,88,17,"informieren,",746,294,88,16,1,5.0,blut_schwer_001.png
+sub-line,line 1 part 6,840,294,50,17,welche,840,294,50,13,1,6.0,blut_schwer_001.png
+sub-line,line 1 part 7,896,294,145,17,Blutuntersuchungen,896,294,145,17,1,7.0,blut_schwer_001.png
+sub-line,line 1 part 8,1046,294,22,17,bei,1046,294,22,13,1,8.0,blut_schwer_001.png
+sub-line,line 1 part 9,1073,294,41,17,Ihnen,1073,294,41,13,1,9.0,blut_schwer_001.png
+sub-line,line 1 part 10,1119,294,37,17,nötig,1119,296,37,15,1,10.0,blut_schwer_001.png
+sub-line,line 1 part 11,1162,294,31,17,oder,1162,294,31,13,1,11.0,blut_schwer_001.png
+sub-line,line 1 part 12,1199,294,57,17,sinnvoll,1199,294,57,13,1,12.0,blut_schwer_001.png
+line,line 2,611,345,630,17,,611,345,630,17,2,,blut_schwer_001.png
+sub-line,line 2 part 1,611,345,29,17,sind,611,345,29,13,2,1.0,blut_schwer_001.png
+sub-line,line 2 part 2,646,345,33,17,(z.B.,646,345,33,17,2,2.0,blut_schwer_001.png
+sub-line,line 2 part 3,687,345,30,17,Test,687,346,30,12,2,3.0,blut_schwer_001.png
+sub-line,line 2 part 4,724,345,22,17,auf,724,345,22,13,2,4.0,blut_schwer_001.png
+sub-line,line 2 part 5,750,345,67,17,"Blutfette,",750,345,67,16,2,5.0,blut_schwer_001.png
+sub-line,line 2 part 6,823,345,55,17,"Zucker,",823,345,55,16,2,6.0,blut_schwer_001.png
+sub-line,line 2 part 7,884,345,78,17,"Harmsäure,",884,346,78,15,2,7.0,blut_schwer_001.png
+sub-line,line 2 part 8,968,345,106,17,"Hepatitisviren,",968,346,106,16,2,8.0,blut_schwer_001.png
+sub-line,line 2 part 9,1080,345,108,17,"HIV-Infektion,",1080,345,108,16,2,9.0,blut_schwer_001.png
+sub-line,line 2 part 10,1195,345,46,17,andere,1195,345,46,13,2,10.0,blut_schwer_001.png
+line,line 3,610,396,611,17,,610,396,611,17,3,,blut_schwer_001.png
+sub-line,line 3 part 1,610,396,134,17,"Krankheitserreger,",610,396,134,17,3,1.0,blut_schwer_001.png
+sub-line,line 3 part 2,750,396,92,17,Bestimmung,750,397,92,16,3,2.0,blut_schwer_001.png
+sub-line,line 3 part 3,848,396,22,17,der,848,396,22,13,3,3.0,blut_schwer_001.png
+sub-line,line 3 part 4,875,396,306,17,Blutkörperchen-Senkungsgeschwindigkeit,875,396,306,17,3,4.0,blut_schwer_001.png
+sub-line,line 3 part 5,1187,396,34,17,ete.).,1187,396,34,17,3,5.0,blut_schwer_001.png
+line,line 4,610,447,610,17,,610,447,610,17,4,,blut_schwer_001.png
+sub-line,line 4 part 1,610,447,34,17,Bitte,610,448,34,12,4,1.0,blut_schwer_001.png
+sub-line,line 4 part 2,650,447,50,17,weisen,650,452,50,8,4,2.0,blut_schwer_001.png
+sub-line,line 4 part 3,706,447,21,17,Sie,706,448,21,12,4,3.0,blut_schwer_001.png
+sub-line,line 4 part 4,734,447,25,17,den,734,447,25,13,4,4.0,blut_schwer_001.png
+sub-line,line 4 part 5,764,447,32,17,Arzt,764,448,32,12,4,5.0,blut_schwer_001.png
+sub-line,line 4 part 6,801,447,72,17,unbedingt,801,447,72,17,4,6.0,blut_schwer_001.png
+sub-line,line 4 part 7,879,447,47,17,darauf,879,447,47,13,4,7.0,blut_schwer_001.png
+sub-line,line 4 part 8,929,447,27,17,"hin,",929,447,27,16,4,8.0,blut_schwer_001.png
+sub-line,line 4 part 9,962,447,39,17,wenn,962,452,39,8,4,9.0,blut_schwer_001.png
+sub-line,line 4 part 10,1007,447,21,17,Sie,1007,448,21,12,4,10.0,blut_schwer_001.png
+sub-line,line 4 part 11,1034,447,186,17,blutgerinnungshemmende,1034,447,186,17,4,11.0,blut_schwer_001.png
+line,line 5,610,498,679,17,,610,498,679,17,5,,blut_schwer_001.png
+sub-line,line 5 part 1,610,498,98,17,Medikamente,610,498,98,13,5,1.0,blut_schwer_001.png
+sub-line,line 5 part 2,715,498,78,17,einnehmen,715,498,78,13,5,2.0,blut_schwer_001.png
+sub-line,line 5 part 3,799,498,33,17,(z.B.,799,498,33,17,5,3.0,blut_schwer_001.png
+sub-line,line 5 part 4,839,498,79,17,"Marcumar,",839,499,79,15,5,4.0,blut_schwer_001.png
+sub-line,line 5 part 5,924,498,58,17,"Aspirin,",924,499,58,16,5,5.0,blut_schwer_001.png
+sub-line,line 5 part 6,988,498,50,17,"Plavix,",988,498,50,16,5,6.0,blut_schwer_001.png
+sub-line,line 5 part 7,1044,498,57,17,"Iscover,",1044,499,57,15,5,7.0,blut_schwer_001.png
+sub-line,line 5 part 8,1107,498,62,17,"Pradaxa,",1107,498,62,16,5,8.0,blut_schwer_001.png
+sub-line,line 5 part 9,1175,498,58,17,"Xarelto,",1175,498,58,16,5,9.0,blut_schwer_001.png
+sub-line,line 5 part 10,1239,498,50,17,Eliquis,1239,498,50,17,5,10.0,blut_schwer_001.png
+line,line 6,611,549,641,17,,611,549,641,17,6,,blut_schwer_001.png
+sub-line,line 6 part 1,611,549,34,17,etc.).,611,549,34,17,6,1.0,blut_schwer_001.png
+sub-line,line 6 part 2,652,549,27,17,Der,652,550,27,12,6,2.0,blut_schwer_001.png
+sub-line,line 6 part 3,684,549,32,17,Arzt,684,550,32,12,6,3.0,blut_schwer_001.png
+sub-line,line 6 part 4,721,549,36,17,muss,721,554,36,8,6,4.0,blut_schwer_001.png
+sub-line,line 6 part 5,764,549,34,17,dann,764,549,34,13,6,5.0,blut_schwer_001.png
+sub-line,line 6 part 6,804,549,88,17,"entscheiden,",804,549,88,16,6,6.0,blut_schwer_001.png
+sub-line,line 6 part 7,899,549,16,17,ob,899,549,16,13,6,7.0,blut_schwer_001.png
+sub-line,line 6 part 8,922,549,21,17,Sie,922,550,21,12,6,8.0,blut_schwer_001.png
+sub-line,line 6 part 9,949,549,28,17,Ihre,949,549,28,13,6,9.0,blut_schwer_001.png
+sub-line,line 6 part 10,983,549,44,17,Mittel,983,549,44,13,6,10.0,blut_schwer_001.png
+sub-line,line 6 part 11,1032,549,24,17,vor,1032,554,24,8,6,11.0,blut_schwer_001.png
+sub-line,line 6 part 12,1062,549,22,17,der,1062,549,22,13,6,12.0,blut_schwer_001.png
+sub-line,line 6 part 13,1089,549,100,17,Blutentnahme,1089,549,100,13,6,13.0,blut_schwer_001.png
+sub-line,line 6 part 14,1195,549,57,17,nehmen,1195,549,57,13,6,14.0,blut_schwer_001.png
+line,line 7,611,600,325,17,,611,600,325,17,7,,blut_schwer_001.png
+sub-line,line 7 part 1,611,600,46,17,dürfen,611,600,46,13,7,1.0,blut_schwer_001.png
+sub-line,line 7 part 2,663,600,31,17,oder,663,600,31,13,7,2.0,blut_schwer_001.png
+sub-line,line 7 part 3,699,600,108,17,vorübergehend,699,600,108,17,7,3.0,blut_schwer_001.png
+sub-line,line 7 part 4,813,600,61,17,absetzen,813,600,61,13,7,4.0,blut_schwer_001.png
+sub-line,line 7 part 5,879,600,57,17,müssen.,879,602,57,11,7,5.0,blut_schwer_001.png
+line,line 8,610,652,301,22,,610,652,301,22,8,,blut_schwer_001.png
+sub-line,line 8 part 1,610,652,40,22,Wie,610,652,40,17,8,1.0,blut_schwer_001.png
+sub-line,line 8 part 2,658,652,63,22,erfolgt,658,652,63,22,8,2.0,blut_schwer_001.png
+sub-line,line 8 part 3,729,652,28,22,die,729,652,28,17,8,3.0,blut_schwer_001.png
+sub-line,line 8 part 4,764,652,147,22,Blutentnahme?,764,652,147,17,8,4.0,blut_schwer_001.png
+line,line 9,610,702,484,17,,610,702,484,17,9,,blut_schwer_001.png
+sub-line,line 9 part 1,610,702,15,17,In,610,703,15,12,9,1.0,blut_schwer_001.png
+sub-line,line 9 part 2,631,702,22,17,der,631,702,22,13,9,2.0,blut_schwer_001.png
+sub-line,line 9 part 3,658,702,42,17,Regel,658,702,42,17,9,3.0,blut_schwer_001.png
+sub-line,line 9 part 4,705,702,53,17,werden,705,702,53,13,9,4.0,blut_schwer_001.png
+sub-line,line 9 part 5,763,702,81,17,Blutproben,763,702,81,17,9,5.0,blut_schwer_001.png
+sub-line,line 9 part 6,850,702,22,17,aus,850,707,22,8,9,6.0,blut_schwer_001.png
+sub-line,line 9 part 7,879,702,35,17,einer,879,707,35,8,9,7.0,blut_schwer_001.png
+sub-line,line 9 part 8,919,702,37,17,Vene,919,703,37,12,9,8.0,blut_schwer_001.png
+sub-line,line 9 part 9,963,702,13,17,in,963,707,13,8,9,9.0,blut_schwer_001.png
+sub-line,line 9 part 10,982,702,22,17,der,982,702,22,13,9,10.0,blut_schwer_001.png
+sub-line,line 9 part 11,1009,702,85,17,"Ellenbeuge,",1009,702,85,17,9,11.0,blut_schwer_001.png
+line,line 10,611,753,418,17,,611,753,418,17,10,,blut_schwer_001.png
+sub-line,line 10 part 1,611,753,65,17,eventuell,611,753,65,13,10,1.0,blut_schwer_001.png
+sub-line,line 10 part 2,682,753,33,17,auch,682,753,33,13,10,2.0,blut_schwer_001.png
+sub-line,line 10 part 3,721,753,21,17,am,721,758,21,8,10,3.0,blut_schwer_001.png
+sub-line,line 10 part 4,747,753,69,17,Unterarm,747,754,69,12,10,4.0,blut_schwer_001.png
+sub-line,line 10 part 5,822,753,31,17,oder,822,753,31,13,10,5.0,blut_schwer_001.png
+sub-line,line 10 part 6,859,753,16,17,an,859,758,16,8,10,6.0,blut_schwer_001.png
+sub-line,line 10 part 7,881,753,22,17,der,881,753,22,13,10,7.0,blut_schwer_001.png
+sub-line,line 10 part 8,908,753,39,17,Hand,908,753,39,13,10,8.0,blut_schwer_001.png
+sub-line,line 10 part 9,953,753,76,17,gewonnen.,953,758,76,12,10,9.0,blut_schwer_001.png
+line,line 11,610,804,381,17,,610,804,381,17,11,,blut_schwer_001.png
+sub-line,line 11 part 1,610,804,66,17,Zunächst,610,804,66,13,11,1.0,blut_schwer_001.png
+sub-line,line 11 part 2,681,804,33,17,wird,681,804,33,13,11,2.0,blut_schwer_001.png
+sub-line,line 11 part 3,720,804,28,17,eine,720,809,28,8,11,3.0,blut_schwer_001.png
+sub-line,line 11 part 4,755,804,70,17,Staubinde,755,804,70,13,11,4.0,blut_schwer_001.png
+sub-line,line 11 part 5,832,804,21,17,am,832,809,21,8,11,5.0,blut_schwer_001.png
+sub-line,line 11 part 6,859,804,63,17,Oberarm,859,804,63,13,11,6.0,blut_schwer_001.png
+sub-line,line 11 part 7,928,804,63,17,angelegt.,928,804,63,17,11,7.0,blut_schwer_001.png
+line,line 1,610,320,645,17,,610,320,645,17,1,,blut_schwer_002.png
+sub-line,line 1 part 1,610,320,99,17,Anschließend,610,320,99,13,1,1.0,blut_schwer_002.png
+sub-line,line 1 part 2,714,320,33,17,wird,714,320,33,13,1,2.0,blut_schwer_002.png
+sub-line,line 1 part 3,753,320,20,17,die,753,320,20,13,1,3.0,blut_schwer_002.png
+sub-line,line 1 part 4,779,320,96,17,Einstichstelle,779,320,96,13,1,4.0,blut_schwer_002.png
+sub-line,line 1 part 5,882,320,80,17,desinfiziert,882,320,80,13,1,5.0,blut_schwer_002.png
+sub-line,line 1 part 6,967,320,27,17,und,967,320,27,13,1,6.0,blut_schwer_002.png
+sub-line,line 1 part 7,1000,320,20,17,die,1000,320,20,13,1,7.0,blut_schwer_002.png
+sub-line,line 1 part 8,1026,320,37,17,Vene,1026,321,37,12,1,8.0,blut_schwer_002.png
+sub-line,line 1 part 9,1069,320,24,17,mit,1069,322,24,11,1,9.0,blut_schwer_002.png
+sub-line,line 1 part 10,1099,320,35,17,einer,1099,325,35,8,1,10.0,blut_schwer_002.png
+sub-line,line 1 part 11,1139,320,43,17,Nadel,1139,320,43,13,1,11.0,blut_schwer_002.png
+sub-line,line 1 part 12,1187,320,68,17,punktiert.,1187,320,68,17,1,12.0,blut_schwer_002.png
+line,line 2,610,371,654,17,,610,371,654,17,2,,blut_schwer_002.png
+sub-line,line 2 part 1,610,371,25,17,Die,610,372,25,12,2,1.0,blut_schwer_002.png
+sub-line,line 2 part 2,641,371,89,17,vorgesehene,641,371,89,17,2,2.0,blut_schwer_002.png
+sub-line,line 2 part 3,736,371,49,17,Menge,736,372,49,16,2,3.0,blut_schwer_002.png
+sub-line,line 2 part 4,791,371,31,17,Blut,791,371,31,13,2,4.0,blut_schwer_002.png
+sub-line,line 2 part 5,827,371,33,17,wird,827,371,33,13,2,5.0,blut_schwer_002.png
+sub-line,line 2 part 6,866,371,34,17,dann,866,371,34,13,2,6.0,blut_schwer_002.png
+sub-line,line 2 part 7,905,371,32,17,über,905,371,32,13,2,7.0,blut_schwer_002.png
+sub-line,line 2 part 8,943,371,28,17,eine,943,376,28,8,2,8.0,blut_schwer_002.png
+sub-line,line 2 part 9,977,371,51,17,Kaniile,977,371,51,13,2,9.0,blut_schwer_002.png
+sub-line,line 2 part 10,1035,371,13,17,in,1035,376,13,8,2,10.0,blut_schwer_002.png
+sub-line,line 2 part 11,1054,371,21,17,ein,1054,376,21,8,2,11.0,blut_schwer_002.png
+sub-line,line 2 part 12,1080,371,70,17,Röhrchen,1080,371,70,13,2,12.0,blut_schwer_002.png
+sub-line,line 2 part 13,1156,371,52,17,geleitet,1156,371,52,17,2,13.0,blut_schwer_002.png
+sub-line,line 2 part 14,1214,371,31,17,oder,1214,371,31,13,2,14.0,blut_schwer_002.png
+sub-line,line 2 part 15,1251,371,13,17,in,1251,376,13,8,2,15.0,blut_schwer_002.png
+line,line 3,611,423,178,16,,611,423,178,16,3,,blut_schwer_002.png
+sub-line,line 3 part 1,611,423,28,16,eine,611,427,28,8,3,1.0,blut_schwer_002.png
+sub-line,line 3 part 2,646,423,49,16,Spritze,646,423,49,16,3,2.0,blut_schwer_002.png
+sub-line,line 3 part 3,702,423,87,16,entnommen.,702,424,87,11,3,3.0,blut_schwer_002.png
+line,line 4,610,473,664,16,,610,473,664,16,4,,blut_schwer_002.png
+sub-line,line 4 part 1,610,473,34,16,Bitte,610,474,34,12,4,1.0,blut_schwer_002.png
+sub-line,line 4 part 2,651,473,57,16,drücken,651,473,57,13,4,2.0,blut_schwer_002.png
+sub-line,line 4 part 3,714,473,26,16,"Sie,",714,474,26,15,4,3.0,blut_schwer_002.png
+sub-line,line 4 part 4,747,473,46,16,sobald,747,473,46,13,4,4.0,blut_schwer_002.png
+sub-line,line 4 part 5,798,473,43,16,Nadel,798,473,43,13,4,5.0,blut_schwer_002.png
+sub-line,line 4 part 6,846,473,27,16,und,846,473,27,13,4,6.0,blut_schwer_002.png
+sub-line,line 4 part 7,879,473,70,16,Staubinde,879,473,70,13,4,7.0,blut_schwer_002.png
+sub-line,line 4 part 8,956,473,55,16,entfernt,956,473,55,13,4,8.0,blut_schwer_002.png
+sub-line,line 4 part 9,1017,473,33,16,"sind,",1017,473,33,16,4,9.0,blut_schwer_002.png
+sub-line,line 4 part 10,1057,473,20,16,für,1057,473,20,13,4,10.0,blut_schwer_002.png
+sub-line,line 4 part 11,1083,473,32,16,etwa,1083,475,32,11,4,11.0,blut_schwer_002.png
+sub-line,line 4 part 12,1122,473,7,16,5,1122,474,7,12,4,12.0,blut_schwer_002.png
+sub-line,line 4 part 13,1135,473,61,16,Minuten,1135,474,61,12,4,13.0,blut_schwer_002.png
+sub-line,line 4 part 14,1201,473,24,16,mit,1201,475,24,11,4,14.0,blut_schwer_002.png
+sub-line,line 4 part 15,1231,473,43,16,einem,1231,478,43,8,4,15.0,blut_schwer_002.png
+line,line 5,611,524,575,17,,611,524,575,17,5,,blut_schwer_002.png
+sub-line,line 5 part 1,611,524,48,17,Tupfer,611,524,48,17,5,1.0,blut_schwer_002.png
+sub-line,line 5 part 2,665,524,24,17,auf,665,524,24,13,5,2.0,blut_schwer_002.png
+sub-line,line 5 part 3,693,524,20,17,die,693,524,20,13,5,3.0,blut_schwer_002.png
+sub-line,line 5 part 4,719,524,101,17,"Einstichstelle,",719,524,101,16,5,4.0,blut_schwer_002.png
+sub-line,line 5 part 5,827,524,40,17,damit,827,524,40,13,5,5.0,blut_schwer_002.png
+sub-line,line 5 part 6,873,524,13,17,es,873,529,13,8,5,6.0,blut_schwer_002.png
+sub-line,line 5 part 7,892,524,36,17,nicht,892,524,36,13,5,7.0,blut_schwer_002.png
+sub-line,line 5 part 8,933,524,75,17,nachblutet,933,524,75,13,5,8.0,blut_schwer_002.png
+sub-line,line 5 part 9,1013,524,27,17,und,1013,524,27,13,5,9.0,blut_schwer_002.png
+sub-line,line 5 part 10,1046,524,28,17,sich,1046,524,28,13,5,10.0,blut_schwer_002.png
+sub-line,line 5 part 11,1079,524,71,17,möglichst,1079,524,71,17,5,11.0,blut_schwer_002.png
+sub-line,line 5 part 12,1155,524,31,17,kein,1155,524,31,13,5,12.0,blut_schwer_002.png
+line,line 6,610,575,126,17,,610,575,126,17,6,,blut_schwer_002.png
+sub-line,line 6 part 1,610,575,76,17,Bluterguss,610,575,76,17,6,1.0,blut_schwer_002.png
+sub-line,line 6 part 2,692,575,44,17,bildet.,692,575,44,13,6,2.0,blut_schwer_002.png
+line,line 7,610,626,690,17,,610,626,690,17,7,,blut_schwer_002.png
+sub-line,line 7 part 1,610,626,111,17,Venenpunktion,610,626,111,17,7,1.0,blut_schwer_002.png
+sub-line,line 7 part 2,726,626,27,17,und,726,626,27,13,7,2.0,blut_schwer_002.png
+sub-line,line 7 part 3,758,626,100,17,Blutentnahme,758,626,100,13,7,3.0,blut_schwer_002.png
+sub-line,line 7 part 4,865,626,29,17,sind,865,626,29,13,7,4.0,blut_schwer_002.png
+sub-line,line 7 part 5,899,626,105,17,normalerweise,899,626,105,13,7,5.0,blut_schwer_002.png
+sub-line,line 7 part 6,1010,626,44,17,wenig,1010,631,44,12,7,6.0,blut_schwer_002.png
+sub-line,line 7 part 7,1059,626,68,17,belastend,1059,626,68,13,7,7.0,blut_schwer_002.png
+sub-line,line 7 part 8,1132,626,27,17,und,1132,626,27,13,7,8.0,blut_schwer_002.png
+sub-line,line 7 part 9,1164,626,40,17,kaum,1164,626,40,13,7,9.0,blut_schwer_002.png
+sub-line,line 7 part 10,1210,626,90,17,schmerzhaft.,1210,626,90,13,7,10.0,blut_schwer_002.png
+line,line 8,610,677,607,17,,610,677,607,17,8,,blut_schwer_002.png
+sub-line,line 8 part 1,610,677,25,17,Bei,610,678,25,12,8,1.0,blut_schwer_002.png
+sub-line,line 8 part 2,641,677,58,17,schlecht,641,677,58,13,8,2.0,blut_schwer_002.png
+sub-line,line 8 part 3,705,677,73,17,sichtbaren,705,677,73,13,8,3.0,blut_schwer_002.png
+sub-line,line 8 part 4,783,677,88,17,Blutgefäßen,783,677,88,17,8,4.0,blut_schwer_002.png
+sub-line,line 8 part 5,877,677,16,17,ist,877,679,16,11,8,5.0,blut_schwer_002.png
+sub-line,line 8 part 6,899,677,13,17,es,899,682,13,8,8,6.0,blut_schwer_002.png
+sub-line,line 8 part 7,917,677,49,17,jedoch,917,677,49,17,8,7.0,blut_schwer_002.png
+sub-line,line 8 part 8,972,677,87,17,gelegentlich,972,677,87,17,8,8.0,blut_schwer_002.png
+sub-line,line 8 part 9,1065,677,88,17,"erforderlich,",1065,677,88,16,8,9.0,blut_schwer_002.png
+sub-line,line 8 part 10,1159,677,58,17,mehrere,1159,677,58,13,8,10.0,blut_schwer_002.png
+line,line 9,610,728,661,17,,610,728,661,17,9,,blut_schwer_002.png
+sub-line,line 9 part 1,610,728,82,17,Punktionen,610,728,82,13,9,1.0,blut_schwer_002.png
+sub-line,line 9 part 2,698,728,16,17,an,698,733,16,8,9,2.0,blut_schwer_002.png
+sub-line,line 9 part 3,719,728,103,17,verschiedenen,719,728,103,13,9,3.0,blut_schwer_002.png
+sub-line,line 9 part 4,827,728,88,17,Blutgefäßen,827,728,88,17,9,4.0,blut_schwer_002.png
+sub-line,line 9 part 5,920,728,102,17,"vorzunehmen,",920,728,102,16,9,5.0,blut_schwer_002.png
+sub-line,line 9 part 6,1028,728,23,17,um,1028,733,23,8,9,6.0,blut_schwer_002.png
+sub-line,line 9 part 7,1057,728,20,17,die,1057,728,20,13,9,7.0,blut_schwer_002.png
+sub-line,line 9 part 8,1083,728,44,17,nötige,1083,730,44,15,9,8.0,blut_schwer_002.png
+sub-line,line 9 part 9,1133,728,49,17,Menge,1133,729,49,16,9,9.0,blut_schwer_002.png
+sub-line,line 9 part 10,1188,728,31,17,Blut,1188,728,31,13,9,10.0,blut_schwer_002.png
+sub-line,line 9 part 11,1225,728,20,17,für,1225,728,20,13,9,11.0,blut_schwer_002.png
+sub-line,line 9 part 12,1251,728,20,17,die,1251,728,20,13,9,12.0,blut_schwer_002.png
+line,line 10,610,779,273,17,,610,779,273,17,10,,blut_schwer_002.png
+sub-line,line 10 part 1,610,779,101,17,Untersuchung,610,779,101,17,10,1.0,blut_schwer_002.png
+sub-line,line 10 part 2,717,779,18,17,im,717,784,18,8,10,2.0,blut_schwer_002.png
+sub-line,line 10 part 3,740,779,43,17,Labor,740,779,43,13,10,3.0,blut_schwer_002.png
+sub-line,line 10 part 4,788,779,17,17,zu,788,784,17,8,10,4.0,blut_schwer_002.png
+sub-line,line 10 part 5,811,779,72,17,gewinnen.,811,784,72,12,10,5.0,blut_schwer_002.png
+line,line 1,610,295,301,22,,610,295,301,22,1,,blut_schwer_003.png
+sub-line,line 1 part 1,610,295,86,22,Ergebnis,610,295,86,22,1,1.0,blut_schwer_003.png
+sub-line,line 1 part 2,703,295,30,22,der,703,295,30,17,1,2.0,blut_schwer_003.png
+sub-line,line 1 part 3,739,295,172,22,Blutuntersuchung,739,295,172,22,1,3.0,blut_schwer_003.png
+line,line 2,611,345,637,17,,611,345,637,17,2,,blut_schwer_003.png
+sub-line,line 2 part 1,611,345,40,17,Sollte,611,345,40,13,2,1.0,blut_schwer_003.png
+sub-line,line 2 part 2,658,345,21,17,ein,658,350,21,8,2,2.0,blut_schwer_003.png
+sub-line,line 2 part 3,685,345,90,17,Testergebnis,685,345,90,17,2,3.0,blut_schwer_003.png
+sub-line,line 2 part 4,782,345,60,17,auffällig,782,345,60,17,2,4.0,blut_schwer_003.png
+sub-line,line 2 part 5,848,345,32,17,"sein,",848,350,32,11,2,5.0,blut_schwer_003.png
+sub-line,line 2 part 6,886,345,33,17,wird,886,345,33,13,2,6.0,blut_schwer_003.png
+sub-line,line 2 part 7,925,345,22,17,der,925,345,22,13,2,7.0,blut_schwer_003.png
+sub-line,line 2 part 8,952,345,32,17,Arzt,952,346,32,12,2,8.0,blut_schwer_003.png
+sub-line,line 2 part 9,990,345,21,17,Sie,990,346,21,12,2,9.0,blut_schwer_003.png
+sub-line,line 2 part 10,1017,345,60,17,hierüber,1017,345,60,13,2,10.0,blut_schwer_003.png
+sub-line,line 2 part 11,1083,345,84,17,informieren,1083,345,84,13,2,11.0,blut_schwer_003.png
+sub-line,line 2 part 12,1172,345,27,17,und,1172,345,27,13,2,12.0,blut_schwer_003.png
+sub-line,line 2 part 13,1205,345,13,17,es,1205,350,13,8,2,13.0,blut_schwer_003.png
+sub-line,line 2 part 14,1224,345,24,17,mit,1224,347,24,11,2,14.0,blut_schwer_003.png
+line,line 3,610,396,130,17,,610,396,130,17,3,,blut_schwer_003.png
+sub-line,line 3 part 1,610,396,41,17,Ihnen,610,396,41,13,3,1.0,blut_schwer_003.png
+sub-line,line 3 part 2,656,396,84,17,besprechen.,656,396,84,17,3,2.0,blut_schwer_003.png
+line,line 4,611,447,663,17,,611,447,663,17,4,,blut_schwer_003.png
+sub-line,line 4 part 1,611,447,131,17,Selbstverständlich,611,447,131,13,4,1.0,blut_schwer_003.png
+sub-line,line 4 part 2,747,447,81,17,unterliegen,747,447,81,17,4,2.0,blut_schwer_003.png
+sub-line,line 4 part 3,834,447,24,17,alle,834,447,24,13,4,3.0,blut_schwer_003.png
+sub-line,line 4 part 4,864,447,188,17,"Untersuchungsergebnisse,",864,447,188,17,4,4.0,blut_schwer_003.png
+sub-line,line 4 part 5,1059,447,33,17,auch,1059,447,33,13,4,5.0,blut_schwer_003.png
+sub-line,line 4 part 6,1098,447,22,17,das,1098,447,22,13,4,6.0,blut_schwer_003.png
+sub-line,line 4 part 7,1126,447,63,17,Ergebnis,1126,447,63,17,4,7.0,blut_schwer_003.png
+sub-line,line 4 part 8,1196,447,35,17,eines,1196,452,35,8,4,8.0,blut_schwer_003.png
+sub-line,line 4 part 9,1237,447,37,17,HIV-,1237,448,37,12,4,9.0,blut_schwer_003.png
+line,line 5,611,498,614,17,,611,498,614,17,5,,blut_schwer_003.png
+sub-line,line 5 part 1,611,498,41,17,"Tests,",611,499,41,15,5,1.0,blut_schwer_003.png
+sub-line,line 5 part 2,659,498,22,17,der,659,498,22,13,5,2.0,blut_schwer_003.png
+sub-line,line 5 part 3,687,498,53,17,strikten,687,498,53,13,5,3.0,blut_schwer_003.png
+sub-line,line 5 part 4,746,498,116,17,Schweigepflicht,746,498,116,17,5,4.0,blut_schwer_003.png
+sub-line,line 5 part 5,868,498,22,17,des,868,498,22,13,5,5.0,blut_schwer_003.png
+sub-line,line 5 part 6,896,498,46,17,Arztes,896,499,46,12,5,6.0,blut_schwer_003.png
+sub-line,line 5 part 7,948,498,27,17,und,948,498,27,13,5,7.0,blut_schwer_003.png
+sub-line,line 5 part 8,981,498,42,17,seiner,981,503,42,8,5,8.0,blut_schwer_003.png
+sub-line,line 5 part 9,1028,498,84,17,Mitarbeiter.,1028,498,84,13,5,9.0,blut_schwer_003.png
+sub-line,line 5 part 10,1120,498,40,17,Sollte,1120,498,40,13,5,10.0,blut_schwer_003.png
+sub-line,line 5 part 11,1167,498,22,17,der,1167,498,22,13,5,11.0,blut_schwer_003.png
+sub-line,line 5 part 12,1195,498,30,17,Test,1195,499,30,12,5,12.0,blut_schwer_003.png
+line,line 6,611,549,644,17,,611,549,644,17,6,,blut_schwer_003.png
+sub-line,line 6 part 1,611,549,60,17,"ergeben,",611,549,60,17,6,1.0,blut_schwer_003.png
+sub-line,line 6 part 2,678,549,29,17,dass,678,549,29,13,6,2.0,blut_schwer_003.png
+sub-line,line 6 part 3,714,549,28,17,eine,714,554,28,8,6,3.0,blut_schwer_003.png
+sub-line,line 6 part 4,748,549,112,17,meldepflichtige,748,549,112,17,6,4.0,blut_schwer_003.png
+sub-line,line 6 part 5,866,549,66,17,Infektion,866,549,66,13,6,5.0,blut_schwer_003.png
+sub-line,line 6 part 6,937,549,60,17,"vorliegt,",937,549,60,17,6,6.0,blut_schwer_003.png
+sub-line,line 6 part 7,1003,549,36,17,muss,1003,554,36,8,6,7.0,blut_schwer_003.png
+sub-line,line 6 part 8,1046,549,22,17,der,1046,549,22,13,6,8.0,blut_schwer_003.png
+sub-line,line 6 part 9,1073,549,32,17,Arzt,1073,550,32,12,6,9.0,blut_schwer_003.png
+sub-line,line 6 part 10,1111,549,22,17,das,1111,549,22,13,6,10.0,blut_schwer_003.png
+sub-line,line 6 part 11,1140,549,115,17,Gesundheitsamt,1140,549,115,13,6,11.0,blut_schwer_003.png
+line,line 7,611,600,658,13,,611,600,658,13,7,,blut_schwer_003.png
+sub-line,line 7 part 1,611,600,40,13,sowie,611,605,40,8,7,1.0,blut_schwer_003.png
+sub-line,line 7 part 2,658,600,22,13,das,658,600,22,13,7,2.0,blut_schwer_003.png
+sub-line,line 7 part 3,686,600,151,13,Robert-Koch-Institut,686,600,151,13,7,3.0,blut_schwer_003.png
+sub-line,line 7 part 4,843,600,54,13,darüber,843,600,54,13,7,4.0,blut_schwer_003.png
+sub-line,line 7 part 5,903,600,87,13,informieren.,903,600,87,13,7,5.0,blut_schwer_003.png
+sub-line,line 7 part 6,997,600,27,13,Der,997,601,27,12,7,6.0,blut_schwer_003.png
+sub-line,line 7 part 7,1029,600,42,13,Name,1029,601,42,12,7,7.0,blut_schwer_003.png
+sub-line,line 7 part 8,1078,600,22,13,der,1078,600,22,13,7,8.0,blut_schwer_003.png
+sub-line,line 7 part 9,1106,600,73,13,infizierten,1106,600,73,13,7,9.0,blut_schwer_003.png
+sub-line,line 7 part 10,1184,600,49,13,Person,1184,601,49,12,7,10.0,blut_schwer_003.png
+sub-line,line 7 part 11,1239,600,30,13,darf,1239,600,30,13,7,11.0,blut_schwer_003.png
+line,line 8,610,651,686,17,,610,651,686,17,8,,blut_schwer_003.png
+sub-line,line 8 part 1,610,651,22,17,bei,610,651,22,13,8,1.0,blut_schwer_003.png
+sub-line,line 8 part 2,637,651,84,17,bestimmten,637,651,84,13,8,2.0,blut_schwer_003.png
+sub-line,line 8 part 3,726,651,83,17,Infektionen,726,651,83,13,8,3.0,blut_schwer_003.png
+sub-line,line 8 part 4,815,651,33,17,(z.B.,815,651,33,17,8,4.0,blut_schwer_003.png
+sub-line,line 8 part 5,856,651,35,17,einer,856,656,35,8,8,5.0,blut_schwer_003.png
+sub-line,line 8 part 6,896,651,109,17,HIV-Infektion),896,651,109,17,8,6.0,blut_schwer_003.png
+sub-line,line 8 part 7,1010,651,49,17,jedoch,1010,651,49,17,8,7.0,blut_schwer_003.png
+sub-line,line 8 part 8,1064,651,36,17,nicht,1064,651,36,13,8,8.0,blut_schwer_003.png
+sub-line,line 8 part 9,1106,651,56,17,genannt,1106,653,56,15,8,9.0,blut_schwer_003.png
+sub-line,line 8 part 10,1167,651,53,17,werden,1167,651,53,13,8,10.0,blut_schwer_003.png
+sub-line,line 8 part 11,1226,651,70,17,(anonyme,1226,651,70,17,8,11.0,blut_schwer_003.png
+line,line 9,610,702,102,17,,610,702,102,17,9,,blut_schwer_003.png
+sub-line,line 9 part 1,610,702,102,17,Meldepflicht).,610,702,102,17,9,1.0,blut_schwer_003.png
+line,line 10,610,753,632,17,,610,753,632,17,10,,blut_schwer_003.png
+sub-line,line 10 part 1,610,753,77,17,Manchmal,610,753,77,13,10,1.0,blut_schwer_003.png
+sub-line,line 10 part 2,692,753,53,17,können,692,753,53,13,10,2.0,blut_schwer_003.png
+sub-line,line 10 part 3,750,753,35,17,noch,750,753,35,13,10,3.0,blut_schwer_003.png
+sub-line,line 10 part 4,790,753,52,17,weitere,790,755,52,11,10,4.0,blut_schwer_003.png
+sub-line,line 10 part 5,848,753,110,17,Blutentnahmen,848,753,110,13,10,5.0,blut_schwer_003.png
+sub-line,line 10 part 6,964,753,84,17,erforderlich,964,753,84,13,10,6.0,blut_schwer_003.png
+sub-line,line 10 part 7,1054,753,32,17,"sein,",1054,758,32,11,10,7.0,blut_schwer_003.png
+sub-line,line 10 part 8,1092,753,31,17,zum,1092,758,31,8,10,8.0,blut_schwer_003.png
+sub-line,line 10 part 9,1128,753,59,17,Beispiel,1128,753,59,17,10,9.0,blut_schwer_003.png
+sub-line,line 10 part 10,1192,753,23,17,um,1192,758,23,8,10,10.0,blut_schwer_003.png
+sub-line,line 10 part 11,1221,753,21,17,ein,1221,758,21,8,10,11.0,blut_schwer_003.png
+line,line 11,611,804,537,17,,611,804,537,17,11,,blut_schwer_003.png
+sub-line,line 11 part 1,611,804,90,17,Testergebnis,611,804,90,17,11,1.0,blut_schwer_003.png
+sub-line,line 11 part 2,707,804,17,17,zu,707,809,17,8,11,2.0,blut_schwer_003.png
+sub-line,line 11 part 3,729,804,73,17,bestätigen,729,804,73,17,11,3.0,blut_schwer_003.png
+sub-line,line 11 part 4,808,804,31,17,oder,808,804,31,13,11,4.0,blut_schwer_003.png
+sub-line,line 11 part 5,844,804,23,17,um,844,809,23,8,11,5.0,blut_schwer_003.png
+sub-line,line 11 part 6,872,804,79,17,zusätzliche,872,804,79,13,11,6.0,blut_schwer_003.png
+sub-line,line 11 part 7,957,804,103,17,Informationen,957,804,103,13,11,7.0,blut_schwer_003.png
+sub-line,line 11 part 8,1065,804,17,17,zu,1065,809,17,8,11,8.0,blut_schwer_003.png
+sub-line,line 11 part 9,1088,804,60,17,erhalten.,1088,804,60,13,11,9.0,blut_schwer_003.png
+line,line 1,610,295,349,22,,610,295,349,22,1,,blut_schwer_004.png
+sub-line,line 1 part 1,610,295,23,22,Ist,610,296,23,16,1,1.0,blut_schwer_004.png
+sub-line,line 1 part 2,640,295,32,22,mit,640,295,32,17,1,2.0,blut_schwer_004.png
+sub-line,line 1 part 3,679,295,158,22,Komplikationen,679,295,158,22,1,3.0,blut_schwer_004.png
+sub-line,line 1 part 4,843,295,23,22,zu,843,301,23,11,1,4.0,blut_schwer_004.png
+sub-line,line 1 part 5,872,295,87,22,rechnen?,872,295,87,17,1,5.0,blut_schwer_004.png
+line,line 2,610,345,662,17,,610,345,662,17,2,,blut_schwer_004.png
+sub-line,line 2 part 1,610,345,20,17,Im,610,346,20,12,2,1.0,blut_schwer_004.png
+sub-line,line 2 part 2,635,345,93,17,Allgemeinen,635,345,93,17,2,2.0,blut_schwer_004.png
+sub-line,line 2 part 3,733,345,53,17,werden,733,345,53,13,2,3.0,blut_schwer_004.png
+sub-line,line 2 part 4,791,345,110,17,Blutentnahmen,791,345,110,13,2,4.0,blut_schwer_004.png
+sub-line,line 2 part 5,907,345,22,17,gut,907,347,22,15,2,5.0,blut_schwer_004.png
+sub-line,line 2 part 6,934,345,71,17,vertragen.,934,347,71,15,2,6.0,blut_schwer_004.png
+sub-line,line 2 part 7,1012,345,58,17,Etwaige,1012,346,58,16,2,7.0,blut_schwer_004.png
+sub-line,line 2 part 8,1076,345,99,17,unerwünschte,1076,345,99,13,2,8.0,blut_schwer_004.png
+sub-line,line 2 part 9,1181,345,50,17,Folgen,1181,345,50,17,2,9.0,blut_schwer_004.png
+sub-line,line 2 part 10,1237,345,35,17,einer,1237,350,35,8,2,10.0,blut_schwer_004.png
+line,line 3,610,396,664,17,,610,396,664,17,3,,blut_schwer_004.png
+sub-line,line 3 part 1,610,396,100,17,Blutentnahme,610,396,100,13,3,1.0,blut_schwer_004.png
+sub-line,line 3 part 2,717,396,29,17,sind,717,396,29,13,3,2.0,blut_schwer_004.png
+sub-line,line 3 part 3,752,396,13,17,in,752,401,13,8,3,3.0,blut_schwer_004.png
+sub-line,line 3 part 4,771,396,22,17,der,771,396,22,13,3,4.0,blut_schwer_004.png
+sub-line,line 3 part 5,798,396,42,17,Regel,798,396,42,17,3,5.0,blut_schwer_004.png
+sub-line,line 3 part 6,845,396,61,17,harmlos.,845,396,61,13,3,6.0,blut_schwer_004.png
+sub-line,line 3 part 7,914,396,21,17,Sie,914,397,21,12,3,7.0,blut_schwer_004.png
+sub-line,line 3 part 8,942,396,66,17,erfordern,942,396,66,13,3,8.0,blut_schwer_004.png
+sub-line,line 3 part 9,1013,396,39,17,meist,1013,398,39,11,3,9.0,blut_schwer_004.png
+sub-line,line 3 part 10,1057,396,38,17,keine,1057,396,38,13,3,10.0,blut_schwer_004.png
+sub-line,line 3 part 11,1101,396,87,17,Behandlung,1101,396,87,17,3,11.0,blut_schwer_004.png
+sub-line,line 3 part 12,1194,396,31,17,oder,1194,396,31,13,3,12.0,blut_schwer_004.png
+sub-line,line 3 part 13,1231,396,43,17,lassen,1231,396,43,13,3,13.0,blut_schwer_004.png
+line,line 4,611,447,138,17,,611,447,138,17,4,,blut_schwer_004.png
+sub-line,line 4 part 1,611,447,28,17,sich,611,447,28,13,4,1.0,blut_schwer_004.png
+sub-line,line 4 part 2,645,447,22,17,gut,645,449,22,15,4,2.0,blut_schwer_004.png
+sub-line,line 4 part 3,672,447,77,17,behandeln.,672,447,77,13,4,3.0,blut_schwer_004.png
+line,line 5,611,498,651,17,,611,498,651,17,5,,blut_schwer_004.png
+sub-line,line 5 part 1,611,498,38,17,Trotz,611,499,38,12,5,1.0,blut_schwer_004.png
+sub-line,line 5 part 2,655,498,31,17,aller,655,498,31,13,5,2.0,blut_schwer_004.png
+sub-line,line 5 part 3,692,498,57,17,Sorgfalt,692,498,57,17,5,3.0,blut_schwer_004.png
+sub-line,line 5 part 4,754,498,35,17,kann,754,498,35,13,5,4.0,blut_schwer_004.png
+sub-line,line 5 part 5,795,498,13,17,es,795,503,13,8,5,5.0,blut_schwer_004.png
+sub-line,line 5 part 6,815,498,60,17,dennoch,815,498,60,13,5,6.0,blut_schwer_004.png
+sub-line,line 5 part 7,880,498,17,17,zu,880,503,17,8,5,7.0,blut_schwer_004.png
+sub-line,line 5 part 8,903,498,40,17,- u.U.,903,499,40,12,5,8.0,blut_schwer_004.png
+sub-line,line 5 part 9,951,498,33,17,auch,951,498,33,13,5,9.0,blut_schwer_004.png
+sub-line,line 5 part 10,990,498,139,17,lebensbedrohlichen,990,498,139,13,5,10.0,blut_schwer_004.png
+sub-line,line 5 part 11,1135,498,127,17,- Komplikationen,1135,498,127,17,5,11.0,blut_schwer_004.png
+line,line 6,610,549,662,17,,610,549,662,17,6,,blut_schwer_004.png
+sub-line,line 6 part 1,610,549,67,17,"kommen,",610,549,67,16,6,1.0,blut_schwer_004.png
+sub-line,line 6 part 2,684,549,20,17,die,684,549,20,13,6,2.0,blut_schwer_004.png
+sub-line,line 6 part 3,710,549,52,17,weitere,710,551,52,11,6,3.0,blut_schwer_004.png
+sub-line,line 6 part 4,768,549,182,17,Behandlungsmaßnahmen,768,549,182,17,6,4.0,blut_schwer_004.png
+sub-line,line 6 part 5,956,549,69,17,erfordern.,956,549,69,13,6,5.0,blut_schwer_004.png
+sub-line,line 6 part 6,1032,549,32,17,Dies,1032,550,32,12,6,6.0,blut_schwer_004.png
+sub-line,line 6 part 7,1071,549,16,17,ist,1071,551,16,11,6,7.0,blut_schwer_004.png
+sub-line,line 6 part 8,1092,549,34,17,nach,1092,549,34,13,6,8.0,blut_schwer_004.png
+sub-line,line 6 part 9,1132,549,35,17,einer,1132,554,35,8,6,9.0,blut_schwer_004.png
+sub-line,line 6 part 10,1172,549,100,17,Blutentnahme,1172,549,100,13,6,10.0,blut_schwer_004.png
+line,line 7,609,600,154,17,,609,600,154,17,7,,blut_schwer_004.png
+sub-line,line 7 part 1,609,600,49,17,jedoch,609,600,49,17,7,1.0,blut_schwer_004.png
+sub-line,line 7 part 2,664,600,49,17,extrem,664,602,49,11,7,2.0,blut_schwer_004.png
+sub-line,line 7 part 3,719,600,44,17,selten.,719,600,44,13,7,3.0,blut_schwer_004.png
+line,line 8,610,651,653,17,,610,651,653,17,8,,blut_schwer_004.png
+sub-line,line 8 part 1,610,651,25,17,Die,610,652,25,12,8,1.0,blut_schwer_004.png
+sub-line,line 8 part 2,641,651,144,17,Häufigkeitsangaben,641,651,144,17,8,2.0,blut_schwer_004.png
+sub-line,line 8 part 3,791,651,29,17,sind,791,651,29,13,8,3.0,blut_schwer_004.png
+sub-line,line 8 part 4,826,651,28,17,eine,826,656,28,8,8,4.0,blut_schwer_004.png
+sub-line,line 8 part 5,861,651,77,17,allgemeine,861,651,77,17,8,5.0,blut_schwer_004.png
+sub-line,line 8 part 6,944,651,97,17,Einschätzung,944,651,97,17,8,6.0,blut_schwer_004.png
+sub-line,line 8 part 7,1046,651,27,17,und,1046,651,27,13,8,7.0,blut_schwer_004.png
+sub-line,line 8 part 8,1079,651,42,17,sollen,1079,651,42,13,8,8.0,blut_schwer_004.png
+sub-line,line 8 part 9,1126,651,49,17,"helfen,",1126,651,49,16,8,9.0,blut_schwer_004.png
+sub-line,line 8 part 10,1182,651,20,17,die,1182,651,20,13,8,10.0,blut_schwer_004.png
+sub-line,line 8 part 11,1208,651,55,17,Risiken,1208,651,55,13,8,11.0,blut_schwer_004.png
+line,line 9,610,702,567,17,,610,702,567,17,9,,blut_schwer_004.png
+sub-line,line 9 part 1,610,702,99,17,untereinander,610,702,99,13,9,1.0,blut_schwer_004.png
+sub-line,line 9 part 2,714,702,17,17,zu,714,707,17,8,9,2.0,blut_schwer_004.png
+sub-line,line 9 part 3,737,702,76,17,gewichten.,737,702,76,17,9,3.0,blut_schwer_004.png
+sub-line,line 9 part 4,821,702,21,17,Sie,821,703,21,12,9,4.0,blut_schwer_004.png
+sub-line,line 9 part 5,849,702,85,17,entsprechen,849,702,85,17,9,5.0,blut_schwer_004.png
+sub-line,line 9 part 6,939,702,36,17,nicht,939,702,36,13,9,6.0,blut_schwer_004.png
+sub-line,line 9 part 7,981,702,25,17,den,981,702,25,13,9,7.0,blut_schwer_004.png
+sub-line,line 9 part 8,1011,702,91,17,Definitionen,1011,702,91,13,9,8.0,blut_schwer_004.png
+sub-line,line 9 part 9,1107,702,70,17,bezüglich,1107,702,70,17,9,9.0,blut_schwer_004.png
+line,line 10,610,753,690,17,,610,753,690,17,10,,blut_schwer_004.png
+sub-line,line 10 part 1,610,753,124,17,Nebenwirkungen,610,753,124,17,10,1.0,blut_schwer_004.png
+sub-line,line 10 part 2,740,753,13,17,in,740,758,13,8,10,2.0,blut_schwer_004.png
+sub-line,line 10 part 3,759,753,25,17,den,759,753,25,13,10,3.0,blut_schwer_004.png
+sub-line,line 10 part 4,789,753,107,17,Beipackzetteln,789,753,107,17,10,4.0,blut_schwer_004.png
+sub-line,line 10 part 5,901,753,27,17,von,901,758,27,8,10,5.0,blut_schwer_004.png
+sub-line,line 10 part 6,933,753,111,17,Medikamenten.,933,753,111,13,10,6.0,blut_schwer_004.png
+sub-line,line 10 part 7,1051,753,127,17,Vorerkrankungen,1051,753,127,17,10,7.0,blut_schwer_004.png
+sub-line,line 10 part 8,1183,753,27,17,und,1183,753,27,13,10,8.0,blut_schwer_004.png
+sub-line,line 10 part 9,1216,753,84,17,individuelle,1216,753,84,13,10,9.0,blut_schwer_004.png
+line,line 11,610,804,630,17,,610,804,630,17,11,,blut_schwer_004.png
+sub-line,line 11 part 1,610,804,112,17,Besonderheiten,610,804,112,13,11,1.0,blut_schwer_004.png
+sub-line,line 11 part 2,727,804,53,17,können,727,804,53,13,11,2.0,blut_schwer_004.png
+sub-line,line 11 part 3,786,804,20,17,die,786,804,20,13,11,3.0,blut_schwer_004.png
+sub-line,line 11 part 4,812,804,94,17,Häufigkeiten,812,804,94,17,11,4.0,blut_schwer_004.png
+sub-line,line 11 part 5,911,804,27,17,von,911,809,27,8,11,5.0,blut_schwer_004.png
+sub-line,line 11 part 6,943,804,117,17,Komplikationen,943,804,117,17,11,6.0,blut_schwer_004.png
+sub-line,line 11 part 7,1065,804,77,17,wesentlich,1065,804,77,13,11,7.0,blut_schwer_004.png
+sub-line,line 11 part 8,1147,804,93,17,beeinflussen.,1147,804,93,13,11,8.0,blut_schwer_004.png
+line,line 1,631,269,631,17,,631,269,631,17,1,,blut_schwer_005.png
+sub-line,line 1 part 1,631,269,138,17,- Blutergiisse/blaue,631,269,138,17,1,1.0,blut_schwer_005.png
+sub-line,line 1 part 2,775,269,57,17,Flecken,775,269,57,13,1,2.0,blut_schwer_005.png
+sub-line,line 1 part 3,837,269,27,17,und,837,269,27,13,1,3.0,blut_schwer_005.png
+sub-line,line 1 part 4,869,269,110,17,Nachblutungen,869,269,110,17,1,4.0,blut_schwer_005.png
+sub-line,line 1 part 5,984,269,53,17,können,984,269,53,13,1,5.0,blut_schwer_005.png
+sub-line,line 1 part 6,1043,269,16,17,an,1043,274,16,8,1,6.0,blut_schwer_005.png
+sub-line,line 1 part 7,1065,269,22,17,der,1065,269,22,13,1,7.0,blut_schwer_005.png
+sub-line,line 1 part 8,1092,269,96,17,Einstichstelle,1092,269,96,13,1,8.0,blut_schwer_005.png
+sub-line,line 1 part 9,1195,269,67,17,"auftreten,",1195,269,67,16,1,9.0,blut_schwer_005.png
+line,line 2,645,320,676,17,,645,320,676,17,2,,blut_schwer_005.png
+sub-line,line 2 part 1,645,320,25,17,v.a.,645,325,25,8,2,1.0,blut_schwer_005.png
+sub-line,line 2 part 2,677,320,22,17,bei,677,320,22,13,2,2.0,blut_schwer_005.png
+sub-line,line 2 part 3,704,320,72,17,Einnahme,704,320,72,13,2,3.0,blut_schwer_005.png
+sub-line,line 2 part 4,782,320,27,17,von,782,325,27,8,2,4.0,blut_schwer_005.png
+sub-line,line 2 part 5,814,320,196,17,blutgerinnungshemmenden,814,320,196,17,2,5.0,blut_schwer_005.png
+sub-line,line 2 part 6,1015,320,56,17,Mitteln.,1015,320,56,13,2,6.0,blut_schwer_005.png
+sub-line,line 2 part 7,1078,320,41,17,Unter,1078,321,41,12,2,7.0,blut_schwer_005.png
+sub-line,line 2 part 8,1124,320,82,17,Umständen,1124,320,82,13,2,8.0,blut_schwer_005.png
+sub-line,line 2 part 9,1211,320,51,17,kommt,1211,320,51,13,2,9.0,blut_schwer_005.png
+sub-line,line 2 part 10,1268,320,13,17,es,1268,325,13,8,2,10.0,blut_schwer_005.png
+sub-line,line 2 part 11,1288,320,33,17,auch,1288,320,33,13,2,11.0,blut_schwer_005.png
+line,line 3,646,371,558,17,,646,371,558,17,3,,blut_schwer_005.png
+sub-line,line 3 part 1,646,371,48,17,einmal,646,371,48,13,3,1.0,blut_schwer_005.png
+sub-line,line 3 part 2,699,371,17,17,zu,699,376,17,8,3,2.0,blut_schwer_005.png
+sub-line,line 3 part 3,722,371,35,17,einer,722,376,35,8,3,3.0,blut_schwer_005.png
+sub-line,line 3 part 4,763,371,84,17,Schwellung,763,371,84,17,3,4.0,blut_schwer_005.png
+sub-line,line 3 part 5,852,371,27,17,und,852,371,27,13,3,5.0,blut_schwer_005.png
+sub-line,line 3 part 6,884,371,90,17,Blaufärbung,884,371,90,17,3,6.0,blut_schwer_005.png
+sub-line,line 3 part 7,980,371,22,17,des,980,371,22,13,3,7.0,blut_schwer_005.png
+sub-line,line 3 part 8,1009,371,67,17,gesamten,1009,373,67,15,3,8.0,blut_schwer_005.png
+sub-line,line 3 part 9,1081,371,76,17,Armes/der,1081,371,76,13,3,9.0,blut_schwer_005.png
+sub-line,line 3 part 10,1162,371,42,17,Hand.,1162,371,42,13,3,10.0,blut_schwer_005.png
+line,line 4,631,422,655,17,,631,422,655,17,4,,blut_schwer_005.png
+sub-line,line 4 part 1,631,422,244,17,"- Venenreizungen/-entzündungen,",631,422,244,17,4,1.0,blut_schwer_005.png
+sub-line,line 4 part 2,881,422,83,17,Infektionen,881,422,83,13,4,2.0,blut_schwer_005.png
+sub-line,line 4 part 3,970,422,35,17,(u.U.,970,422,35,17,4,3.0,blut_schwer_005.png
+sub-line,line 4 part 4,1012,422,24,17,mit,1012,424,24,11,4,4.0,blut_schwer_005.png
+sub-line,line 4 part 5,1041,422,119,17,Abszessbildung),1041,422,119,17,4,5.0,blut_schwer_005.png
+sub-line,line 4 part 6,1167,422,40,17,sowie,1167,427,40,8,4,6.0,blut_schwer_005.png
+sub-line,line 4 part 7,1213,422,40,17,Haut-,1213,423,40,12,4,7.0,blut_schwer_005.png
+sub-line,line 4 part 8,1259,422,27,17,und,1259,422,27,13,4,8.0,blut_schwer_005.png
+line,line 5,645,473,606,17,,645,473,606,17,5,,blut_schwer_005.png
+sub-line,line 5 part 1,645,473,128,17,Weichteilschäden,645,473,128,13,5,1.0,blut_schwer_005.png
+sub-line,line 5 part 2,779,473,33,17,(z.B.,779,473,33,17,5,2.0,blut_schwer_005.png
+sub-line,line 5 part 3,819,473,74,17,Absterben,819,473,74,13,5,3.0,blut_schwer_005.png
+sub-line,line 5 part 4,898,473,27,17,von,898,478,27,8,5,4.0,blut_schwer_005.png
+sub-line,line 5 part 5,931,473,62,17,"Gewebe,",931,473,62,16,5,5.0,blut_schwer_005.png
+sub-line,line 5 part 6,999,473,58,17,Narben),999,473,58,17,5,6.0,blut_schwer_005.png
+sub-line,line 5 part 7,1063,473,63,17,kommen,1063,473,63,13,5,7.0,blut_schwer_005.png
+sub-line,line 5 part 8,1132,473,87,17,gelegentlich,1132,473,87,17,5,8.0,blut_schwer_005.png
+sub-line,line 5 part 9,1224,473,27,17,vor.,1224,478,27,8,5,9.0,blut_schwer_005.png
+line,line 6,631,524,641,17,,631,524,641,17,6,,blut_schwer_005.png
+sub-line,line 6 part 1,631,524,188,17,- Durchblutungsstörungen,631,524,188,17,6,1.0,blut_schwer_005.png
+sub-line,line 6 part 2,824,524,27,17,und,824,524,27,13,6,2.0,blut_schwer_005.png
+sub-line,line 6 part 3,856,524,152,17,Nervenschädigungen,856,524,152,17,6,3.0,blut_schwer_005.png
+sub-line,line 6 part 4,1014,524,29,17,sind,1014,524,29,13,6,4.0,blut_schwer_005.png
+sub-line,line 6 part 5,1049,524,13,17,in,1049,529,13,8,6,5.0,blut_schwer_005.png
+sub-line,line 6 part 6,1068,524,58,17,seltenen,1068,524,58,13,6,6.0,blut_schwer_005.png
+sub-line,line 6 part 7,1131,524,45,17,Fällen,1131,524,45,13,6,7.0,blut_schwer_005.png
+sub-line,line 6 part 8,1181,524,62,17,möglich.,1181,524,62,17,6,8.0,blut_schwer_005.png
+sub-line,line 6 part 9,1251,524,21,17,Sie,1251,525,21,12,6,9.0,blut_schwer_005.png
+line,line 7,645,575,598,17,,645,575,598,17,7,,blut_schwer_005.png
+sub-line,line 7 part 1,645,575,53,17,können,645,575,53,13,7,1.0,blut_schwer_005.png
+sub-line,line 7 part 2,703,575,115,17,vorübergehende,703,575,115,17,7,2.0,blut_schwer_005.png
+sub-line,line 7 part 3,824,575,97,17,Beschwerden,824,575,97,13,7,3.0,blut_schwer_005.png
+sub-line,line 7 part 4,926,575,25,17,wie,926,580,25,8,7,4.0,blut_schwer_005.png
+sub-line,line 7 part 5,957,575,28,17,z.B.,957,576,28,12,7,5.0,blut_schwer_005.png
+sub-line,line 7 part 6,992,575,139,17,Missempfindungen,992,575,139,17,7,6.0,blut_schwer_005.png
+sub-line,line 7 part 7,1137,575,69,17,(Kribbeln,1137,575,69,17,7,7.0,blut_schwer_005.png
+sub-line,line 7 part 8,1212,575,31,17,oder,1212,575,31,13,7,8.0,blut_schwer_005.png
+line,line 8,646,626,704,17,,646,626,704,17,8,,blut_schwer_005.png
+sub-line,line 8 part 1,646,626,126,17,"Taubheitsgefühl),",646,626,126,17,8,1.0,blut_schwer_005.png
+sub-line,line 8 part 2,779,626,79,17,Schmerzen,779,626,79,13,8,2.0,blut_schwer_005.png
+sub-line,line 8 part 3,863,626,27,17,und,863,626,27,13,8,3.0,blut_schwer_005.png
+sub-line,line 8 part 4,895,626,206,17,Bewegungseinschränkungen,895,626,206,17,8,4.0,blut_schwer_005.png
+sub-line,line 8 part 5,1107,626,22,17,des,1107,626,22,13,8,5.0,blut_schwer_005.png
+sub-line,line 8 part 6,1135,626,76,17,Armes/der,1135,626,76,13,8,6.0,blut_schwer_005.png
+sub-line,line 8 part 7,1216,626,39,17,Hand,1216,626,39,13,8,7.0,blut_schwer_005.png
+sub-line,line 8 part 8,1260,626,90,17,verursachen.,1260,626,90,13,8,8.0,blut_schwer_005.png
+line,line 9,645,677,707,17,,645,677,707,17,9,,blut_schwer_005.png
+sub-line,line 9 part 1,645,677,79,17,Dauerhafte,645,677,79,13,9,1.0,blut_schwer_005.png
+sub-line,line 9 part 2,730,677,101,17,"Beschwerden,",730,677,101,16,9,2.0,blut_schwer_005.png
+sub-line,line 9 part 3,837,677,69,17,bleibende,837,677,69,13,9,3.0,blut_schwer_005.png
+sub-line,line 9 part 4,912,677,86,17,Lähmungen,912,677,86,17,9,4.0,blut_schwer_005.png
+sub-line,line 9 part 5,1004,677,22,17,des,1004,677,22,13,9,5.0,blut_schwer_005.png
+sub-line,line 9 part 6,1032,677,76,17,Armes/der,1032,677,76,13,9,6.0,blut_schwer_005.png
+sub-line,line 9 part 7,1113,677,39,17,Hand,1113,677,39,13,9,7.0,blut_schwer_005.png
+sub-line,line 9 part 8,1157,677,27,17,und,1157,677,27,13,9,8.0,blut_schwer_005.png
+sub-line,line 9 part 9,1190,677,76,17,chronische,1190,677,76,13,9,9.0,blut_schwer_005.png
+sub-line,line 9 part 10,1273,677,79,17,Schmerzen,1273,677,79,13,9,10.0,blut_schwer_005.png
+line,line 10,646,728,114,13,,646,728,114,13,10,,blut_schwer_005.png
+sub-line,line 10 part 1,646,728,29,13,sind,646,728,29,13,10,1.0,blut_schwer_005.png
+sub-line,line 10 part 2,681,728,29,13,sehr,681,728,29,13,10,2.0,blut_schwer_005.png
+sub-line,line 10 part 3,716,728,44,13,selten.,716,728,44,13,10,3.0,blut_schwer_005.png
+line,line 11,631,779,599,17,,631,779,599,17,11,,blut_schwer_005.png
+sub-line,line 11 part 1,631,779,43,17,- Sehr,631,779,43,13,11,1.0,blut_schwer_005.png
+sub-line,line 11 part 2,680,779,41,17,selten,680,779,41,13,11,2.0,blut_schwer_005.png
+sub-line,line 11 part 3,726,779,33,17,wird,726,779,33,13,11,3.0,blut_schwer_005.png
+sub-line,line 11 part 4,764,779,96,17,verschentlich,764,779,96,13,11,4.0,blut_schwer_005.png
+sub-line,line 11 part 5,866,779,28,17,eine,866,784,28,8,11,5.0,blut_schwer_005.png
+sub-line,line 11 part 6,900,779,50,17,Arterie,900,780,50,12,11,6.0,blut_schwer_005.png
+sub-line,line 11 part 7,957,779,29,17,statt,957,781,29,11,11,7.0,blut_schwer_005.png
+sub-line,line 11 part 8,992,779,35,17,einer,992,784,35,8,11,8.0,blut_schwer_005.png
+sub-line,line 11 part 9,1032,779,37,17,Vene,1032,780,37,12,11,9.0,blut_schwer_005.png
+sub-line,line 11 part 10,1075,779,68,17,punktiert.,1075,779,68,17,11,10.0,blut_schwer_005.png
+sub-line,line 11 part 11,1150,779,39,17,Dann,1150,780,39,12,11,11.0,blut_schwer_005.png
+sub-line,line 11 part 12,1194,779,36,17,muss,1194,784,36,8,11,12.0,blut_schwer_005.png
+line,line 12,646,830,374,17,,646,830,374,17,12,,blut_schwer_005.png
+sub-line,line 12 part 1,646,830,20,17,für,646,830,20,13,12,1.0,blut_schwer_005.png
+sub-line,line 12 part 2,672,830,51,17,längere,672,830,51,17,12,2.0,blut_schwer_005.png
+sub-line,line 12 part 3,729,830,29,17,Zeit,729,831,29,12,12,3.0,blut_schwer_005.png
+sub-line,line 12 part 4,764,830,21,17,ein,764,835,21,8,12,4.0,blut_schwer_005.png
+sub-line,line 12 part 5,790,830,103,17,Druckverband,790,830,103,13,12,5.0,blut_schwer_005.png
+sub-line,line 12 part 6,899,830,60,17,angelegt,899,830,60,17,12,6.0,blut_schwer_005.png
+sub-line,line 12 part 7,964,830,56,17,werden.,964,830,56,13,12,7.0,blut_schwer_005.png
+line,line 1,631,473,598,17,,631,473,598,17,1,,blut_schwer_006.png
+sub-line,line 1 part 1,631,473,157,17,- Thrombose/Embolie:,631,473,157,13,1,1.0,blut_schwer_006.png
+sub-line,line 1 part 2,799,473,25,17,Die,799,474,25,12,1,2.0,blut_schwer_006.png
+sub-line,line 1 part 3,830,473,111,17,Venenpunktion,830,473,111,17,1,3.0,blut_schwer_006.png
+sub-line,line 1 part 4,946,473,35,17,kann,946,473,35,13,1,4.0,blut_schwer_006.png
+sub-line,line 1 part 5,987,473,22,17,das,987,473,22,13,1,5.0,blut_schwer_006.png
+sub-line,line 1 part 6,1015,473,46,17,Risiko,1015,473,46,13,1,6.0,blut_schwer_006.png
+sub-line,line 1 part 7,1067,473,91,17,"begünstigen,",1067,473,91,17,1,7.0,blut_schwer_006.png
+sub-line,line 1 part 8,1165,473,29,17,dass,1165,473,29,13,1,8.0,blut_schwer_006.png
+sub-line,line 1 part 9,1201,473,28,17,sich,1201,473,28,13,1,9.0,blut_schwer_006.png
+line,line 2,645,524,665,17,,645,524,665,17,2,,blut_schwer_006.png
+sub-line,line 2 part 1,645,524,97,17,Blutgerinnsel,645,524,97,17,2,1.0,blut_schwer_006.png
+sub-line,line 2 part 2,747,524,49,17,"bilden,",747,524,49,16,2,2.0,blut_schwer_006.png
+sub-line,line 2 part 3,803,524,20,17,die,803,524,20,13,2,3.0,blut_schwer_006.png
+sub-line,line 2 part 4,830,524,20,17,die,830,524,20,13,2,4.0,blut_schwer_006.png
+sub-line,line 2 part 5,856,524,72,17,punktierte,856,524,72,17,2,5.0,blut_schwer_006.png
+sub-line,line 2 part 6,934,524,37,17,Vene,934,525,37,12,2,6.0,blut_schwer_006.png
+sub-line,line 2 part 7,977,524,91,17,verschlieBen,977,524,91,13,2,7.0,blut_schwer_006.png
+sub-line,line 2 part 8,1074,524,31,17,oder,1074,524,31,13,2,8.0,blut_schwer_006.png
+sub-line,line 2 part 9,1110,524,83,17,verschleppt,1110,524,83,17,2,9.0,blut_schwer_006.png
+sub-line,line 2 part 10,1198,524,53,17,werden,1198,524,53,13,2,10.0,blut_schwer_006.png
+sub-line,line 2 part 11,1256,524,27,17,und,1256,524,27,13,2,11.0,blut_schwer_006.png
+sub-line,line 2 part 12,1289,524,21,17,ein,1289,529,21,8,2,12.0,blut_schwer_006.png
+line,line 3,646,573,673,19,,646,573,673,19,3,,blut_schwer_006.png
+sub-line,line 3 part 1,646,573,53,19,anderes,646,575,53,13,3,1.0,blut_schwer_006.png
+sub-line,line 3 part 2,705,573,70,19,Blutgefäß,705,575,70,17,3,2.0,blut_schwer_006.png
+sub-line,line 3 part 3,781,573,94,19,verschließen.,781,575,94,13,3,3.0,blut_schwer_006.png
+sub-line,line 3 part 4,882,573,32,19,Dies,882,576,32,12,3,4.0,blut_schwer_006.png
+sub-line,line 3 part 5,920,573,35,19,kann,920,575,35,13,3,5.0,blut_schwer_006.png
+sub-line,line 3 part 6,961,573,28,19,eine,961,580,28,8,3,6.0,blut_schwer_006.png
+sub-line,line 3 part 7,995,573,145,19,Wasseransammlung,995,575,145,17,3,7.0,blut_schwer_006.png
+sub-line,line 3 part 8,1146,573,18,19,im,1146,580,18,8,3,8.0,blut_schwer_006.png
+sub-line,line 3 part 9,1169,573,33,19,Arm,1169,576,33,12,3,9.0,blut_schwer_006.png
+sub-line,line 3 part 10,1208,573,54,19,(Odem),1208,573,54,19,3,10.0,blut_schwer_006.png
+sub-line,line 3 part 11,1268,573,27,19,und,1268,575,27,13,3,11.0,blut_schwer_006.png
+sub-line,line 3 part 12,1301,573,18,19,im,1301,580,18,8,3,12.0,blut_schwer_006.png
+line,line 4,646,626,371,17,,646,626,371,17,4,,blut_schwer_006.png
+sub-line,line 4 part 1,646,626,90,17,schlimmsten,646,626,90,13,4,1.0,blut_schwer_006.png
+sub-line,line 4 part 2,741,626,28,17,Fall,741,626,28,13,4,2.0,blut_schwer_006.png
+sub-line,line 4 part 3,775,626,28,17,eine,775,631,28,8,4,3.0,blut_schwer_006.png
+sub-line,line 4 part 4,809,626,112,17,Lungenembolie,809,626,112,17,4,4.0,blut_schwer_006.png
+sub-line,line 4 part 5,927,626,90,17,verursachen.,927,626,90,13,4,5.0,blut_schwer_006.png
+line,line 1,631,294,623,17,,631,294,623,17,1,,blut_schwer_007.png
+sub-line,line 1 part 1,631,294,102,17,- Gelegentlich,631,294,102,17,1,1.0,blut_schwer_007.png
+sub-line,line 1 part 2,738,294,26,17,tritt,738,296,26,11,1,2.0,blut_schwer_007.png
+sub-line,line 1 part 3,770,294,28,17,eine,770,299,28,8,1,3.0,blut_schwer_007.png
+sub-line,line 1 part 4,804,294,136,17,Kreislaufschwäche,804,294,136,13,1,4.0,blut_schwer_007.png
+sub-line,line 1 part 5,946,294,24,17,mit,946,296,24,11,1,5.0,blut_schwer_007.png
+sub-line,line 1 part 6,976,294,75,17,Schwindel,976,294,75,13,1,6.0,blut_schwer_007.png
+sub-line,line 1 part 7,1056,294,27,17,und,1056,294,27,13,1,7.0,blut_schwer_007.png
+sub-line,line 1 part 8,1088,294,62,17,Übelkeit,1088,294,62,13,1,8.0,blut_schwer_007.png
+sub-line,line 1 part 9,1155,294,62,17,während,1155,294,62,13,1,9.0,blut_schwer_007.png
+sub-line,line 1 part 10,1223,294,31,17,oder,1223,294,31,13,1,10.0,blut_schwer_007.png
+line,line 2,645,345,627,17,,645,345,627,17,2,,blut_schwer_007.png
+sub-line,line 2 part 1,645,345,32,17,kurz,645,345,32,13,2,1.0,blut_schwer_007.png
+sub-line,line 2 part 2,682,345,34,17,nach,682,345,34,13,2,2.0,blut_schwer_007.png
+sub-line,line 2 part 3,722,345,35,17,einer,722,350,35,8,2,3.0,blut_schwer_007.png
+sub-line,line 2 part 4,762,345,100,17,Blutentnahme,762,345,100,13,2,4.0,blut_schwer_007.png
+sub-line,line 2 part 5,869,345,24,17,auf,869,345,24,13,2,5.0,blut_schwer_007.png
+sub-line,line 2 part 6,897,345,29,17,(vor,897,345,29,17,2,6.0,blut_schwer_007.png
+sub-line,line 2 part 7,932,345,39,17,allem,932,345,39,13,2,7.0,blut_schwer_007.png
+sub-line,line 2 part 8,976,345,22,17,bei,976,345,22,13,2,8.0,blut_schwer_007.png
+sub-line,line 2 part 9,1003,345,66,17,Personen,1003,346,66,12,2,9.0,blut_schwer_007.png
+sub-line,line 2 part 10,1074,345,24,17,mit,1074,347,24,11,2,10.0,blut_schwer_007.png
+sub-line,line 2 part 11,1104,345,53,17,labilem,1104,345,53,13,2,11.0,blut_schwer_007.png
+sub-line,line 2 part 12,1163,345,31,17,oder,1163,345,31,13,2,12.0,blut_schwer_007.png
+sub-line,line 2 part 13,1199,345,73,17,niedrigem,1199,345,73,17,2,13.0,blut_schwer_007.png
+line,line 3,645,396,678,17,,645,396,678,17,3,,blut_schwer_007.png
+sub-line,line 3 part 1,645,396,81,17,Blutdruck).,645,396,81,17,3,1.0,blut_schwer_007.png
+sub-line,line 3 part 2,733,396,40,17,Diese,733,397,40,12,3,2.0,blut_schwer_007.png
+sub-line,line 3 part 3,779,396,82,17,Reaktionen,779,396,82,13,3,3.0,blut_schwer_007.png
+sub-line,line 3 part 4,867,396,29,17,sind,867,396,29,13,3,4.0,blut_schwer_007.png
+sub-line,line 3 part 5,902,396,38,17,i.d.R.,902,396,38,13,3,5.0,blut_schwer_007.png
+sub-line,line 3 part 6,947,396,57,17,harmlos,947,396,57,13,3,6.0,blut_schwer_007.png
+sub-line,line 3 part 7,1010,396,27,17,und,1010,396,27,13,3,7.0,blut_schwer_007.png
+sub-line,line 3 part 8,1042,396,100,17,verschwinden,1042,396,100,13,3,8.0,blut_schwer_007.png
+sub-line,line 3 part 9,1147,396,34,17,nach,1147,396,34,13,3,9.0,blut_schwer_007.png
+sub-line,line 3 part 10,1186,396,46,17,kurzer,1186,396,46,13,3,10.0,blut_schwer_007.png
+sub-line,line 3 part 11,1237,396,29,17,Zeit,1237,397,29,12,3,11.0,blut_schwer_007.png
+sub-line,line 3 part 12,1271,396,52,17,wieder.,1271,396,52,13,3,12.0,blut_schwer_007.png
+line,line 4,646,447,552,17,,646,447,552,17,4,,blut_schwer_007.png
+sub-line,line 4 part 1,646,447,32,17,Sehr,646,447,32,13,4,1.0,blut_schwer_007.png
+sub-line,line 4 part 2,684,447,41,17,selten,684,447,41,13,4,2.0,blut_schwer_007.png
+sub-line,line 4 part 3,730,447,35,17,kann,730,447,35,13,4,3.0,blut_schwer_007.png
+sub-line,line 4 part 4,771,447,13,17,es,771,452,13,8,4,4.0,blut_schwer_007.png
+sub-line,line 4 part 5,790,447,72,17,kurzzeitig,790,447,72,17,4,5.0,blut_schwer_007.png
+sub-line,line 4 part 6,867,447,17,17,zu,867,452,17,8,4,6.0,blut_schwer_007.png
+sub-line,line 4 part 7,890,447,43,17,einem,890,452,43,8,4,7.0,blut_schwer_007.png
+sub-line,line 4 part 8,939,447,51,17,starken,939,447,51,13,4,8.0,blut_schwer_007.png
+sub-line,line 4 part 9,995,447,113,17,Blutdruckabfall,995,447,113,13,4,9.0,blut_schwer_007.png
+sub-line,line 4 part 10,1113,447,20,17,bis,1113,447,20,13,4,10.0,blut_schwer_007.png
+sub-line,line 4 part 11,1139,447,23,17,hin,1139,447,23,13,4,11.0,blut_schwer_007.png
+sub-line,line 4 part 12,1167,447,31,17,zum,1167,452,31,8,4,12.0,blut_schwer_007.png
+line,line 5,645,498,647,17,,645,498,647,17,5,,blut_schwer_007.png
+sub-line,line 5 part 1,645,498,118,17,Kreislaufkollaps,645,498,118,17,5,1.0,blut_schwer_007.png
+sub-line,line 5 part 2,770,498,63,17,(Schock),770,498,63,17,5,2.0,blut_schwer_007.png
+sub-line,line 5 part 3,839,498,66,17,kommen.,839,498,66,13,5,3.0,blut_schwer_007.png
+sub-line,line 5 part 4,912,498,39,17,Dann,912,499,39,12,5,4.0,blut_schwer_007.png
+sub-line,line 5 part 5,956,498,53,17,werden,956,498,53,13,5,5.0,blut_schwer_007.png
+sub-line,line 5 part 6,1015,498,20,17,die,1015,498,20,13,5,6.0,blut_schwer_007.png
+sub-line,line 5 part 7,1041,498,41,17,Beine,1041,499,41,12,5,7.0,blut_schwer_007.png
+sub-line,line 5 part 8,1089,498,22,17,des,1089,498,22,13,5,8.0,blut_schwer_007.png
+sub-line,line 5 part 9,1117,498,67,17,Patienten,1117,499,67,12,5,9.0,blut_schwer_007.png
+sub-line,line 5 part 10,1190,498,20,17,für,1190,498,20,13,5,10.0,blut_schwer_007.png
+sub-line,line 5 part 11,1216,498,28,17,eine,1216,503,28,8,5,11.0,blut_schwer_007.png
+sub-line,line 5 part 12,1250,498,42,17,Weile,1250,498,42,13,5,12.0,blut_schwer_007.png
+line,line 6,646,549,678,17,,646,549,678,17,6,,blut_schwer_007.png
+sub-line,line 6 part 1,646,549,81,17,"angehoben,",646,549,81,17,6,1.0,blut_schwer_007.png
+sub-line,line 6 part 2,734,549,40,17,damit,734,549,40,13,6,2.0,blut_schwer_007.png
+sub-line,line 6 part 3,780,549,28,17,sich,780,549,28,13,6,3.0,blut_schwer_007.png
+sub-line,line 6 part 4,813,549,69,17,Kreislauf,813,549,69,13,6,4.0,blut_schwer_007.png
+sub-line,line 6 part 5,885,549,27,17,und,885,549,27,13,6,5.0,blut_schwer_007.png
+sub-line,line 6 part 6,917,549,100,17,Durchblutung,917,549,100,17,6,6.0,blut_schwer_007.png
+sub-line,line 6 part 7,1022,549,49,17,wieder,1022,549,49,13,6,7.0,blut_schwer_007.png
+sub-line,line 6 part 8,1076,549,99,17,normalisieren,1076,549,99,13,6,8.0,blut_schwer_007.png
+sub-line,line 6 part 9,1180,549,56,17,können.,1180,549,56,13,6,9.0,blut_schwer_007.png
+sub-line,line 6 part 10,1243,549,34,17,Bitte,1243,550,34,12,6,10.0,blut_schwer_007.png
+sub-line,line 6 part 11,1284,549,40,17,sagen,1284,554,40,12,6,11.0,blut_schwer_007.png
+line,line 7,646,600,674,17,,646,600,674,17,7,,blut_schwer_007.png
+sub-line,line 7 part 1,646,600,21,17,Sie,646,601,21,12,7,1.0,blut_schwer_007.png
+sub-line,line 7 part 2,674,600,30,17,dem,674,600,30,13,7,2.0,blut_schwer_007.png
+sub-line,line 7 part 3,709,600,62,17,Personal,709,600,62,13,7,3.0,blut_schwer_007.png
+sub-line,line 7 part 4,777,600,41,17,sofort,777,600,41,13,7,4.0,blut_schwer_007.png
+sub-line,line 7 part 5,823,600,70,17,"Bescheid,",823,600,70,16,7,5.0,blut_schwer_007.png
+sub-line,line 7 part 6,900,600,29,17,falls,900,600,29,13,7,6.0,blut_schwer_007.png
+sub-line,line 7 part 7,935,600,41,17,Ihnen,935,600,41,13,7,7.0,blut_schwer_007.png
+sub-line,line 7 part 8,982,600,90,17,"schwindelig,",982,600,90,17,7,8.0,blut_schwer_007.png
+sub-line,line 7 part 9,1079,600,58,17,schlecht,1079,600,58,13,7,9.0,blut_schwer_007.png
+sub-line,line 7 part 10,1143,600,31,17,oder,1143,600,31,13,7,10.0,blut_schwer_007.png
+sub-line,line 7 part 11,1180,600,58,17,schwarz,1180,600,58,13,7,11.0,blut_schwer_007.png
+sub-line,line 7 part 12,1243,600,24,17,vor,1243,605,24,8,7,12.0,blut_schwer_007.png
+sub-line,line 7 part 13,1272,600,48,17,Augen,1272,601,48,16,7,13.0,blut_schwer_007.png
+line,line 8,645,651,675,17,,645,651,675,17,8,,blut_schwer_007.png
+sub-line,line 8 part 1,645,651,37,17,wird!,645,651,37,13,8,1.0,blut_schwer_007.png
+sub-line,line 8 part 2,690,651,50,17,Sollten,690,651,50,13,8,2.0,blut_schwer_007.png
+sub-line,line 8 part 3,746,651,21,17,Sie,746,652,21,12,8,3.0,blut_schwer_007.png
+sub-line,line 8 part 4,773,651,17,17,zu,773,656,17,8,8,4.0,blut_schwer_007.png
+sub-line,line 8 part 5,795,651,144,17,Kreislaufproblemen,795,651,144,17,8,5.0,blut_schwer_007.png
+sub-line,line 8 part 6,944,651,52,17,"neigen,",944,656,52,12,8,6.0,blut_schwer_007.png
+sub-line,line 8 part 7,1003,651,42,17,geben,1003,651,42,17,8,7.0,blut_schwer_007.png
+sub-line,line 8 part 8,1051,651,21,17,Sie,1051,652,21,12,8,8.0,blut_schwer_007.png
+sub-line,line 8 part 9,1079,651,27,17,dies,1079,651,27,13,8,9.0,blut_schwer_007.png
+sub-line,line 8 part 10,1112,651,31,17,bitte,1112,651,31,13,8,10.0,blut_schwer_007.png
+sub-line,line 8 part 11,1149,651,38,17,VOR,1149,652,38,12,8,11.0,blut_schwer_007.png
+sub-line,line 8 part 12,1193,651,22,17,der,1193,651,22,13,8,12.0,blut_schwer_007.png
+sub-line,line 8 part 13,1220,651,100,17,Blutentnahme,1220,651,100,13,8,13.0,blut_schwer_007.png
+line,line 9,646,702,244,17,,646,702,244,17,9,,blut_schwer_007.png
+sub-line,line 9 part 1,646,702,20,17,"an,",646,707,20,11,9,1.0,blut_schwer_007.png
+sub-line,line 9 part 2,673,702,40,17,damit,673,702,40,13,9,2.0,blut_schwer_007.png
+sub-line,line 9 part 3,719,702,35,17,diese,719,702,35,13,9,3.0,blut_schwer_007.png
+sub-line,line 9 part 4,761,702,18,17,im,761,707,18,8,9,4.0,blut_schwer_007.png
+sub-line,line 9 part 5,784,702,50,17,Liegen,784,703,50,16,9,5.0,blut_schwer_007.png
+sub-line,line 9 part 6,840,702,50,17,erfolgt.,840,702,50,17,9,6.0,blut_schwer_007.png
+line,line 10,610,753,631,17,,610,753,631,17,10,,blut_schwer_007.png
+sub-line,line 10 part 1,610,753,34,17,Bitte,610,754,34,12,10,1.0,blut_schwer_007.png
+sub-line,line 10 part 2,651,753,45,17,fragen,651,753,45,17,10,2.0,blut_schwer_007.png
+sub-line,line 10 part 3,702,753,21,17,Sie,702,754,21,12,10,3.0,blut_schwer_007.png
+sub-line,line 10 part 4,730,753,18,17,im,730,758,18,8,10,4.0,blut_schwer_007.png
+sub-line,line 10 part 5,753,753,154,17,Aufklärungsgespräch,753,753,154,17,10,5.0,blut_schwer_007.png
+sub-line,line 10 part 6,912,753,34,17,nach,912,753,34,13,10,6.0,blut_schwer_007.png
+sub-line,line 10 part 7,952,753,43,17,"allem,",952,753,43,16,10,7.0,blut_schwer_007.png
+sub-line,line 10 part 8,1001,753,27,17,was,1001,758,27,8,10,8.0,blut_schwer_007.png
+sub-line,line 10 part 9,1034,753,41,17,Ihnen,1034,753,41,13,10,9.0,blut_schwer_007.png
+sub-line,line 10 part 10,1080,753,54,17,wichtig,1080,753,54,17,10,10.0,blut_schwer_007.png
+sub-line,line 10 part 11,1140,753,64,17,erscheint,1140,753,64,13,10,11.0,blut_schwer_007.png
+sub-line,line 10 part 12,1210,753,31,17,oder,1210,753,31,13,10,12.0,blut_schwer_007.png
+line,line 11,610,804,71,13,,610,804,71,13,11,,blut_schwer_007.png
+sub-line,line 11 part 1,610,804,46,13,unklar,610,804,46,13,11,1.0,blut_schwer_007.png
+sub-line,line 11 part 2,662,804,19,13,ist.,662,806,19,11,11,2.0,blut_schwer_007.png
+line,line 1,610,321,377,22,,610,321,377,22,1,,blut_schwer_008.png
+sub-line,line 1 part 1,610,321,73,22,Warum,610,322,73,16,1,1.0,blut_schwer_008.png
+sub-line,line 1 part 2,689,321,44,22,wird,689,321,44,17,1,2.0,blut_schwer_008.png
+sub-line,line 1 part 3,740,321,29,22,ein,740,321,29,17,1,3.0,blut_schwer_008.png
+sub-line,line 1 part 4,775,321,91,22,HIV-Test,775,322,91,16,1,4.0,blut_schwer_008.png
+sub-line,line 1 part 5,874,321,113,22,empfohlen?,874,321,113,22,1,5.0,blut_schwer_008.png
+line,line 2,610,371,505,16,,610,371,505,16,2,,blut_schwer_008.png
+sub-line,line 2 part 1,610,371,32,16,Eine,610,372,32,12,2,1.0,blut_schwer_008.png
+sub-line,line 2 part 2,648,371,104,16,HIV-Infektion,648,371,104,13,2,2.0,blut_schwer_008.png
+sub-line,line 2 part 3,758,371,16,16,ist,758,373,16,11,2,3.0,blut_schwer_008.png
+sub-line,line 2 part 4,780,371,28,16,eine,780,376,28,8,2,4.0,blut_schwer_008.png
+sub-line,line 2 part 5,815,371,129,16,lebensbedrohliche,815,371,129,13,2,5.0,blut_schwer_008.png
+sub-line,line 2 part 6,950,371,109,16,"Virusinfektion,",950,371,109,16,2,6.0,blut_schwer_008.png
+sub-line,line 2 part 7,1066,371,20,16,die,1066,371,20,13,2,7.0,blut_schwer_008.png
+sub-line,line 2 part 8,1092,371,23,16,zur,1092,376,23,8,2,8.0,blut_schwer_008.png
+line,line 3,610,422,694,17,,610,422,694,17,3,,blut_schwer_008.png
+sub-line,line 3 part 1,610,422,190,17,Immunschwächekrankheit,610,422,190,13,3,1.0,blut_schwer_008.png
+sub-line,line 3 part 2,805,422,41,17,AIDS,805,423,41,12,3,2.0,blut_schwer_008.png
+sub-line,line 3 part 3,853,422,34,17,führt,853,422,34,13,3,3.0,blut_schwer_008.png
+sub-line,line 3 part 4,893,422,46,17,(AIDS,893,422,46,17,3,4.0,blut_schwer_008.png
+sub-line,line 3 part 5,946,422,16,17,ist,946,424,16,11,3,5.0,blut_schwer_008.png
+sub-line,line 3 part 6,968,422,20,17,die,968,422,20,13,3,6.0,blut_schwer_008.png
+sub-line,line 3 part 7,995,422,66,17,englische,995,422,66,17,3,7.0,blut_schwer_008.png
+sub-line,line 3 part 8,1067,422,81,17,Abkürzung,1067,422,81,17,3,8.0,blut_schwer_008.png
+sub-line,line 3 part 9,1154,422,20,17,für,1154,422,20,13,3,9.0,blut_schwer_008.png
+sub-line,line 3 part 10,1180,422,61,17,acquired,1180,422,61,17,3,10.0,blut_schwer_008.png
+sub-line,line 3 part 11,1247,422,57,17,immune,1247,427,57,8,3,11.0,blut_schwer_008.png
+line,line 4,611,473,708,17,,611,473,708,17,4,,blut_schwer_008.png
+sub-line,line 4 part 1,611,473,74,17,deficiency,611,473,74,17,4,1.0,blut_schwer_008.png
+sub-line,line 4 part 2,691,473,79,17,syndrome).,691,473,79,17,4,2.0,blut_schwer_008.png
+sub-line,line 4 part 3,777,473,27,17,Der,777,474,27,12,4,3.0,blut_schwer_008.png
+sub-line,line 4 part 4,809,473,54,17,Erreger,809,474,54,16,4,4.0,blut_schwer_008.png
+sub-line,line 4 part 5,868,473,27,17,von,868,478,27,8,4,5.0,blut_schwer_008.png
+sub-line,line 4 part 6,900,473,46,17,"AIDS,",900,474,46,15,4,6.0,blut_schwer_008.png
+sub-line,line 4 part 7,953,473,22,17,das,953,473,22,13,4,7.0,blut_schwer_008.png
+sub-line,line 4 part 8,981,473,64,17,HI-Virus,981,474,64,12,4,8.0,blut_schwer_008.png
+sub-line,line 4 part 9,1052,473,68,17,(Englisch:,1052,473,68,17,4,9.0,blut_schwer_008.png
+sub-line,line 4 part 10,1130,473,49,17,human,1130,473,49,13,4,10.0,blut_schwer_008.png
+sub-line,line 4 part 11,1185,473,134,17,immunodeficiency,1185,473,134,17,4,11.0,blut_schwer_008.png
+line,line 5,610,524,579,17,,610,524,579,17,5,,blut_schwer_008.png
+sub-line,line 5 part 1,610,524,35,17,virus,610,529,35,8,5,1.0,blut_schwer_008.png
+sub-line,line 5 part 2,651,524,10,17,=,651,529,10,4,5,2.0,blut_schwer_008.png
+sub-line,line 5 part 3,666,524,42,17,"HIV),",666,524,42,17,5,3.0,blut_schwer_008.png
+sub-line,line 5 part 4,714,524,33,17,wird,714,524,33,13,5,4.0,blut_schwer_008.png
+sub-line,line 5 part 5,752,524,24,17,vor,752,529,24,8,5,5.0,blut_schwer_008.png
+sub-line,line 5 part 6,782,524,39,17,allem,782,524,39,13,5,6.0,blut_schwer_008.png
+sub-line,line 5 part 7,827,524,40,17,durch,827,524,40,13,5,7.0,blut_schwer_008.png
+sub-line,line 5 part 8,873,524,25,17,den,873,524,25,13,5,8.0,blut_schwer_008.png
+sub-line,line 5 part 9,904,524,58,17,direkten,904,524,58,13,5,9.0,blut_schwer_008.png
+sub-line,line 5 part 10,967,524,58,17,Kontakt,967,524,58,13,5,10.0,blut_schwer_008.png
+sub-line,line 5 part 11,1030,524,24,17,mit,1030,526,24,11,5,11.0,blut_schwer_008.png
+sub-line,line 5 part 12,1059,524,31,17,Blut,1059,524,31,13,5,12.0,blut_schwer_008.png
+sub-line,line 5 part 13,1096,524,31,17,oder,1096,524,31,13,5,13.0,blut_schwer_008.png
+sub-line,line 5 part 14,1133,524,56,17,anderen,1133,524,56,13,5,14.0,blut_schwer_008.png
+line,line 6,610,575,562,17,,610,575,562,17,6,,blut_schwer_008.png
+sub-line,line 6 part 1,610,575,143,17,Körperflüssigkeiten,610,575,143,17,6,1.0,blut_schwer_008.png
+sub-line,line 6 part 2,758,575,81,17,"übertragen,",758,575,81,17,6,2.0,blut_schwer_008.png
+sub-line,line 6 part 3,845,575,28,17,z.B.,845,576,28,12,6,3.0,blut_schwer_008.png
+sub-line,line 6 part 4,881,575,40,17,durch,881,575,40,13,6,4.0,blut_schwer_008.png
+sub-line,line 6 part 5,927,575,53,17,Sperma,927,576,53,16,6,5.0,blut_schwer_008.png
+sub-line,line 6 part 6,986,575,36,17,beim,986,575,36,13,6,6.0,blut_schwer_008.png
+sub-line,line 6 part 7,1028,575,144,17,Geschlechtsverkehr.,1028,575,144,13,6,7.0,blut_schwer_008.png
+line,line 7,610,626,683,17,,610,626,683,17,7,,blut_schwer_008.png
+sub-line,line 7 part 1,610,626,43,17,Wenn,610,627,43,12,7,1.0,blut_schwer_008.png
+sub-line,line 7 part 2,659,626,21,17,Sie,659,627,21,12,7,2.0,blut_schwer_008.png
+sub-line,line 7 part 3,686,626,72,17,"vermuten,",686,628,72,14,7,3.0,blut_schwer_008.png
+sub-line,line 7 part 4,765,626,29,17,dass,765,626,29,13,7,4.0,blut_schwer_008.png
+sub-line,line 7 part 5,801,626,21,17,Sie,801,627,21,12,7,5.0,blut_schwer_008.png
+sub-line,line 7 part 6,829,626,28,17,sich,829,626,28,13,7,6.0,blut_schwer_008.png
+sub-line,line 7 part 7,862,626,113,17,möglicherweise,862,626,113,17,7,7.0,blut_schwer_008.png
+sub-line,line 7 part 8,982,626,30,17,dem,982,626,30,13,7,8.0,blut_schwer_008.png
+sub-line,line 7 part 9,1017,626,46,17,Risiko,1017,626,46,13,7,9.0,blut_schwer_008.png
+sub-line,line 7 part 10,1070,626,35,17,einer,1070,631,35,8,7,10.0,blut_schwer_008.png
+sub-line,line 7 part 11,1110,626,104,17,HIV-Infektion,1110,626,104,13,7,11.0,blut_schwer_008.png
+sub-line,line 7 part 12,1220,626,73,17,ausgesetzt,1220,628,73,15,7,12.0,blut_schwer_008.png
+line,line 8,610,677,610,16,,610,677,610,16,8,,blut_schwer_008.png
+sub-line,line 8 part 1,610,677,47,16,"haben,",610,677,47,16,8,1.0,blut_schwer_008.png
+sub-line,line 8 part 2,663,677,53,16,können,663,677,53,13,8,2.0,blut_schwer_008.png
+sub-line,line 8 part 3,722,677,21,16,Sie,722,678,21,12,8,3.0,blut_schwer_008.png
+sub-line,line 8 part 4,750,677,40,16,durch,750,677,40,13,8,4.0,blut_schwer_008.png
+sub-line,line 8 part 5,796,677,38,16,einen,796,682,38,8,8,5.0,blut_schwer_008.png
+sub-line,line 8 part 6,839,677,69,16,HIV-Test,839,678,69,12,8,6.0,blut_schwer_008.png
+sub-line,line 8 part 7,914,677,76,16,"feststellen,",914,677,76,16,8,7.0,blut_schwer_008.png
+sub-line,line 8 part 8,997,677,16,16,ob,997,677,16,13,8,8.0,blut_schwer_008.png
+sub-line,line 8 part 9,1020,677,21,16,Sie,1020,678,21,12,8,9.0,blut_schwer_008.png
+sub-line,line 8 part 10,1048,677,28,16,sich,1048,677,28,13,8,10.0,blut_schwer_008.png
+sub-line,line 8 part 11,1081,677,77,16,tatsächlich,1081,677,77,13,8,11.0,blut_schwer_008.png
+sub-line,line 8 part 12,1164,677,56,16,infiziert,1164,677,56,13,8,12.0,blut_schwer_008.png
+line,line 9,610,728,699,17,,610,728,699,17,9,,blut_schwer_008.png
+sub-line,line 9 part 1,610,728,46,17,haben.,610,728,46,13,9,1.0,blut_schwer_008.png
+sub-line,line 9 part 2,663,728,70,17,Zwischen,663,728,70,13,9,2.0,blut_schwer_008.png
+sub-line,line 9 part 3,739,728,30,17,dem,739,728,30,13,9,3.0,blut_schwer_008.png
+sub-line,line 9 part 4,774,728,70,17,Zeitpunkt,774,728,70,17,9,4.0,blut_schwer_008.png
+sub-line,line 9 part 5,850,728,22,17,der,850,728,22,13,9,5.0,blut_schwer_008.png
+sub-line,line 9 part 6,877,728,86,17,Ansteckung,877,728,86,17,9,6.0,blut_schwer_008.png
+sub-line,line 9 part 7,968,728,27,17,und,968,728,27,13,9,7.0,blut_schwer_008.png
+sub-line,line 9 part 8,1001,728,30,17,dem,1001,728,30,13,9,8.0,blut_schwer_008.png
+sub-line,line 9 part 9,1037,728,59,17,sicheren,1037,728,59,13,9,9.0,blut_schwer_008.png
+sub-line,line 9 part 10,1101,728,70,17,Nachweis,1101,728,70,13,9,10.0,blut_schwer_008.png
+sub-line,line 9 part 11,1178,728,22,17,der,1178,728,22,13,9,11.0,blut_schwer_008.png
+sub-line,line 9 part 12,1205,728,104,17,HIV-Infektion,1205,728,104,13,9,12.0,blut_schwer_008.png
+line,line 10,611,779,315,17,,611,779,315,17,10,,blut_schwer_008.png
+sub-line,line 10 part 1,611,779,18,17,im,611,784,18,8,10,1.0,blut_schwer_008.png
+sub-line,line 10 part 2,634,779,31,17,Blut,634,779,31,13,10,2.0,blut_schwer_008.png
+sub-line,line 10 part 3,670,779,53,17,können,670,779,53,13,10,3.0,blut_schwer_008.png
+sub-line,line 10 part 4,728,779,58,17,mehrere,728,779,58,13,10,4.0,blut_schwer_008.png
+sub-line,line 10 part 5,792,779,60,17,Wochen,792,779,60,13,10,5.0,blut_schwer_008.png
+sub-line,line 10 part 6,857,779,69,17,vergehen.,857,779,69,17,10,6.0,blut_schwer_008.png
+line,line 1,610,371,593,17,,610,371,593,17,1,,blut_schwer_009.png
+sub-line,line 1 part 1,610,371,44,17,Daher,610,371,44,13,1,1.0,blut_schwer_009.png
+sub-line,line 1 part 2,659,371,53,17,beraten,659,371,53,13,1,2.0,blut_schwer_009.png
+sub-line,line 1 part 3,718,371,21,17,Sie,718,372,21,12,1,3.0,blut_schwer_009.png
+sub-line,line 1 part 4,746,371,28,17,sich,746,371,28,13,1,4.0,blut_schwer_009.png
+sub-line,line 1 part 5,779,371,31,17,bitte,779,371,31,13,1,5.0,blut_schwer_009.png
+sub-line,line 1 part 6,816,371,24,17,mit,816,373,24,11,1,6.0,blut_schwer_009.png
+sub-line,line 1 part 7,845,371,43,17,Ihrem,845,371,43,13,1,7.0,blut_schwer_009.png
+sub-line,line 1 part 8,893,371,36,17,"Arzt,",893,372,36,15,1,8.0,blut_schwer_009.png
+sub-line,line 1 part 9,935,371,39,17,wann,935,376,39,8,1,9.0,blut_schwer_009.png
+sub-line,line 1 part 10,980,371,28,17,eine,980,376,28,8,1,10.0,blut_schwer_009.png
+sub-line,line 1 part 11,1014,371,101,17,Untersuchung,1014,371,101,17,1,11.0,blut_schwer_009.png
+sub-line,line 1 part 12,1121,371,57,17,sinnvoll,1121,371,57,13,1,12.0,blut_schwer_009.png
+sub-line,line 1 part 13,1184,371,19,17,ist.,1184,373,19,11,1,13.0,blut_schwer_009.png
+line,line 2,610,422,664,17,,610,422,664,17,2,,blut_schwer_009.png
+sub-line,line 2 part 1,610,422,34,17,Falls,610,422,34,13,2,1.0,blut_schwer_009.png
+sub-line,line 2 part 2,651,422,20,17,die,651,422,20,13,2,2.0,blut_schwer_009.png
+sub-line,line 2 part 3,677,422,66,17,Infektion,677,422,66,13,2,3.0,blut_schwer_009.png
+sub-line,line 2 part 4,748,422,101,17,nachgewiesen,748,422,101,17,2,4.0,blut_schwer_009.png
+sub-line,line 2 part 5,854,422,49,17,"wurde,",854,422,49,16,2,5.0,blut_schwer_009.png
+sub-line,line 2 part 6,910,422,16,17,ist,910,424,16,11,2,6.0,blut_schwer_009.png
+sub-line,line 2 part 7,932,422,13,17,es,932,427,13,8,2,7.0,blut_schwer_009.png
+sub-line,line 2 part 8,951,422,58,17,"wichtig,",951,422,58,17,2,8.0,blut_schwer_009.png
+sub-line,line 2 part 9,1015,422,75,17,umgehend,1015,422,75,17,2,9.0,blut_schwer_009.png
+sub-line,line 2 part 10,1095,422,24,17,mit,1095,424,24,11,2,10.0,blut_schwer_009.png
+sub-line,line 2 part 11,1125,422,35,17,einer,1125,427,35,8,2,11.0,blut_schwer_009.png
+sub-line,line 2 part 12,1165,422,87,17,Behandlung,1165,422,87,17,2,12.0,blut_schwer_009.png
+sub-line,line 2 part 13,1257,422,17,17,zu,1257,427,17,8,2,13.0,blut_schwer_009.png
+line,line 3,610,473,666,17,,610,473,666,17,3,,blut_schwer_009.png
+sub-line,line 3 part 1,610,473,70,17,beginnen!,610,473,70,17,3,1.0,blut_schwer_009.png
+sub-line,line 3 part 2,687,473,38,17,Zwar,687,474,38,12,3,2.0,blut_schwer_009.png
+sub-line,line 3 part 3,731,473,16,17,ist,731,475,16,11,3,3.0,blut_schwer_009.png
+sub-line,line 3 part 4,753,473,28,17,eine,753,478,28,8,3,4.0,blut_schwer_009.png
+sub-line,line 3 part 5,787,473,58,17,Heilung,787,473,58,17,3,5.0,blut_schwer_009.png
+sub-line,line 3 part 6,850,473,52,17,bislang,850,473,52,17,3,6.0,blut_schwer_009.png
+sub-line,line 3 part 7,907,473,35,17,noch,907,473,35,13,3,7.0,blut_schwer_009.png
+sub-line,line 3 part 8,947,473,36,17,nicht,947,473,36,13,3,8.0,blut_schwer_009.png
+sub-line,line 3 part 9,988,473,63,17,"möglich,",988,473,63,17,3,9.0,blut_schwer_009.png
+sub-line,line 3 part 10,1058,473,30,17,aber,1058,473,30,13,3,10.0,blut_schwer_009.png
+sub-line,line 3 part 11,1094,473,34,17,dank,1094,473,34,13,3,11.0,blut_schwer_009.png
+sub-line,line 3 part 12,1133,473,40,17,neuer,1133,478,40,8,3,12.0,blut_schwer_009.png
+sub-line,line 3 part 13,1178,473,98,17,Medikamente,1178,473,98,13,3,13.0,blut_schwer_009.png
+line,line 4,610,524,658,13,,610,524,658,13,4,,blut_schwer_009.png
+sub-line,line 4 part 1,610,524,35,13,kann,610,524,35,13,4,1.0,blut_schwer_009.png
+sub-line,line 4 part 2,650,524,9,13,—,650,532,9,1,4,2.0,blut_schwer_009.png
+sub-line,line 4 part 3,665,524,44,13,sofern,665,524,44,13,4,3.0,blut_schwer_009.png
+sub-line,line 4 part 4,715,524,20,13,die,715,524,20,13,4,4.0,blut_schwer_009.png
+sub-line,line 4 part 5,741,524,66,13,Infektion,741,524,66,13,4,5.0,blut_schwer_009.png
+sub-line,line 4 part 6,813,524,29,13,früh,813,524,29,13,4,6.0,blut_schwer_009.png
+sub-line,line 4 part 7,848,524,53,13,erkannt,848,524,53,13,4,7.0,blut_schwer_009.png
+sub-line,line 4 part 8,906,524,27,13,und,906,524,27,13,4,8.0,blut_schwer_009.png
+sub-line,line 4 part 9,938,524,70,13,behandelt,938,524,70,13,4,9.0,blut_schwer_009.png
+sub-line,line 4 part 10,1013,524,33,13,wird,1013,524,33,13,4,10.0,blut_schwer_009.png
+sub-line,line 4 part 11,1051,524,37,13,- der,1051,524,37,13,4,11.0,blut_schwer_009.png
+sub-line,line 4 part 12,1093,524,70,13,Ausbruch,1093,524,70,13,4,12.0,blut_schwer_009.png
+sub-line,line 4 part 13,1169,524,22,13,der,1169,524,22,13,4,13.0,blut_schwer_009.png
+sub-line,line 4 part 14,1196,524,72,13,Krankheit,1196,524,72,13,4,14.0,blut_schwer_009.png
+line,line 5,610,575,295,17,,610,575,295,17,5,,blut_schwer_009.png
+sub-line,line 5 part 1,610,575,23,17,um,610,580,23,8,5,1.0,blut_schwer_009.png
+sub-line,line 5 part 2,638,575,34,17,viele,638,575,34,13,5,2.0,blut_schwer_009.png
+sub-line,line 5 part 3,678,575,37,17,Jahre,678,575,37,13,5,3.0,blut_schwer_009.png
+sub-line,line 5 part 4,721,575,123,17,hinausgeschoben,721,575,123,17,5,4.0,blut_schwer_009.png
+sub-line,line 5 part 5,849,575,56,17,werden.,849,575,56,13,5,5.0,blut_schwer_009.png
+line,line 6,610,626,733,17,,610,626,733,17,6,,blut_schwer_009.png
+sub-line,line 6 part 1,610,626,51,17,Zudem,610,626,51,13,6,1.0,blut_schwer_009.png
+sub-line,line 6 part 2,666,626,53,17,können,666,626,53,13,6,2.0,blut_schwer_009.png
+sub-line,line 6 part 3,724,626,62,17,konkrete,724,626,62,13,6,3.0,blut_schwer_009.png
+sub-line,line 6 part 4,792,626,155,17,Vorsorgemaßnahmen,792,626,155,17,6,4.0,blut_schwer_009.png
+sub-line,line 6 part 5,953,626,65,17,getroffen,953,626,65,17,6,5.0,blut_schwer_009.png
+sub-line,line 6 part 6,1023,626,57,17,"werden,",1023,626,57,16,6,6.0,blut_schwer_009.png
+sub-line,line 6 part 7,1086,626,23,17,um,1086,631,23,8,6,7.0,blut_schwer_009.png
+sub-line,line 6 part 8,1115,626,121,17,gesundheitlichen,1115,626,121,17,6,8.0,blut_schwer_009.png
+sub-line,line 6 part 9,1242,626,101,17,Schädigungen,1242,626,101,17,6,9.0,blut_schwer_009.png
+line,line 7,611,677,659,17,,611,677,659,17,7,,blut_schwer_009.png
+sub-line,line 7 part 1,611,677,30,17,"(v.a,",611,677,30,17,7,1.0,blut_schwer_009.png
+sub-line,line 7 part 2,648,677,83,17,Infektionen,648,677,83,13,7,2.0,blut_schwer_009.png
+sub-line,line 7 part 3,736,677,24,17,mit,736,679,24,11,7,3.0,blut_schwer_009.png
+sub-line,line 7 part 4,766,677,56,17,anderen,766,677,56,13,7,4.0,blut_schwer_009.png
+sub-line,line 7 part 5,827,677,68,17,Erregern),827,677,68,17,7,5.0,blut_schwer_009.png
+sub-line,line 7 part 6,902,677,131,17,entgegenzuwirken,902,677,131,17,7,6.0,blut_schwer_009.png
+sub-line,line 7 part 7,1038,677,27,17,und,1038,677,27,13,7,7.0,blut_schwer_009.png
+sub-line,line 7 part 8,1070,677,122,17,Infektionsrisiken,1070,677,122,13,7,8.0,blut_schwer_009.png
+sub-line,line 7 part 9,1198,677,20,17,für,1198,677,20,13,7,9.0,blut_schwer_009.png
+sub-line,line 7 part 10,1224,677,46,17,andere,1224,677,46,13,7,10.0,blut_schwer_009.png
+line,line 8,610,728,319,17,,610,728,319,17,8,,blut_schwer_009.png
+sub-line,line 8 part 1,610,728,74,17,Menschen,610,728,74,13,8,1.0,blut_schwer_009.png
+sub-line,line 8 part 2,690,728,30,17,(v.a.,690,728,30,17,8,2.0,blut_schwer_009.png
+sub-line,line 8 part 3,727,728,95,17,Intimpartner),727,728,95,17,8,3.0,blut_schwer_009.png
+sub-line,line 8 part 4,828,728,17,17,zu,828,733,17,8,8,4.0,blut_schwer_009.png
+sub-line,line 8 part 5,850,728,79,17,reduzieren.,850,728,79,13,8,5.0,blut_schwer_009.png
+line,line 1,610,321,670,17,,610,321,670,17,1,,blut_schwer_010.png
+sub-line,line 1 part 1,610,321,177,17,Krankheitsverlauf,610,321,177,17,1,1.0,blut_schwer_010.png
+sub-line,line 1 part 2,791,321,36,17,und,791,321,36,17,1,2.0,blut_schwer_010.png
+sub-line,line 1 part 3,834,321,89,17,Gefahren,834,321,89,17,1,3.0,blut_schwer_010.png
+sub-line,line 1 part 4,930,321,48,17,einer,930,321,48,17,1,4.0,blut_schwer_010.png
+sub-line,line 1 part 5,984,321,48,17,nicht,984,321,48,17,1,5.0,blut_schwer_010.png
+sub-line,line 1 part 6,1040,321,95,17,erkannten,1040,321,95,17,1,6.0,blut_schwer_010.png
+sub-line,line 1 part 7,1141,321,139,17,HIV-Infektion,1141,321,139,17,1,7.0,blut_schwer_010.png
+line,line 2,610,371,687,17,,610,371,687,17,2,,blut_schwer_010.png
+sub-line,line 2 part 1,610,371,25,17,Die,610,372,25,12,2,1.0,blut_schwer_010.png
+sub-line,line 2 part 2,641,371,41,17,Viren,641,372,41,12,2,2.0,blut_schwer_010.png
+sub-line,line 2 part 3,687,371,66,17,zerstören,687,373,66,11,2,3.0,blut_schwer_010.png
+sub-line,line 2 part 4,758,371,24,17,mit,758,373,24,11,2,4.0,blut_schwer_010.png
+sub-line,line 2 part 5,788,371,22,17,der,788,371,22,13,2,5.0,blut_schwer_010.png
+sub-line,line 2 part 6,815,371,29,17,Zeit,815,372,29,12,2,6.0,blut_schwer_010.png
+sub-line,line 2 part 7,850,371,22,17,das,850,371,22,13,2,7.0,blut_schwer_010.png
+sub-line,line 2 part 8,878,371,93,17,körpereigene,878,371,93,17,2,8.0,blut_schwer_010.png
+sub-line,line 2 part 9,977,371,108,17,Abwehrsystem,977,371,108,17,2,9.0,blut_schwer_010.png
+sub-line,line 2 part 10,1091,371,116,17,(Immunsystem).,1091,371,116,17,2,10.0,blut_schwer_010.png
+sub-line,line 2 part 11,1214,371,27,17,Der,1214,372,27,12,2,11.0,blut_schwer_010.png
+sub-line,line 2 part 12,1246,371,51,17,Körper,1246,372,51,16,2,12.0,blut_schwer_010.png
+line,line 3,610,422,622,17,,610,422,622,17,3,,blut_schwer_010.png
+sub-line,line 3 part 1,610,422,35,17,kann,610,422,35,13,3,1.0,blut_schwer_010.png
+sub-line,line 3 part 2,651,422,28,17,sich,651,422,28,13,3,2.0,blut_schwer_010.png
+sub-line,line 3 part 3,685,422,34,17,dann,685,422,34,13,3,3.0,blut_schwer_010.png
+sub-line,line 3 part 4,724,422,36,17,nicht,724,422,36,13,3,4.0,blut_schwer_010.png
+sub-line,line 3 part 5,765,422,37,17,mehr,765,422,37,13,3,5.0,blut_schwer_010.png
+sub-line,line 3 part 6,808,422,85,17,ausreichend,808,422,85,13,3,6.0,blut_schwer_010.png
+sub-line,line 3 part 7,899,422,42,17,gegen,899,427,42,12,3,7.0,blut_schwer_010.png
+sub-line,line 3 part 8,946,422,83,17,Infektionen,946,422,83,13,3,8.0,blut_schwer_010.png
+sub-line,line 3 part 9,1034,422,24,17,mit,1034,424,24,11,3,9.0,blut_schwer_010.png
+sub-line,line 3 part 10,1063,422,139,17,Krankheitserregem,1063,422,139,17,3,10.0,blut_schwer_010.png
+sub-line,line 3 part 11,1207,422,25,17,wie,1207,427,25,8,3,11.0,blut_schwer_010.png
+line,line 4,610,473,340,16,,610,473,340,16,4,,blut_schwer_010.png
+sub-line,line 4 part 1,610,473,74,16,"Bakterien,",610,473,74,16,4,1.0,blut_schwer_010.png
+sub-line,line 4 part 2,690,473,45,16,"Viren,",690,474,45,15,4,2.0,blut_schwer_010.png
+sub-line,line 4 part 3,741,473,45,16,Pilzen,741,473,45,13,4,3.0,blut_schwer_010.png
+sub-line,line 4 part 4,791,473,27,16,und,791,473,27,13,4,4.0,blut_schwer_010.png
+sub-line,line 4 part 5,823,473,66,16,Parasiten,823,474,66,12,4,5.0,blut_schwer_010.png
+sub-line,line 4 part 6,894,473,56,16,wehren.,894,473,56,13,4,6.0,blut_schwer_010.png
+line,line 5,610,524,709,17,,610,524,709,17,5,,blut_schwer_010.png
+sub-line,line 5 part 1,610,524,51,17,Zudem,610,524,51,13,5,1.0,blut_schwer_010.png
+sub-line,line 5 part 2,666,524,51,17,kommt,666,524,51,13,5,2.0,blut_schwer_010.png
+sub-line,line 5 part 3,723,524,13,17,es,723,529,13,8,5,3.0,blut_schwer_010.png
+sub-line,line 5 part 4,742,524,17,17,zu,742,529,17,8,5,4.0,blut_schwer_010.png
+sub-line,line 5 part 5,764,524,62,17,weiteren,764,526,62,11,5,5.0,blut_schwer_010.png
+sub-line,line 5 part 6,831,524,106,17,"Erkrankungen,",831,524,106,17,5,6.0,blut_schwer_010.png
+sub-line,line 5 part 7,943,524,24,17,vor,943,529,24,8,5,7.0,blut_schwer_010.png
+sub-line,line 5 part 8,973,524,39,17,allem,973,524,39,13,5,8.0,blut_schwer_010.png
+sub-line,line 5 part 9,1017,524,23,17,zur,1017,529,23,8,5,9.0,blut_schwer_010.png
+sub-line,line 5 part 10,1045,524,81,17,Entstehung,1045,524,81,17,5,10.0,blut_schwer_010.png
+sub-line,line 5 part 11,1131,524,27,17,von,1131,529,27,8,5,11.0,blut_schwer_010.png
+sub-line,line 5 part 12,1164,524,68,17,Tumoren.,1164,525,68,12,5,12.0,blut_schwer_010.png
+sub-line,line 5 part 13,1240,524,57,17,Typisch,1240,524,57,17,5,13.0,blut_schwer_010.png
+sub-line,line 5 part 14,1303,524,16,17,ist,1303,526,16,11,5,14.0,blut_schwer_010.png
+line,line 6,611,575,675,17,,611,575,675,17,6,,blut_schwer_010.png
+sub-line,line 6 part 1,611,575,22,17,das,611,575,22,13,6,1.0,blut_schwer_010.png
+sub-line,line 6 part 2,639,575,117,17,"Kaposi-Sarkom,",639,575,117,17,6,2.0,blut_schwer_010.png
+sub-line,line 6 part 3,763,575,21,17,ein,763,580,21,8,6,3.0,blut_schwer_010.png
+sub-line,line 6 part 4,789,575,47,17,"Krebs,",789,575,47,16,6,4.0,blut_schwer_010.png
+sub-line,line 6 part 5,843,575,22,17,der,843,575,22,13,6,5.0,blut_schwer_010.png
+sub-line,line 6 part 6,871,575,20,17,die,871,575,20,13,6,6.0,blut_schwer_010.png
+sub-line,line 6 part 7,897,575,105,17,"Lymphknoten,",897,575,105,17,6,7.0,blut_schwer_010.png
+sub-line,line 6 part 8,1008,575,35,17,Haut,1008,576,35,12,6,8.0,blut_schwer_010.png
+sub-line,line 6 part 9,1049,575,33,17,(z.B.,1049,575,33,17,6,9.0,blut_schwer_010.png
+sub-line,line 6 part 10,1090,575,16,17,an,1090,580,16,8,6,10.0,blut_schwer_010.png
+sub-line,line 6 part 11,1111,575,50,17,Armen,1111,576,50,12,6,11.0,blut_schwer_010.png
+sub-line,line 6 part 12,1166,575,27,17,und,1166,575,27,13,6,12.0,blut_schwer_010.png
+sub-line,line 6 part 13,1198,575,61,17,"Beinen),",1198,575,61,17,6,13.0,blut_schwer_010.png
+sub-line,line 6 part 14,1266,575,20,17,die,1266,575,20,13,6,14.0,blut_schwer_010.png
+line,line 7,611,626,686,17,,611,626,686,17,7,,blut_schwer_010.png
+sub-line,line 7 part 1,611,626,96,17,Schleimhäute,611,626,96,13,7,1.0,blut_schwer_010.png
+sub-line,line 7 part 2,714,626,33,17,(z.B.,714,626,33,17,7,2.0,blut_schwer_010.png
+sub-line,line 7 part 3,755,626,18,17,im,755,631,18,8,7,3.0,blut_schwer_010.png
+sub-line,line 7 part 4,778,626,43,17,Mund,778,626,43,13,7,4.0,blut_schwer_010.png
+sub-line,line 7 part 5,826,626,27,17,und,826,626,27,13,7,5.0,blut_schwer_010.png
+sub-line,line 7 part 6,859,626,110,17,Genitalbereich),859,626,110,17,7,6.0,blut_schwer_010.png
+sub-line,line 7 part 7,975,626,27,17,und,975,626,27,13,7,7.0,blut_schwer_010.png
+sub-line,line 7 part 8,1008,626,20,17,die,1008,626,20,13,7,8.0,blut_schwer_010.png
+sub-line,line 7 part 9,1035,626,51,17,Organe,1035,627,51,16,7,9.0,blut_schwer_010.png
+sub-line,line 7 part 10,1092,626,49,17,befällt.,1092,626,49,13,7,10.0,blut_schwer_010.png
+sub-line,line 7 part 11,1148,626,51,17,Zudem,1148,626,51,13,7,11.0,blut_schwer_010.png
+sub-line,line 7 part 12,1204,626,51,17,kommt,1204,626,51,13,7,12.0,blut_schwer_010.png
+sub-line,line 7 part 13,1261,626,13,17,es,1261,631,13,8,7,13.0,blut_schwer_010.png
+sub-line,line 7 part 14,1280,626,17,17,zu,1280,631,17,8,7,14.0,blut_schwer_010.png
+line,line 8,611,677,331,17,,611,677,331,17,8,,blut_schwer_010.png
+sub-line,line 8 part 1,611,677,101,17,Schädigungen,611,677,101,17,8,1.0,blut_schwer_010.png
+sub-line,line 8 part 2,717,677,27,17,von,717,682,27,8,8,2.0,blut_schwer_010.png
+sub-line,line 8 part 3,750,677,49,17,Gehim,750,677,49,13,8,3.0,blut_schwer_010.png
+sub-line,line 8 part 4,804,677,27,17,und,804,677,27,13,8,4.0,blut_schwer_010.png
+sub-line,line 8 part 5,836,677,106,17,Nervensystem.,836,678,106,16,8,5.0,blut_schwer_010.png
+line,line 9,610,728,656,17,,610,728,656,17,9,,blut_schwer_010.png
+sub-line,line 9 part 1,610,728,25,17,Die,610,729,25,12,9,1.0,blut_schwer_010.png
+sub-line,line 9 part 2,641,728,72,17,Krankheit,641,728,72,13,9,2.0,blut_schwer_010.png
+sub-line,line 9 part 3,718,728,42,17,bricht,718,728,42,13,9,3.0,blut_schwer_010.png
+sub-line,line 9 part 4,766,728,45,17,jedoch,766,728,45,17,9,4.0,blut_schwer_010.png
+sub-line,line 9 part 5,818,728,36,17,nicht,818,728,36,13,9,5.0,blut_schwer_010.png
+sub-line,line 9 part 6,860,728,41,17,sofort,860,728,41,13,9,6.0,blut_schwer_010.png
+sub-line,line 9 part 7,907,728,26,17,aus.,907,733,26,8,9,7.0,blut_schwer_010.png
+sub-line,line 9 part 8,940,728,70,17,Zwischen,940,728,70,13,9,8.0,blut_schwer_010.png
+sub-line,line 9 part 9,1016,728,35,17,einer,1016,733,35,8,9,9.0,blut_schwer_010.png
+sub-line,line 9 part 10,1056,728,104,17,HIV-Infektion,1056,728,104,13,9,10.0,blut_schwer_010.png
+sub-line,line 9 part 11,1165,728,27,17,und,1165,728,27,13,9,11.0,blut_schwer_010.png
+sub-line,line 9 part 12,1198,728,35,17,einer,1198,733,35,8,9,12.0,blut_schwer_010.png
+sub-line,line 9 part 13,1238,728,28,17,voll,1238,728,28,13,9,13.0,blut_schwer_010.png
+line,line 10,611,779,497,17,,611,779,497,17,10,,blut_schwer_010.png
+sub-line,line 10 part 1,611,779,94,17,ausgeprägten,611,781,94,15,10,1.0,blut_schwer_010.png
+sub-line,line 10 part 2,710,779,133,17,AIDS-Erkrankung,710,779,133,17,10,2.0,blut_schwer_010.png
+sub-line,line 10 part 3,848,779,53,17,können,848,779,53,13,10,3.0,blut_schwer_010.png
+sub-line,line 10 part 4,906,779,37,17,mehr,906,779,37,13,10,4.0,blut_schwer_010.png
+sub-line,line 10 part 5,949,779,18,17,als,949,779,18,13,10,5.0,blut_schwer_010.png
+sub-line,line 10 part 6,975,779,15,17,10,975,780,15,12,10,6.0,blut_schwer_010.png
+sub-line,line 10 part 7,996,779,37,17,Jahre,996,779,37,13,10,7.0,blut_schwer_010.png
+sub-line,line 10 part 8,1039,779,69,17,vergehen.,1039,779,69,17,10,8.0,blut_schwer_010.png
+line,line 1,610,294,579,16,,610,294,579,16,1,,blut_schwer_011.png
+sub-line,line 1 part 1,610,294,15,16,In,610,295,15,12,1,1.0,blut_schwer_011.png
+sub-line,line 1 part 2,631,294,42,16,dieser,631,294,42,13,1,2.0,blut_schwer_011.png
+sub-line,line 1 part 3,678,294,29,16,Zeit,678,295,29,12,1,3.0,blut_schwer_011.png
+sub-line,line 1 part 4,712,294,35,16,kann,712,294,35,13,1,4.0,blut_schwer_011.png
+sub-line,line 1 part 5,753,294,28,16,eine,753,299,28,8,1,5.0,blut_schwer_011.png
+sub-line,line 1 part 6,788,294,63,16,infizierte,788,294,63,13,1,6.0,blut_schwer_011.png
+sub-line,line 1 part 7,857,294,53,16,"Person,",857,295,53,15,1,7.0,blut_schwer_011.png
+sub-line,line 1 part 8,917,294,20,16,die,917,294,20,13,1,8.0,blut_schwer_011.png
+sub-line,line 1 part 9,943,294,36,16,nicht,943,294,36,13,1,9.0,blut_schwer_011.png
+sub-line,line 1 part 10,984,294,39,16,"weiß,",984,294,39,16,1,10.0,blut_schwer_011.png
+sub-line,line 1 part 11,1030,294,29,16,dass,1030,294,29,13,1,11.0,blut_schwer_011.png
+sub-line,line 1 part 12,1065,294,22,16,bei,1065,294,22,13,1,12.0,blut_schwer_011.png
+sub-line,line 1 part 13,1093,294,19,16,ihr,1093,294,19,13,1,13.0,blut_schwer_011.png
+sub-line,line 1 part 14,1118,294,28,16,eine,1118,299,28,8,1,14.0,blut_schwer_011.png
+sub-line,line 1 part 15,1152,294,37,16,HIV-,1152,295,37,12,1,15.0,blut_schwer_011.png
+line,line 2,610,345,651,17,,610,345,651,17,2,,blut_schwer_011.png
+sub-line,line 2 part 1,610,345,66,17,Infektion,610,345,66,13,2,1.0,blut_schwer_011.png
+sub-line,line 2 part 2,681,345,55,17,"besteht,",681,345,55,16,2,2.0,blut_schwer_011.png
+sub-line,line 2 part 3,743,345,22,17,das,743,345,22,13,2,3.0,blut_schwer_011.png
+sub-line,line 2 part 4,771,345,39,17,Virus,771,346,39,12,2,4.0,blut_schwer_011.png
+sub-line,line 2 part 5,816,345,76,17,unbewusst,816,345,76,13,2,5.0,blut_schwer_011.png
+sub-line,line 2 part 6,898,345,24,17,auf,898,345,24,13,2,6.0,blut_schwer_011.png
+sub-line,line 2 part 7,926,345,46,17,andere,926,345,46,13,2,7.0,blut_schwer_011.png
+sub-line,line 2 part 8,978,345,74,17,Menschen,978,345,74,13,2,8.0,blut_schwer_011.png
+sub-line,line 2 part 9,1057,345,80,17,tibertragen.,1057,345,80,17,2,9.0,blut_schwer_011.png
+sub-line,line 2 part 10,1144,345,32,17,Eine,1144,346,32,12,2,10.0,blut_schwer_011.png
+sub-line,line 2 part 11,1182,345,79,17,unerkannte,1182,345,79,13,2,11.0,blut_schwer_011.png
+line,line 3,610,396,628,16,,610,396,628,16,3,,blut_schwer_011.png
+sub-line,line 3 part 1,610,396,66,16,Infektion,610,396,66,13,3,1.0,blut_schwer_011.png
+sub-line,line 3 part 2,682,396,34,16,stellt,682,396,34,13,3,2.0,blut_schwer_011.png
+sub-line,line 3 part 3,722,396,39,16,somit,722,398,39,11,3,3.0,blut_schwer_011.png
+sub-line,line 3 part 4,767,396,28,16,eine,767,401,28,8,3,4.0,blut_schwer_011.png
+sub-line,line 3 part 5,802,396,49,16,Gefahr,802,396,49,13,3,5.0,blut_schwer_011.png
+sub-line,line 3 part 6,857,396,20,16,für,857,396,20,13,3,6.0,blut_schwer_011.png
+sub-line,line 3 part 7,883,396,20,16,die,883,396,20,13,3,7.0,blut_schwer_011.png
+sub-line,line 3 part 8,910,396,81,16,Gesundheit,910,396,81,13,3,8.0,blut_schwer_011.png
+sub-line,line 3 part 9,996,396,27,16,und,996,396,27,13,3,9.0,blut_schwer_011.png
+sub-line,line 3 part 10,1029,396,22,16,das,1029,396,22,13,3,10.0,blut_schwer_011.png
+sub-line,line 3 part 11,1057,396,49,16,"Leben,",1057,396,49,16,3,11.0,blut_schwer_011.png
+sub-line,line 3 part 12,1113,396,92,16,insbesondere,1113,396,92,13,3,12.0,blut_schwer_011.png
+sub-line,line 3 part 13,1211,396,27,16,von,1211,401,27,8,3,13.0,blut_schwer_011.png
+line,line 4,610,447,131,17,,610,447,131,17,4,,blut_schwer_011.png
+sub-line,line 4 part 1,610,447,99,17,Intimpartnern,610,448,99,16,4,1.0,blut_schwer_011.png
+sub-line,line 4 part 2,715,447,26,17,dar!,715,447,26,13,4,2.0,blut_schwer_011.png
+line,line 5,610,498,601,17,,610,498,601,17,5,,blut_schwer_011.png
+sub-line,line 5 part 1,610,498,25,17,Für,610,499,25,12,5,1.0,blut_schwer_011.png
+sub-line,line 5 part 2,640,498,50,17,Frauen,640,499,50,12,5,2.0,blut_schwer_011.png
+sub-line,line 5 part 3,696,498,18,17,im,696,503,18,8,5,3.0,blut_schwer_011.png
+sub-line,line 5 part 4,720,498,93,17,gebärfähigen,720,498,93,17,5,4.0,blut_schwer_011.png
+sub-line,line 5 part 5,818,498,37,17,Alter,818,498,37,13,5,5.0,blut_schwer_011.png
+sub-line,line 5 part 6,861,498,16,17,ist,861,500,16,11,5,6.0,blut_schwer_011.png
+sub-line,line 5 part 7,883,498,20,17,die,883,498,20,13,5,7.0,blut_schwer_011.png
+sub-line,line 5 part 8,909,498,69,17,"Kenntnis,",909,499,69,15,5,8.0,blut_schwer_011.png
+sub-line,line 5 part 9,985,498,16,17,ob,985,498,16,13,5,9.0,blut_schwer_011.png
+sub-line,line 5 part 10,1008,498,28,17,eine,1008,503,28,8,5,10.0,blut_schwer_011.png
+sub-line,line 5 part 11,1042,498,104,17,HIV-Infektion,1042,498,104,13,5,11.0,blut_schwer_011.png
+sub-line,line 5 part 12,1151,498,60,17,"vorliegt,",1151,498,60,17,5,12.0,blut_schwer_011.png
+line,line 6,611,549,660,17,,611,549,660,17,6,,blut_schwer_011.png
+sub-line,line 6 part 1,611,549,92,17,insbesondere,611,549,92,13,6,1.0,blut_schwer_011.png
+sub-line,line 6 part 2,709,549,58,17,"wichtig,",709,549,58,17,6,2.0,blut_schwer_011.png
+sub-line,line 6 part 3,773,549,31,17,weil,773,549,31,13,6,3.0,blut_schwer_011.png
+sub-line,line 6 part 4,810,549,22,17,das,810,549,22,13,6,4.0,blut_schwer_011.png
+sub-line,line 6 part 5,838,549,36,17,Kind,838,549,36,13,6,5.0,blut_schwer_011.png
+sub-line,line 6 part 6,879,549,62,17,während,879,549,62,13,6,6.0,blut_schwer_011.png
+sub-line,line 6 part 7,947,549,22,17,der,947,549,22,13,6,7.0,blut_schwer_011.png
+sub-line,line 6 part 8,975,549,122,17,Schwangerschaft,975,549,122,17,6,8.0,blut_schwer_011.png
+sub-line,line 6 part 9,1102,549,27,17,und,1102,549,27,13,6,9.0,blut_schwer_011.png
+sub-line,line 6 part 10,1134,549,25,17,v.a.,1134,554,25,8,6,10.0,blut_schwer_011.png
+sub-line,line 6 part 11,1166,549,22,17,bei,1166,549,22,13,6,11.0,blut_schwer_011.png
+sub-line,line 6 part 12,1194,549,22,17,der,1194,549,22,13,6,12.0,blut_schwer_011.png
+sub-line,line 6 part 13,1222,549,49,17,Geburt,1222,549,49,13,6,13.0,blut_schwer_011.png
+line,line 7,611,600,690,17,,611,600,690,17,7,,blut_schwer_011.png
+sub-line,line 7 part 1,611,600,40,17,sowie,611,605,40,8,7,1.0,blut_schwer_011.png
+sub-line,line 7 part 2,658,600,33,17,auch,658,600,33,13,7,2.0,blut_schwer_011.png
+sub-line,line 7 part 3,696,600,36,17,beim,696,600,36,13,7,3.0,blut_schwer_011.png
+sub-line,line 7 part 4,738,600,46,17,Stillen,738,600,46,13,7,4.0,blut_schwer_011.png
+sub-line,line 7 part 5,790,600,56,17,infiziert,790,600,56,13,7,5.0,blut_schwer_011.png
+sub-line,line 7 part 6,851,600,53,17,werden,851,600,53,13,7,6.0,blut_schwer_011.png
+sub-line,line 7 part 7,909,600,38,17,kann.,909,600,38,13,7,7.0,blut_schwer_011.png
+sub-line,line 7 part 8,954,600,45,17,Durch,954,600,45,13,7,8.0,blut_schwer_011.png
+sub-line,line 7 part 9,1005,600,67,17,geeignete,1005,602,67,15,7,9.0,blut_schwer_011.png
+sub-line,line 7 part 10,1078,600,90,17,Maßnahmen,1078,600,90,13,7,10.0,blut_schwer_011.png
+sub-line,line 7 part 11,1174,600,33,17,(z.B.,1174,600,33,17,7,11.0,blut_schwer_011.png
+sub-line,line 7 part 12,1214,600,87,17,Behandlung,1214,600,87,17,7,12.0,blut_schwer_011.png
+line,line 8,610,651,681,17,,610,651,681,17,8,,blut_schwer_011.png
+sub-line,line 8 part 1,610,651,24,17,mit,610,653,24,11,8,1.0,blut_schwer_011.png
+sub-line,line 8 part 2,639,651,112,17,"Medikamenten,",639,651,112,16,8,2.0,blut_schwer_011.png
+sub-line,line 8 part 3,757,651,100,17,Kaiserschnitt),757,651,100,17,8,3.0,blut_schwer_011.png
+sub-line,line 8 part 4,864,651,16,17,ist,864,653,16,11,8,4.0,blut_schwer_011.png
+sub-line,line 8 part 5,886,651,13,17,es,886,656,13,8,8,5.0,blut_schwer_011.png
+sub-line,line 8 part 6,904,651,49,17,jedoch,904,651,49,17,8,6.0,blut_schwer_011.png
+sub-line,line 8 part 7,959,651,52,17,oftmals,959,651,52,13,8,7.0,blut_schwer_011.png
+sub-line,line 8 part 8,1017,651,63,17,"möglich,",1017,651,63,17,8,8.0,blut_schwer_011.png
+sub-line,line 8 part 9,1087,651,28,17,eine,1087,656,28,8,8,9.0,blut_schwer_011.png
+sub-line,line 8 part 10,1121,651,86,17,Ansteckung,1121,651,86,17,8,10.0,blut_schwer_011.png
+sub-line,line 8 part 11,1213,651,22,17,des,1213,651,22,13,8,11.0,blut_schwer_011.png
+sub-line,line 8 part 12,1241,651,50,17,Kindes,1241,651,50,13,8,12.0,blut_schwer_011.png
+line,line 9,610,702,624,17,,610,702,624,17,9,,blut_schwer_011.png
+sub-line,line 9 part 1,610,702,17,17,zu,610,707,17,8,9,1.0,blut_schwer_011.png
+sub-line,line 9 part 2,632,702,81,17,verhindern.,632,702,81,13,9,2.0,blut_schwer_011.png
+sub-line,line 9 part 3,720,702,51,17,Zudem,720,702,51,13,9,3.0,blut_schwer_011.png
+sub-line,line 9 part 4,776,702,71,17,benötigen,776,702,71,17,9,4.0,blut_schwer_011.png
+sub-line,line 9 part 5,853,702,63,17,infizierte,853,702,63,13,9,5.0,blut_schwer_011.png
+sub-line,line 9 part 6,923,702,86,17,Schwangere,923,702,86,17,9,6.0,blut_schwer_011.png
+sub-line,line 9 part 7,1016,702,28,17,eine,1016,707,28,8,9,7.0,blut_schwer_011.png
+sub-line,line 9 part 8,1050,702,84,17,umfassende,1050,702,84,13,9,8.0,blut_schwer_011.png
+sub-line,line 9 part 9,1140,702,94,17,medizinische,1140,702,94,13,9,9.0,blut_schwer_011.png
+line,line 10,610,753,572,17,,610,753,572,17,10,,blut_schwer_011.png
+sub-line,line 10 part 1,610,753,79,17,"Betreuung,",610,754,79,16,10,1.0,blut_schwer_011.png
+sub-line,line 10 part 2,695,753,31,17,weil,695,753,31,13,10,2.0,blut_schwer_011.png
+sub-line,line 10 part 3,732,753,28,17,eine,732,758,28,8,10,3.0,blut_schwer_011.png
+sub-line,line 10 part 4,766,753,104,17,HIV-Infektion,766,753,104,13,10,4.0,blut_schwer_011.png
+sub-line,line 10 part 5,876,753,22,17,das,876,753,22,13,10,5.0,blut_schwer_011.png
+sub-line,line 10 part 6,904,753,69,17,Auftreten,904,753,69,13,10,6.0,blut_schwer_011.png
+sub-line,line 10 part 7,978,753,27,17,von,978,758,27,8,10,7.0,blut_schwer_011.png
+sub-line,line 10 part 8,1010,753,117,17,Komplikationen,1010,753,117,17,10,8.0,blut_schwer_011.png
+sub-line,line 10 part 9,1132,753,22,17,bei,1132,753,22,13,10,9.0,blut_schwer_011.png
+sub-line,line 10 part 10,1160,753,22,17,der,1160,753,22,13,10,10.0,blut_schwer_011.png
+line,line 11,611,804,257,17,,611,804,257,17,11,,blut_schwer_011.png
+sub-line,line 11 part 1,611,804,122,17,Schwangerschaft,611,804,122,17,11,1.0,blut_schwer_011.png
+sub-line,line 11 part 2,738,804,87,17,begünstigen,738,804,87,17,11,2.0,blut_schwer_011.png
+sub-line,line 11 part 3,830,804,38,17,kann.,830,804,38,13,11,3.0,blut_schwer_011.png
+line,line 1,611,244,418,17,,611,244,418,17,1,,blut_schwer_012.png
+sub-line,line 1 part 1,611,244,119,17,Selbstschutz,611,244,119,17,1,1.0,blut_schwer_012.png
+sub-line,line 1 part 2,737,244,36,17,und,737,244,36,17,1,2.0,blut_schwer_012.png
+sub-line,line 1 part 3,780,244,64,17,Schutz,780,244,64,17,1,3.0,blut_schwer_012.png
+sub-line,line 1 part 4,852,244,72,17,anderer,852,244,72,17,1,4.0,blut_schwer_012.png
+sub-line,line 1 part 5,930,244,99,17,Menschen,930,244,99,17,1,5.0,blut_schwer_012.png
+line,line 2,611,294,600,17,,611,294,600,17,2,,blut_schwer_012.png
+sub-line,line 2 part 1,611,294,40,17,Sollte,611,294,40,13,2,1.0,blut_schwer_012.png
+sub-line,line 2 part 2,658,294,22,17,der,658,294,22,13,2,2.0,blut_schwer_012.png
+sub-line,line 2 part 3,686,294,30,17,Test,686,295,30,12,2,3.0,blut_schwer_012.png
+sub-line,line 2 part 4,722,294,60,17,"ergeben,",722,294,60,17,2,4.0,blut_schwer_012.png
+sub-line,line 2 part 5,789,294,29,17,dass,789,294,29,13,2,5.0,blut_schwer_012.png
+sub-line,line 2 part 6,824,294,22,17,bei,824,294,22,13,2,6.0,blut_schwer_012.png
+sub-line,line 2 part 7,851,294,41,17,Ihnen,851,294,41,13,2,7.0,blut_schwer_012.png
+sub-line,line 2 part 8,898,294,28,17,eine,898,299,28,8,2,8.0,blut_schwer_012.png
+sub-line,line 2 part 9,932,294,104,17,HIV-Infektion,932,294,104,13,2,9.0,blut_schwer_012.png
+sub-line,line 2 part 10,1041,294,60,17,"vorliegt,",1041,294,60,17,2,10.0,blut_schwer_012.png
+sub-line,line 2 part 11,1108,294,16,17,ist,1108,296,16,11,2,11.0,blut_schwer_012.png
+sub-line,line 2 part 12,1130,294,22,17,das,1130,294,22,13,2,12.0,blut_schwer_012.png
+sub-line,line 2 part 13,1158,294,53,17,Wissen,1158,295,53,12,2,13.0,blut_schwer_012.png
+line,line 3,611,345,643,17,,611,345,643,17,3,,blut_schwer_012.png
+sub-line,line 3 part 1,611,345,54,17,darüber,611,345,54,13,3,1.0,blut_schwer_012.png
+sub-line,line 3 part 2,671,345,51,17,sowohl,671,345,51,13,3,2.0,blut_schwer_012.png
+sub-line,line 3 part 3,728,345,20,17,für,728,345,20,13,3,3.0,blut_schwer_012.png
+sub-line,line 3 part 4,753,345,38,17,Ihren,753,345,38,13,3,4.0,blut_schwer_012.png
+sub-line,line 3 part 5,797,345,55,17,eigenen,797,350,55,12,3,5.0,blut_schwer_012.png
+sub-line,line 3 part 6,858,345,48,17,Schutz,858,345,48,13,3,6.0,blut_schwer_012.png
+sub-line,line 3 part 7,912,345,18,17,als,912,345,18,13,3,7.0,blut_schwer_012.png
+sub-line,line 3 part 8,937,345,33,17,auch,937,345,33,13,3,8.0,blut_schwer_012.png
+sub-line,line 3 part 9,976,345,20,17,für,976,345,20,13,3,9.0,blut_schwer_012.png
+sub-line,line 3 part 10,1002,345,25,17,den,1002,345,25,13,3,10.0,blut_schwer_012.png
+sub-line,line 3 part 11,1033,345,48,17,Schutz,1033,345,48,13,3,11.0,blut_schwer_012.png
+sub-line,line 3 part 12,1087,345,53,17,anderer,1087,345,53,13,3,12.0,blut_schwer_012.png
+sub-line,line 3 part 13,1145,345,74,17,Menschen,1145,345,74,13,3,13.0,blut_schwer_012.png
+sub-line,line 3 part 14,1225,345,29,17,sehr,1225,345,29,13,3,14.0,blut_schwer_012.png
+line,line 4,610,396,57,17,,610,396,57,17,4,,blut_schwer_012.png
+sub-line,line 4 part 1,610,396,57,17,wichtig.,610,396,57,17,4,1.0,blut_schwer_012.png
+line,line 5,611,447,636,17,,611,447,636,17,5,,blut_schwer_012.png
+sub-line,line 5 part 1,611,447,66,17,Sprechen,611,447,66,17,5,1.0,blut_schwer_012.png
+sub-line,line 5 part 2,683,447,21,17,Sie,683,448,21,12,5,2.0,blut_schwer_012.png
+sub-line,line 5 part 3,710,447,24,17,mit,710,449,24,11,5,3.0,blut_schwer_012.png
+sub-line,line 5 part 4,740,447,30,17,dem,740,447,30,13,5,4.0,blut_schwer_012.png
+sub-line,line 5 part 5,775,447,32,17,Arzt,775,448,32,12,5,5.0,blut_schwer_012.png
+sub-line,line 5 part 6,812,447,35,17,Ihres,812,447,35,13,5,6.0,blut_schwer_012.png
+sub-line,line 5 part 7,853,447,78,17,Vertrauens,853,448,78,12,5,7.0,blut_schwer_012.png
+sub-line,line 5 part 8,938,447,54,17,darüber,938,447,54,13,5,8.0,blut_schwer_012.png
+sub-line,line 5 part 9,997,447,27,17,und,997,447,27,13,5,9.0,blut_schwer_012.png
+sub-line,line 5 part 10,1030,447,84,17,informieren,1030,447,84,13,5,10.0,blut_schwer_012.png
+sub-line,line 5 part 11,1120,447,21,17,Sie,1120,448,21,12,5,11.0,blut_schwer_012.png
+sub-line,line 5 part 12,1148,447,24,17,auf,1148,447,24,13,5,12.0,blut_schwer_012.png
+sub-line,line 5 part 13,1174,447,40,17,jeden,1174,447,40,17,5,13.0,blut_schwer_012.png
+sub-line,line 5 part 14,1219,447,28,17,Fall,1219,447,28,13,5,14.0,blut_schwer_012.png
+line,line 6,610,498,376,17,,610,498,376,17,6,,blut_schwer_012.png
+sub-line,line 6 part 1,610,498,43,17,Ihre/n,610,498,43,13,6,1.0,blut_schwer_012.png
+sub-line,line 6 part 2,659,498,99,17,Sexualpartner,659,498,99,17,6,2.0,blut_schwer_012.png
+sub-line,line 6 part 3,763,498,33,17,bzw.,763,498,33,13,6,3.0,blut_schwer_012.png
+sub-line,line 6 part 4,803,498,28,17,Ihre,803,498,28,13,6,4.0,blut_schwer_012.png
+sub-line,line 6 part 5,838,498,148,17,Sexualpartnerin/nen!,838,498,148,17,6,5.0,blut_schwer_012.png
+line,line 7,610,547,662,19,,610,547,662,19,7,,blut_schwer_012.png
+sub-line,line 7 part 1,610,547,39,19,Ärzte,610,547,39,15,7,1.0,blut_schwer_012.png
+sub-line,line 7 part 2,655,547,71,19,benötigen,655,549,71,17,7,2.0,blut_schwer_012.png
+sub-line,line 7 part 3,732,547,35,19,diese,732,549,35,13,7,3.0,blut_schwer_012.png
+sub-line,line 7 part 4,773,547,90,19,"Information,",773,549,90,16,7,4.0,blut_schwer_012.png
+sub-line,line 7 part 5,869,547,23,19,um,869,554,23,8,7,5.0,blut_schwer_012.png
+sub-line,line 7 part 6,897,547,41,19,Ihnen,897,549,41,13,7,6.0,blut_schwer_012.png
+sub-line,line 7 part 7,944,547,67,19,geeignete,944,551,67,15,7,7.0,blut_schwer_012.png
+sub-line,line 7 part 8,1018,547,151,19,Therapiemaßnahmen,1018,549,151,17,7,8.0,blut_schwer_012.png
+sub-line,line 7 part 9,1175,547,75,19,empfehlen,1175,549,75,17,7,9.0,blut_schwer_012.png
+sub-line,line 7 part 10,1255,547,17,19,zu,1255,554,17,8,7,10.0,blut_schwer_012.png
+line,line 8,610,600,673,17,,610,600,673,17,8,,blut_schwer_012.png
+sub-line,line 8 part 1,610,600,57,17,"können,",610,600,57,16,8,1.0,blut_schwer_012.png
+sub-line,line 8 part 2,673,600,28,17,z.B.,673,601,28,12,8,2.0,blut_schwer_012.png
+sub-line,line 8 part 3,708,600,39,17,wenn,708,605,39,8,8,3.0,blut_schwer_012.png
+sub-line,line 8 part 4,753,600,21,17,Sie,753,601,21,12,8,4.0,blut_schwer_012.png
+sub-line,line 8 part 5,780,600,47,17,wegen,780,605,47,12,8,5.0,blut_schwer_012.png
+sub-line,line 8 part 6,833,600,35,17,einer,833,605,35,8,8,6.0,blut_schwer_012.png
+sub-line,line 8 part 7,874,600,56,17,anderen,874,600,56,13,8,7.0,blut_schwer_012.png
+sub-line,line 8 part 8,935,600,85,17,Erkrankung,935,600,85,17,8,8.0,blut_schwer_012.png
+sub-line,line 8 part 9,1025,600,70,17,behandelt,1025,600,70,13,8,9.0,blut_schwer_012.png
+sub-line,line 8 part 10,1100,600,53,17,werden,1100,600,53,13,8,10.0,blut_schwer_012.png
+sub-line,line 8 part 11,1158,600,54,17,müssen,1158,602,54,11,8,11.0,blut_schwer_012.png
+sub-line,line 8 part 12,1218,600,31,17,oder,1218,600,31,13,8,12.0,blut_schwer_012.png
+sub-line,line 8 part 13,1255,600,28,17,eine,1255,605,28,8,8,13.0,blut_schwer_012.png
+line,line 9,611,651,130,17,,611,651,130,17,9,,blut_schwer_012.png
+sub-line,line 9 part 1,611,651,71,17,Operation,611,652,71,16,9,1.0,blut_schwer_012.png
+sub-line,line 9 part 2,688,651,53,17,ansteht.,688,651,53,13,9,2.0,blut_schwer_012.png
+line,line 10,610,700,690,19,,610,700,690,19,10,,blut_schwer_012.png
+sub-line,line 10 part 1,610,700,51,19,Zudem,610,702,51,13,10,1.0,blut_schwer_012.png
+sub-line,line 10 part 2,666,700,53,19,können,666,702,53,13,10,2.0,blut_schwer_012.png
+sub-line,line 10 part 3,724,700,39,19,Ärzte,724,700,39,15,10,3.0,blut_schwer_012.png
+sub-line,line 10 part 4,769,700,27,19,und,769,702,27,13,10,4.0,blut_schwer_012.png
+sub-line,line 10 part 5,801,700,81,19,Mitarbeiter,801,702,81,13,10,5.0,blut_schwer_012.png
+sub-line,line 10 part 6,887,700,155,19,Vorsorgemaßnahmen,887,702,155,17,10,6.0,blut_schwer_012.png
+sub-line,line 10 part 7,1047,700,52,19,"treffen,",1047,702,52,16,10,7.0,blut_schwer_012.png
+sub-line,line 10 part 8,1105,700,23,19,um,1105,707,23,8,10,8.0,blut_schwer_012.png
+sub-line,line 10 part 9,1134,700,21,19,Sie,1134,703,21,12,10,9.0,blut_schwer_012.png
+sub-line,line 10 part 10,1162,700,14,19,so,1162,707,14,8,10,10.0,blut_schwer_012.png
+sub-line,line 10 part 11,1183,700,22,19,gut,1183,704,22,15,10,11.0,blut_schwer_012.png
+sub-line,line 10 part 12,1210,700,25,19,wie,1210,707,25,8,10,12.0,blut_schwer_012.png
+sub-line,line 10 part 13,1241,700,59,19,möglich,1241,702,59,17,10,13.0,blut_schwer_012.png
+line,line 11,610,753,640,17,,610,753,640,17,11,,blut_schwer_012.png
+sub-line,line 11 part 1,610,753,24,17,vor,610,758,24,8,11,1.0,blut_schwer_012.png
+sub-line,line 11 part 2,639,753,83,17,Infektionen,639,753,83,13,11,2.0,blut_schwer_012.png
+sub-line,line 11 part 3,727,753,17,17,zu,727,758,17,8,11,3.0,blut_schwer_012.png
+sub-line,line 11 part 4,750,753,66,17,"schützen,",750,753,66,16,11,4.0,blut_schwer_012.png
+sub-line,line 11 part 5,823,753,20,17,die,823,753,20,13,11,5.0,blut_schwer_012.png
+sub-line,line 11 part 6,850,753,20,17,für,850,753,20,13,11,6.0,blut_schwer_012.png
+sub-line,line 11 part 7,875,753,102,17,HIV-infizierte,875,753,102,13,11,7.0,blut_schwer_012.png
+sub-line,line 11 part 8,983,753,74,17,Menschen,983,753,74,13,11,8.0,blut_schwer_012.png
+sub-line,line 11 part 9,1062,753,71,17,besonders,1062,753,71,13,11,9.0,blut_schwer_012.png
+sub-line,line 11 part 10,1140,753,72,17,gefährlich,1140,753,72,17,11,10.0,blut_schwer_012.png
+sub-line,line 11 part 11,1218,753,32,17,sind.,1218,753,32,13,11,11.0,blut_schwer_012.png
+line,line 12,610,802,659,19,,610,802,659,19,12,,blut_schwer_012.png
+sub-line,line 12 part 1,610,802,25,19,Für,610,805,25,12,12,1.0,blut_schwer_012.png
+sub-line,line 12 part 2,640,802,39,19,Ärzte,640,802,39,15,12,2.0,blut_schwer_012.png
+sub-line,line 12 part 3,685,802,27,19,und,685,804,27,13,12,3.0,blut_schwer_012.png
+sub-line,line 12 part 4,717,802,81,19,Mitarbeiter,717,804,81,13,12,4.0,blut_schwer_012.png
+sub-line,line 12 part 5,804,802,16,19,ist,804,806,16,11,12,5.0,blut_schwer_012.png
+sub-line,line 12 part 6,826,802,20,19,die,826,804,20,13,12,6.0,blut_schwer_012.png
+sub-line,line 12 part 7,852,802,85,19,Versorgung,852,805,85,16,12,7.0,blut_schwer_012.png
+sub-line,line 12 part 8,942,802,27,19,und,942,804,27,13,12,8.0,blut_schwer_012.png
+sub-line,line 12 part 9,974,802,87,19,Behandlung,974,804,87,17,12,9.0,blut_schwer_012.png
+sub-line,line 12 part 10,1066,802,27,19,von,1066,809,27,8,12,10.0,blut_schwer_012.png
+sub-line,line 12 part 11,1098,802,112,19,HIV-infizierten,1098,804,112,13,12,11.0,blut_schwer_012.png
+sub-line,line 12 part 12,1216,802,31,19,oder,1216,804,31,13,12,12.0,blut_schwer_012.png
+sub-line,line 12 part 13,1253,802,16,19,an,1253,809,16,8,12,13.0,blut_schwer_012.png
+line,line 13,610,855,398,13,,610,855,398,13,13,,blut_schwer_012.png
+sub-line,line 13 part 1,610,855,41,13,AIDS,610,856,41,12,13,1.0,blut_schwer_012.png
+sub-line,line 13 part 2,658,855,76,13,erkrankten,658,855,76,13,13,2.0,blut_schwer_012.png
+sub-line,line 13 part 3,739,855,67,13,Patienten,739,856,67,12,13,3.0,blut_schwer_012.png
+sub-line,line 13 part 4,812,855,28,13,eine,812,860,28,8,13,4.0,blut_schwer_012.png
+sub-line,line 13 part 5,847,855,161,13,Selbstverständlichkeit.,847,855,161,13,13,5.0,blut_schwer_012.png
+line,line 1,610,243,653,17,,610,243,653,17,1,,blut_schwer_013.png
+sub-line,line 1 part 1,610,243,17,17,Es,610,244,17,12,1,1.0,blut_schwer_013.png
+sub-line,line 1 part 2,633,243,63,17,bestehen,633,243,63,13,1,2.0,blut_schwer_013.png
+sub-line,line 1 part 3,701,243,148,17,"Arbeitsschutzregeln,",701,243,148,17,1,3.0,blut_schwer_013.png
+sub-line,line 1 part 4,856,243,39,17,deren,856,243,39,13,1,4.0,blut_schwer_013.png
+sub-line,line 1 part 5,900,243,79,17,Einhaltung,900,243,79,17,1,5.0,blut_schwer_013.png
+sub-line,line 1 part 6,984,243,24,17,vor,984,248,24,8,1,6.0,blut_schwer_013.png
+sub-line,line 1 part 7,1014,243,35,17,einer,1014,248,35,8,1,7.0,blut_schwer_013.png
+sub-line,line 1 part 8,1054,243,66,17,Infektion,1054,243,66,13,1,8.0,blut_schwer_013.png
+sub-line,line 1 part 9,1126,243,65,17,schützen.,1126,243,65,13,1,9.0,blut_schwer_013.png
+sub-line,line 1 part 10,1198,243,65,17,Dennoch,1198,243,65,13,1,10.0,blut_schwer_013.png
+line,line 2,610,294,647,17,,610,294,647,17,2,,blut_schwer_013.png
+sub-line,line 2 part 1,610,294,35,17,kann,610,294,35,13,2,1.0,blut_schwer_013.png
+sub-line,line 2 part 2,651,294,13,17,es,651,299,13,8,2,2.0,blut_schwer_013.png
+sub-line,line 2 part 3,670,294,17,17,zu,670,299,17,8,2,3.0,blut_schwer_013.png
+sub-line,line 2 part 4,692,294,89,17,ungewollten,692,294,89,17,2,4.0,blut_schwer_013.png
+sub-line,line 2 part 5,786,294,97,17,Verletzungen,786,294,97,17,2,5.0,blut_schwer_013.png
+sub-line,line 2 part 6,888,294,24,17,mit,888,296,24,11,2,6.0,blut_schwer_013.png
+sub-line,line 2 part 7,917,294,95,17,Instrumenten,917,295,95,12,2,7.0,blut_schwer_013.png
+sub-line,line 2 part 8,1017,294,67,17,"kommen,",1017,294,67,16,2,8.0,blut_schwer_013.png
+sub-line,line 2 part 9,1091,294,20,17,die,1091,294,20,13,2,9.0,blut_schwer_013.png
+sub-line,line 2 part 10,1118,294,21,17,ein,1118,299,21,8,2,10.0,blut_schwer_013.png
+sub-line,line 2 part 11,1144,294,113,17,Infektionsrisiko,1144,294,113,13,2,11.0,blut_schwer_013.png
+line,line 3,611,345,620,17,,611,345,620,17,3,,blut_schwer_013.png
+sub-line,line 3 part 1,611,345,69,17,darstellen,611,345,69,13,3,1.0,blut_schwer_013.png
+sub-line,line 3 part 2,686,345,33,17,(z.B.,686,345,33,17,3,2.0,blut_schwer_013.png
+sub-line,line 3 part 3,726,345,80,17,Verletzung,726,345,80,17,3,3.0,blut_schwer_013.png
+sub-line,line 3 part 4,811,345,24,17,mit,811,347,24,11,3,4.0,blut_schwer_013.png
+sub-line,line 3 part 5,840,345,56,17,"Nadeln,",840,345,56,16,3,5.0,blut_schwer_013.png
+sub-line,line 3 part 6,903,345,20,17,die,903,345,20,13,3,6.0,blut_schwer_013.png
+sub-line,line 3 part 7,929,345,22,17,bei,929,345,22,13,3,7.0,blut_schwer_013.png
+sub-line,line 3 part 8,957,345,43,17,einem,957,350,43,8,3,8.0,blut_schwer_013.png
+sub-line,line 3 part 9,1006,345,73,17,infizierten,1006,345,73,13,3,9.0,blut_schwer_013.png
+sub-line,line 3 part 10,1084,345,67,17,Patienten,1084,346,67,12,3,10.0,blut_schwer_013.png
+sub-line,line 3 part 11,1156,345,75,17,verwendet,1156,345,75,13,3,11.0,blut_schwer_013.png
+line,line 4,610,396,63,17,,610,396,63,17,4,,blut_schwer_013.png
+sub-line,line 4 part 1,610,396,63,17,wurden).,610,396,63,17,4,1.0,blut_schwer_013.png
+line,line 5,610,447,616,16,,610,447,616,16,5,,blut_schwer_013.png
+sub-line,line 5 part 1,610,447,18,16,Ist,610,448,18,12,5,1.0,blut_schwer_013.png
+sub-line,line 5 part 2,634,447,22,16,das,634,447,22,13,5,2.0,blut_schwer_013.png
+sub-line,line 5 part 3,662,447,94,16,medizinische,662,447,94,13,5,3.0,blut_schwer_013.png
+sub-line,line 5 part 4,762,447,62,16,Personal,762,447,62,13,5,4.0,blut_schwer_013.png
+sub-line,line 5 part 5,829,447,32,16,über,829,447,32,13,5,5.0,blut_schwer_013.png
+sub-line,line 5 part 6,867,447,20,16,die,867,447,20,13,5,6.0,blut_schwer_013.png
+sub-line,line 5 part 7,893,447,66,16,Infektion,893,447,66,13,5,7.0,blut_schwer_013.png
+sub-line,line 5 part 8,965,447,76,16,"informiert,",965,447,76,16,5,8.0,blut_schwer_013.png
+sub-line,line 5 part 9,1047,447,35,16,kann,1047,447,35,13,5,9.0,blut_schwer_013.png
+sub-line,line 5 part 10,1088,447,40,16,durch,1088,447,40,13,5,10.0,blut_schwer_013.png
+sub-line,line 5 part 11,1134,447,28,16,eine,1134,452,28,8,5,11.0,blut_schwer_013.png
+sub-line,line 5 part 12,1169,447,57,16,schnelle,1169,447,57,13,5,12.0,blut_schwer_013.png
+line,line 6,611,498,563,17,,611,498,563,17,6,,blut_schwer_013.png
+sub-line,line 6 part 1,611,498,96,17,antiinfektiöse,611,498,96,13,6,1.0,blut_schwer_013.png
+sub-line,line 6 part 2,714,498,62,17,Therapie,714,498,62,17,6,2.0,blut_schwer_013.png
+sub-line,line 6 part 3,783,498,28,17,eine,783,503,28,8,6,3.0,blut_schwer_013.png
+sub-line,line 6 part 4,817,498,86,17,Ansteckung,817,498,86,17,6,4.0,blut_schwer_013.png
+sub-line,line 6 part 5,908,498,74,17,verhindert,908,498,74,13,6,5.0,blut_schwer_013.png
+sub-line,line 6 part 6,987,498,56,17,werden.,987,498,56,13,6,6.0,blut_schwer_013.png
+sub-line,line 6 part 7,1050,498,17,17,Es,1050,499,17,12,6,7.0,blut_schwer_013.png
+sub-line,line 6 part 8,1073,498,33,17,wird,1073,498,33,13,6,8.0,blut_schwer_013.png
+sub-line,line 6 part 9,1111,498,22,17,bei,1111,498,22,13,6,9.0,blut_schwer_013.png
+sub-line,line 6 part 10,1139,498,35,17,einer,1139,503,35,8,6,10.0,blut_schwer_013.png
+line,line 7,610,549,666,17,,610,549,666,17,7,,blut_schwer_013.png
+sub-line,line 7 part 1,610,549,179,17,Krankenhausbehandlung,610,549,179,17,7,1.0,blut_schwer_013.png
+sub-line,line 7 part 2,794,549,31,17,kein,794,549,31,13,7,2.0,blut_schwer_013.png
+sub-line,line 7 part 3,830,549,69,17,HIV-Test,830,550,69,12,7,3.0,blut_schwer_013.png
+sub-line,line 7 part 4,904,549,96,17,routinemäßig,904,549,96,17,7,4.0,blut_schwer_013.png
+sub-line,line 7 part 5,1006,549,92,17,durchgeführt,1006,549,92,17,7,5.0,blut_schwer_013.png
+sub-line,line 7 part 6,1103,549,27,17,und,1103,549,27,13,7,6.0,blut_schwer_013.png
+sub-line,line 7 part 7,1136,549,33,17,auch,1136,549,33,13,7,7.0,blut_schwer_013.png
+sub-line,line 7 part 8,1174,549,36,17,nicht,1174,549,36,13,7,8.0,blut_schwer_013.png
+sub-line,line 7 part 9,1216,549,33,17,ohne,1216,549,33,13,7,9.0,blut_schwer_013.png
+sub-line,line 7 part 10,1255,549,21,17,Ihr,1255,549,21,13,7,10.0,blut_schwer_013.png
+line,line 8,610,598,615,18,,610,598,615,18,8,,blut_schwer_013.png
+sub-line,line 8 part 1,610,598,110,18,Einverständnis.,610,600,110,13,8,1.0,blut_schwer_013.png
+sub-line,line 8 part 2,727,598,34,18,Bitte,727,601,34,12,8,2.0,blut_schwer_013.png
+sub-line,line 8 part 3,768,598,62,18,schützen,768,600,62,13,8,3.0,blut_schwer_013.png
+sub-line,line 8 part 4,836,598,26,18,"Sie,",836,601,26,15,8,4.0,blut_schwer_013.png
+sub-line,line 8 part 5,869,598,29,18,falls,869,600,29,13,8,5.0,blut_schwer_013.png
+sub-line,line 8 part 6,905,598,21,18,Sie,905,601,21,12,8,6.0,blut_schwer_013.png
+sub-line,line 8 part 7,933,598,56,18,infiziert,933,600,56,13,8,7.0,blut_schwer_013.png
+sub-line,line 8 part 8,995,598,28,18,sein,995,605,28,8,8,8.0,blut_schwer_013.png
+sub-line,line 8 part 9,1029,598,51,18,"sollten,",1029,600,51,16,8,9.0,blut_schwer_013.png
+sub-line,line 8 part 10,1086,598,39,18,Ärzte,1086,598,39,15,8,10.0,blut_schwer_013.png
+sub-line,line 8 part 11,1131,598,27,18,und,1131,600,27,13,8,11.0,blut_schwer_013.png
+sub-line,line 8 part 12,1163,598,62,18,Personal,1163,600,62,13,8,12.0,blut_schwer_013.png
+line,line 9,610,651,632,17,,610,651,632,17,9,,blut_schwer_013.png
+sub-line,line 9 part 1,610,651,24,17,vor,610,656,24,8,9,1.0,blut_schwer_013.png
+sub-line,line 9 part 2,640,651,35,17,einer,640,656,35,8,9,2.0,blut_schwer_013.png
+sub-line,line 9 part 3,680,651,90,17,"Ansteckung,",680,651,90,17,9,3.0,blut_schwer_013.png
+sub-line,line 9 part 4,777,651,44,17,indem,777,651,44,13,9,4.0,blut_schwer_013.png
+sub-line,line 9 part 5,827,651,21,17,Sie,827,652,21,12,9,5.0,blut_schwer_013.png
+sub-line,line 9 part 6,854,651,32,17,über,854,651,32,13,9,6.0,blut_schwer_013.png
+sub-line,line 9 part 7,891,651,28,17,Ihre,891,651,28,13,9,7.0,blut_schwer_013.png
+sub-line,line 9 part 8,925,651,85,17,Erkrankung,925,651,85,17,9,8.0,blut_schwer_013.png
+sub-line,line 9 part 9,1016,651,84,17,informieren,1016,651,84,13,9,9.0,blut_schwer_013.png
+sub-line,line 9 part 10,1105,651,27,17,und,1105,651,27,13,9,10.0,blut_schwer_013.png
+sub-line,line 9 part 11,1138,651,28,17,sich,1138,651,28,13,9,11.0,blut_schwer_013.png
+sub-line,line 9 part 12,1171,651,71,17,umsichtig,1171,651,71,17,9,12.0,blut_schwer_013.png
+line,line 10,610,702,71,13,,610,702,71,13,10,,blut_schwer_013.png
+sub-line,line 10 part 1,610,702,71,13,verhalten!,610,702,71,13,10,1.0,blut_schwer_013.png
+line,line 11,610,753,615,17,,610,753,615,17,11,,blut_schwer_013.png
+sub-line,line 11 part 1,610,753,52,17,Ebenso,610,753,52,13,11,1.0,blut_schwer_013.png
+sub-line,line 11 part 2,668,753,54,17,wichtig,668,753,54,17,11,2.0,blut_schwer_013.png
+sub-line,line 11 part 3,728,753,20,17,"ist,",728,755,20,14,11,3.0,blut_schwer_013.png
+sub-line,line 11 part 4,755,753,29,17,dass,755,753,29,13,11,4.0,blut_schwer_013.png
+sub-line,line 11 part 5,791,753,21,17,Sie,791,754,21,12,11,5.0,blut_schwer_013.png
+sub-line,line 11 part 6,819,753,20,17,die,819,753,20,13,11,6.0,blut_schwer_013.png
+sub-line,line 11 part 7,845,753,74,17,Menschen,845,753,74,13,11,7.0,blut_schwer_013.png
+sub-line,line 11 part 8,925,753,13,17,in,925,758,13,8,11,8.0,blut_schwer_013.png
+sub-line,line 11 part 9,943,753,35,17,Ihrer,943,753,35,13,11,9.0,blut_schwer_013.png
+sub-line,line 11 part 10,983,753,80,17,Umgebung,983,753,80,17,11,10.0,blut_schwer_013.png
+sub-line,line 11 part 11,1069,753,40,17,durch,1069,753,40,13,11,11.0,blut_schwer_013.png
+sub-line,line 11 part 12,1114,753,21,17,Ihr,1114,753,21,13,11,12.0,blut_schwer_013.png
+sub-line,line 11 part 13,1140,753,85,17,umsichtiges,1140,753,85,17,11,13.0,blut_schwer_013.png
+line,line 12,610,804,670,17,,610,804,670,17,12,,blut_schwer_013.png
+sub-line,line 12 part 1,610,804,71,17,Verhalten,610,804,71,13,12,1.0,blut_schwer_013.png
+sub-line,line 12 part 2,687,804,62,17,schützen,687,804,62,13,12,2.0,blut_schwer_013.png
+sub-line,line 12 part 3,755,804,33,17,(z.B.,755,804,33,17,12,3.0,blut_schwer_013.png
+sub-line,line 12 part 4,795,804,94,17,"Intimpartner,",795,805,94,16,12,4.0,blut_schwer_013.png
+sub-line,line 12 part 5,895,804,89,17,"Angehörige,",895,804,89,17,12,5.0,blut_schwer_013.png
+sub-line,line 12 part 6,990,804,58,17,Freunde,990,804,58,13,12,6.0,blut_schwer_013.png
+sub-line,line 12 part 7,1054,804,27,17,und,1054,804,27,13,12,7.0,blut_schwer_013.png
+sub-line,line 12 part 8,1087,804,46,17,andere,1087,804,46,13,12,8.0,blut_schwer_013.png
+sub-line,line 12 part 9,1139,804,70,17,"Personen,",1139,805,70,15,12,9.0,blut_schwer_013.png
+sub-line,line 12 part 10,1215,804,17,17,zu,1215,809,17,8,12,10.0,blut_schwer_013.png
+sub-line,line 12 part 11,1238,804,42,17,denen,1238,804,42,13,12,11.0,blut_schwer_013.png
+line,line 13,611,855,143,17,,611,855,143,17,13,,blut_schwer_013.png
+sub-line,line 13 part 1,611,855,21,17,Sie,611,856,21,12,13,1.0,blut_schwer_013.png
+sub-line,line 13 part 2,638,855,58,17,Kontakt,638,855,58,13,13,2.0,blut_schwer_013.png
+sub-line,line 13 part 3,701,855,53,17,haben)!,701,855,53,17,13,3.0,blut_schwer_013.png
+line,line 1,610,397,427,22,,610,397,427,22,1,,blut_schwer_014.png
+sub-line,line 1 part 1,610,397,105,22,Bedeutung,610,397,105,22,1,1.0,blut_schwer_014.png
+sub-line,line 1 part 2,722,397,31,22,des,722,397,31,17,1,2.0,blut_schwer_014.png
+sub-line,line 1 part 3,759,397,115,22,Ergebnisses,759,397,115,22,1,3.0,blut_schwer_014.png
+sub-line,line 1 part 4,881,397,49,22,eines,881,397,49,17,1,4.0,blut_schwer_014.png
+sub-line,line 1 part 5,936,397,101,22,HIV-Tests,936,398,101,16,1,5.0,blut_schwer_014.png
+line,line 2,610,447,207,21,,610,447,207,21,2,,blut_schwer_014.png
+sub-line,line 2 part 1,610,447,88,21,Negatives,610,447,88,21,2,1.0,blut_schwer_014.png
+sub-line,line 2 part 2,706,447,111,21,Testergebnis,706,447,111,21,2,2.0,blut_schwer_014.png
+line,line 3,610,498,633,17,,610,498,633,17,3,,blut_schwer_014.png
+sub-line,line 3 part 1,610,498,25,17,Ein,610,499,25,12,3,1.0,blut_schwer_014.png
+sub-line,line 3 part 2,640,498,67,17,negatives,640,500,67,15,3,2.0,blut_schwer_014.png
+sub-line,line 3 part 3,714,498,90,17,Testergebnis,714,498,90,17,3,3.0,blut_schwer_014.png
+sub-line,line 3 part 4,810,498,50,17,"besagt,",810,498,50,17,3,4.0,blut_schwer_014.png
+sub-line,line 3 part 5,867,498,29,17,dass,867,498,29,13,3,5.0,blut_schwer_014.png
+sub-line,line 3 part 6,903,498,13,17,in,903,503,13,8,3,6.0,blut_schwer_014.png
+sub-line,line 3 part 7,921,498,43,17,Ihrem,921,498,43,13,3,7.0,blut_schwer_014.png
+sub-line,line 3 part 8,969,498,31,17,Blut,969,498,31,13,3,8.0,blut_schwer_014.png
+sub-line,line 3 part 9,1005,498,38,17,keine,1005,498,38,13,3,9.0,blut_schwer_014.png
+sub-line,line 3 part 10,1049,498,98,17,Abwehrstoffe,1049,498,98,13,3,10.0,blut_schwer_014.png
+sub-line,line 3 part 11,1154,498,89,17,(Antikörper),1154,498,89,17,3,11.0,blut_schwer_014.png
+line,line 4,611,549,309,17,,611,549,309,17,4,,blut_schwer_014.png
+sub-line,line 4 part 1,611,549,42,17,gegen,611,554,42,12,4,1.0,blut_schwer_014.png
+sub-line,line 4 part 2,658,549,32,17,HIV,658,550,32,12,4,2.0,blut_schwer_014.png
+sub-line,line 4 part 3,695,549,101,17,nachgewiesen,695,549,101,17,4,3.0,blut_schwer_014.png
+sub-line,line 4 part 4,801,549,53,17,werden,801,549,53,13,4,4.0,blut_schwer_014.png
+sub-line,line 4 part 5,859,549,61,17,konnten.,859,549,61,13,4,5.0,blut_schwer_014.png
+line,line 5,610,600,614,17,,610,600,614,17,5,,blut_schwer_014.png
+sub-line,line 5 part 1,610,600,17,17,Es,610,601,17,12,5,1.0,blut_schwer_014.png
+sub-line,line 5 part 2,633,600,61,17,bedeutet,633,600,61,13,5,2.0,blut_schwer_014.png
+sub-line,line 5 part 3,700,600,30,17,aber,700,600,30,13,5,3.0,blut_schwer_014.png
+sub-line,line 5 part 4,736,600,40,17,leider,736,600,40,13,5,4.0,blut_schwer_014.png
+sub-line,line 5 part 5,781,600,40,17,"nicht,",781,600,40,16,5,5.0,blut_schwer_014.png
+sub-line,line 5 part 6,828,600,29,17,dass,828,600,29,13,5,6.0,blut_schwer_014.png
+sub-line,line 5 part 7,864,600,28,17,eine,864,605,28,8,5,7.0,blut_schwer_014.png
+sub-line,line 5 part 8,898,600,104,17,HIV-Infektion,898,600,104,13,5,8.0,blut_schwer_014.png
+sub-line,line 5 part 9,1007,600,24,17,mit,1007,602,24,11,5,9.0,blut_schwer_014.png
+sub-line,line 5 part 10,1037,600,72,17,Sicherheit,1037,600,72,13,5,10.0,blut_schwer_014.png
+sub-line,line 5 part 11,1115,600,109,17,ausgeschlossen,1115,600,109,17,5,11.0,blut_schwer_014.png
+line,line 6,610,651,644,17,,610,651,644,17,6,,blut_schwer_014.png
+sub-line,line 6 part 1,610,651,53,17,werden,610,651,53,13,6,1.0,blut_schwer_014.png
+sub-line,line 6 part 2,668,651,38,17,kann.,668,651,38,13,6,2.0,blut_schwer_014.png
+sub-line,line 6 part 3,713,651,32,17,Dies,713,652,32,12,6,3.0,blut_schwer_014.png
+sub-line,line 6 part 4,752,651,31,17,liegt,752,651,31,17,6,4.0,blut_schwer_014.png
+sub-line,line 6 part 5,789,651,43,17,"daran,",789,651,43,16,6,5.0,blut_schwer_014.png
+sub-line,line 6 part 6,839,651,29,17,dass,839,651,29,13,6,6.0,blut_schwer_014.png
+sub-line,line 6 part 7,875,651,13,17,es,875,656,13,8,6,7.0,blut_schwer_014.png
+sub-line,line 6 part 8,895,651,42,17,einige,895,656,42,12,6,8.0,blut_schwer_014.png
+sub-line,line 6 part 9,943,651,60,17,Wochen,943,651,60,13,6,9.0,blut_schwer_014.png
+sub-line,line 6 part 10,1009,651,31,17,oder,1009,651,31,13,6,10.0,blut_schwer_014.png
+sub-line,line 6 part 11,1045,651,54,17,Monate,1045,652,54,12,6,11.0,blut_schwer_014.png
+sub-line,line 6 part 12,1106,651,48,17,"dauert,",1106,651,48,16,6,12.0,blut_schwer_014.png
+sub-line,line 6 part 13,1160,651,20,17,bis,1160,651,20,13,6,13.0,blut_schwer_014.png
+sub-line,line 6 part 14,1187,651,28,17,sich,1187,651,28,13,6,14.0,blut_schwer_014.png
+sub-line,line 6 part 15,1220,651,34,17,nach,1220,651,34,13,6,15.0,blut_schwer_014.png
+line,line 7,611,702,342,17,,611,702,342,17,7,,blut_schwer_014.png
+sub-line,line 7 part 1,611,702,35,17,einer,611,707,35,8,7,1.0,blut_schwer_014.png
+sub-line,line 7 part 2,651,702,104,17,HIV-Infektion,651,702,104,13,7,2.0,blut_schwer_014.png
+sub-line,line 7 part 3,760,702,79,17,Antikörper,760,702,79,17,7,3.0,blut_schwer_014.png
+sub-line,line 7 part 4,845,702,57,17,gebildet,845,702,57,17,7,4.0,blut_schwer_014.png
+sub-line,line 7 part 5,907,702,46,17,haben.,907,702,46,13,7,5.0,blut_schwer_014.png
+line,line 1,610,269,612,17,,610,269,612,17,1,,blut_schwer_015.png
+sub-line,line 1 part 1,610,269,15,17,In,610,270,15,12,1,1.0,blut_schwer_015.png
+sub-line,line 1 part 2,631,269,42,17,dieser,631,269,42,13,1,2.0,blut_schwer_015.png
+sub-line,line 1 part 3,678,269,29,17,Zeit,678,270,29,12,1,3.0,blut_schwer_015.png
+sub-line,line 1 part 4,712,269,35,17,kann,712,269,35,13,1,4.0,blut_schwer_015.png
+sub-line,line 1 part 5,753,269,20,17,die,753,269,20,13,1,5.0,blut_schwer_015.png
+sub-line,line 1 part 6,779,269,66,17,Infektion,779,269,66,13,1,6.0,blut_schwer_015.png
+sub-line,line 1 part 7,850,269,24,17,mit,850,271,24,11,1,7.0,blut_schwer_015.png
+sub-line,line 1 part 8,880,269,25,17,den,880,269,25,13,1,8.0,blut_schwer_015.png
+sub-line,line 1 part 9,910,269,125,17,Routine-Bluttests,910,269,125,13,1,9.0,blut_schwer_015.png
+sub-line,line 1 part 10,1041,269,36,17,nicht,1041,269,36,13,1,10.0,blut_schwer_015.png
+sub-line,line 1 part 11,1083,269,77,17,festgestellt,1083,269,77,17,1,11.0,blut_schwer_015.png
+sub-line,line 1 part 12,1165,269,57,17,werden!,1165,269,57,13,1,12.0,blut_schwer_015.png
+line,line 2,610,320,648,17,,610,320,648,17,2,,blut_schwer_015.png
+sub-line,line 2 part 1,610,320,51,17,Zudem,610,320,51,13,2,1.0,blut_schwer_015.png
+sub-line,line 2 part 2,667,320,27,17,gibt,667,320,27,17,2,2.0,blut_schwer_015.png
+sub-line,line 2 part 3,700,320,13,17,es,700,325,13,8,2,3.0,blut_schwer_015.png
+sub-line,line 2 part 4,720,320,33,17,auch,720,320,33,13,2,4.0,blut_schwer_015.png
+sub-line,line 2 part 5,759,320,42,17,einige,759,325,42,12,2,5.0,blut_schwer_015.png
+sub-line,line 2 part 6,807,320,108,17,"HIV-Infizierte,",807,320,108,16,2,6.0,blut_schwer_015.png
+sub-line,line 2 part 7,921,320,22,17,bei,921,320,22,13,2,7.0,blut_schwer_015.png
+sub-line,line 2 part 8,949,320,42,17,denen,949,320,42,13,2,8.0,blut_schwer_015.png
+sub-line,line 2 part 9,997,320,13,17,es,997,325,13,8,2,9.0,blut_schwer_015.png
+sub-line,line 2 part 10,1016,320,24,17,mit,1016,322,24,11,2,10.0,blut_schwer_015.png
+sub-line,line 2 part 11,1046,320,30,17,dem,1046,320,30,13,2,11.0,blut_schwer_015.png
+sub-line,line 2 part 12,1081,320,62,17,üblichen,1081,320,62,13,2,12.0,blut_schwer_015.png
+sub-line,line 2 part 13,1148,320,69,17,HIV-Test,1148,321,69,12,2,13.0,blut_schwer_015.png
+sub-line,line 2 part 14,1222,320,36,17,nicht,1222,320,36,13,2,14.0,blut_schwer_015.png
+line,line 3,611,371,317,17,,611,371,317,17,3,,blut_schwer_015.png
+sub-line,line 3 part 1,611,371,53,17,"gelingt,",611,371,53,17,3,1.0,blut_schwer_015.png
+sub-line,line 3 part 2,671,371,28,17,eine,671,376,28,8,3,2.0,blut_schwer_015.png
+sub-line,line 3 part 3,705,371,66,17,Infektion,705,371,66,13,3,3.0,blut_schwer_015.png
+sub-line,line 3 part 4,777,371,42,17,sicher,777,371,42,13,3,4.0,blut_schwer_015.png
+sub-line,line 3 part 5,824,371,104,17,nachzuweisen.,824,371,104,13,3,5.0,blut_schwer_015.png
+line,line 4,611,422,634,17,,611,422,634,17,4,,blut_schwer_015.png
+sub-line,line 4 part 1,611,422,40,17,Sollte,611,422,40,13,4,1.0,blut_schwer_015.png
+sub-line,line 4 part 2,657,422,33,17,trotz,657,424,33,11,4,2.0,blut_schwer_015.png
+sub-line,line 4 part 3,696,422,35,17,eines,696,427,35,8,4,3.0,blut_schwer_015.png
+sub-line,line 4 part 4,737,422,70,17,negativen,737,424,70,15,4,4.0,blut_schwer_015.png
+sub-line,line 4 part 5,813,422,112,17,Testergebnisses,813,422,112,17,4,5.0,blut_schwer_015.png
+sub-line,line 4 part 6,932,422,22,17,der,932,422,22,13,4,6.0,blut_schwer_015.png
+sub-line,line 4 part 7,960,422,41,17,starke,960,422,41,13,4,7.0,blut_schwer_015.png
+sub-line,line 4 part 8,1007,422,66,17,Verdacht,1007,422,66,13,4,8.0,blut_schwer_015.png
+sub-line,line 4 part 9,1079,422,22,17,auf,1079,422,22,13,4,9.0,blut_schwer_015.png
+sub-line,line 4 part 10,1108,422,27,17,eine,1108,412,27,31,4,10.0,blut_schwer_015.png
+sub-line,line 4 part 11,1141,422,104,17,HIV-Infektion,1141,422,104,13,4,11.0,blut_schwer_015.png
+line,line 5,610,473,633,16,,610,473,633,16,5,,blut_schwer_015.png
+sub-line,line 5 part 1,610,473,67,16,"bestehen,",610,473,67,16,5,1.0,blut_schwer_015.png
+sub-line,line 5 part 2,684,473,16,16,ist,684,475,16,11,5,2.0,blut_schwer_015.png
+sub-line,line 5 part 3,706,473,13,16,es,706,478,13,8,5,3.0,blut_schwer_015.png
+sub-line,line 5 part 4,726,473,61,16,"sinnvoll,",726,473,61,16,5,4.0,blut_schwer_015.png
+sub-line,line 5 part 5,794,473,25,16,den,794,473,25,13,5,5.0,blut_schwer_015.png
+sub-line,line 5 part 6,825,473,30,16,Test,825,474,30,12,5,6.0,blut_schwer_015.png
+sub-line,line 5 part 7,860,473,34,16,nach,860,473,34,13,5,7.0,blut_schwer_015.png
+sub-line,line 5 part 8,900,473,18,16,ca.,900,478,18,8,5,8.0,blut_schwer_015.png
+sub-line,line 5 part 9,926,473,7,16,3,926,474,7,12,5,9.0,blut_schwer_015.png
+sub-line,line 5 part 10,939,473,64,16,Monaten,939,474,64,12,5,10.0,blut_schwer_015.png
+sub-line,line 5 part 11,1008,473,17,16,zu,1008,478,17,8,5,11.0,blut_schwer_015.png
+sub-line,line 5 part 12,1030,473,89,16,wiederholen,1030,473,89,13,5,12.0,blut_schwer_015.png
+sub-line,line 5 part 13,1125,473,31,16,oder,1125,473,31,13,5,13.0,blut_schwer_015.png
+sub-line,line 5 part 14,1162,473,28,16,eine,1162,478,28,8,5,14.0,blut_schwer_015.png
+sub-line,line 5 part 15,1197,473,46,16,andere,1197,473,46,13,5,15.0,blut_schwer_015.png
+line,line 6,610,524,655,17,,610,524,655,17,6,,blut_schwer_015.png
+sub-line,line 6 part 1,610,524,101,17,Untersuchung,610,524,101,17,6,1.0,blut_schwer_015.png
+sub-line,line 6 part 2,717,524,81,17,(PCR-Test),717,524,81,17,6,2.0,blut_schwer_015.png
+sub-line,line 6 part 3,805,524,108,17,"durchzuführen,",805,524,108,16,6,3.0,blut_schwer_015.png
+sub-line,line 6 part 4,920,524,20,17,die,920,524,20,13,6,4.0,blut_schwer_015.png
+sub-line,line 6 part 5,946,524,74,17,bestimmte,946,524,74,13,6,5.0,blut_schwer_015.png
+sub-line,line 6 part 6,1026,524,88,17,Bestandteile,1026,524,88,13,6,6.0,blut_schwer_015.png
+sub-line,line 6 part 7,1121,524,22,17,der,1121,524,22,13,6,7.0,blut_schwer_015.png
+sub-line,line 6 part 8,1148,524,41,17,Viren,1148,525,41,12,6,8.0,blut_schwer_015.png
+sub-line,line 6 part 9,1195,524,41,17,(Teile,1195,524,41,17,6,9.0,blut_schwer_015.png
+sub-line,line 6 part 10,1243,524,22,17,des,1243,524,22,13,6,10.0,blut_schwer_015.png
+line,line 7,610,575,194,17,,610,575,194,17,7,,blut_schwer_015.png
+sub-line,line 7 part 1,610,575,61,17,Erbguts),610,575,61,17,7,1.0,blut_schwer_015.png
+sub-line,line 7 part 2,677,575,84,17,nachweisen,677,575,84,13,7,2.0,blut_schwer_015.png
+sub-line,line 7 part 3,766,575,38,17,kann.,766,575,38,13,7,3.0,blut_schwer_015.png
+line,line 8,610,626,198,21,,610,626,198,21,8,,blut_schwer_015.png
+sub-line,line 8 part 1,610,626,79,21,Positives,610,626,79,16,8,1.0,blut_schwer_015.png
+sub-line,line 8 part 2,697,626,111,21,Testergebnis,697,626,111,21,8,2.0,blut_schwer_015.png
+line,line 9,610,677,671,17,,610,677,671,17,9,,blut_schwer_015.png
+sub-line,line 9 part 1,610,677,25,17,Ein,610,678,25,12,9,1.0,blut_schwer_015.png
+sub-line,line 9 part 2,640,677,63,17,positives,640,679,63,15,9,2.0,blut_schwer_015.png
+sub-line,line 9 part 3,710,677,90,17,Testergebnis,710,677,90,17,9,3.0,blut_schwer_015.png
+sub-line,line 9 part 4,806,677,65,17,"bedeutet,",806,677,65,16,9,4.0,blut_schwer_015.png
+sub-line,line 9 part 5,878,677,29,17,dass,878,677,29,13,9,5.0,blut_schwer_015.png
+sub-line,line 9 part 6,913,677,113,17,möglicherweise,913,677,113,17,9,6.0,blut_schwer_015.png
+sub-line,line 9 part 7,1033,677,28,17,eine,1033,682,28,8,9,7.0,blut_schwer_015.png
+sub-line,line 9 part 8,1067,677,104,17,HIV-Infektion,1067,677,104,13,9,8.0,blut_schwer_015.png
+sub-line,line 9 part 9,1176,677,59,17,vorliegt.,1176,677,59,17,9,9.0,blut_schwer_015.png
+sub-line,line 9 part 10,1242,677,39,17,Dann,1242,678,39,12,9,10.0,blut_schwer_015.png
+line,line 10,610,728,687,17,,610,728,687,17,10,,blut_schwer_015.png
+sub-line,line 10 part 1,610,728,54,17,müssen,610,730,54,11,10,1.0,blut_schwer_015.png
+sub-line,line 10 part 2,669,728,52,17,weitere,669,730,52,11,10,2.0,blut_schwer_015.png
+sub-line,line 10 part 3,728,728,36,17,Tests,728,729,36,12,10,3.0,blut_schwer_015.png
+sub-line,line 10 part 4,771,728,57,17,(weitere,771,728,57,17,10,4.0,blut_schwer_015.png
+sub-line,line 10 part 5,834,728,110,17,Blutentnahmen,834,728,110,13,10,5.0,blut_schwer_015.png
+sub-line,line 10 part 6,949,728,27,17,und,949,728,27,13,10,6.0,blut_schwer_015.png
+sub-line,line 10 part 7,981,728,76,17,PCR-Test),981,728,76,17,10,7.0,blut_schwer_015.png
+sub-line,line 10 part 8,1064,728,92,17,durchgeführt,1064,728,92,17,10,8.0,blut_schwer_015.png
+sub-line,line 10 part 9,1161,728,56,17,werden.,1161,728,56,13,10,9.0,blut_schwer_015.png
+sub-line,line 10 part 10,1224,728,29,17,Erst,1224,729,29,12,10,10.0,blut_schwer_015.png
+sub-line,line 10 part 11,1258,728,39,17,wenn,1258,733,39,8,10,11.0,blut_schwer_015.png
+line,line 11,611,779,578,17,,611,779,578,17,11,,blut_schwer_015.png
+sub-line,line 11 part 1,611,779,33,17,auch,611,779,33,13,11,1.0,blut_schwer_015.png
+sub-line,line 11 part 2,650,779,35,17,diese,650,779,35,13,11,2.0,blut_schwer_015.png
+sub-line,line 11 part 3,691,779,17,17,zu,691,784,17,8,11,3.0,blut_schwer_015.png
+sub-line,line 11 part 4,714,779,43,17,einem,714,784,43,8,11,4.0,blut_schwer_015.png
+sub-line,line 11 part 5,762,779,66,17,positiven,762,781,66,15,11,5.0,blut_schwer_015.png
+sub-line,line 11 part 6,833,779,63,17,Ergebnis,833,779,63,17,11,6.0,blut_schwer_015.png
+sub-line,line 11 part 7,903,779,50,17,"führen,",903,779,50,16,11,7.0,blut_schwer_015.png
+sub-line,line 11 part 8,960,779,16,17,ist,960,781,16,11,11,8.0,blut_schwer_015.png
+sub-line,line 11 part 9,982,779,28,17,eine,982,784,28,8,11,9.0,blut_schwer_015.png
+sub-line,line 11 part 10,1016,779,104,17,HIV-Infektion,1016,779,104,13,11,10.0,blut_schwer_015.png
+sub-line,line 11 part 11,1125,779,64,17,bestätigt.,1125,779,64,17,11,11.0,blut_schwer_015.png
