@@ -28,15 +28,23 @@ If you wish to visualize the corrected fixations, adjust the show_n_trials_per_s
 
 ## Citation
 
-If you use this approach, please cite the following preprint:
+If you use this approach, please cite the following paper:
+https://www.sciencedirect.com/science/article/pii/S1877050924024256
 
-Culemann, W., Neuber, L., & Heine, A. (2024). Systematic Drift Correction in Eye Tracking Reading Studies: Integrating Line Assignments with Implicit Recalibration (No. 13293). EasyChair. https://easychair.org/publications/preprint/gLt7
+Culemann, Wolf, Leana Neuber, und Angela Heine. 2024. Systematic Drift Correction in Eye Tracking Reading Studies: Integrating Line Assignments with Implicit Recalibration. Procedia Computer Science 246:2821–30. doi: 10.1016/j.procs.2024.09.389.
 
 ```bibtex
-@techreport{culemann2024systematic,
-  title={Systematic Drift Correction in Eye Tracking Reading Studies: Integrating Line Assignments with Implicit Recalibration},
-  author={Culemann, Wolf and Neuber, Leana and Heine, Angela},
-  year={2024},
-  institution={EasyChair}
+@article{CULEMANN20242821,
+title = {Systematic Drift Correction in Eye Tracking Reading Studies: Integrating Line Assignments with Implicit Recalibration},
+journal = {Procedia Computer Science},
+volume = {246},
+pages = {2821-2830},
+year = {2024},
+note = {28th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES 2024)},
+issn = {1877-0509},
+doi = {https://doi.org/10.1016/j.procs.2024.09.389},
+url = {https://www.sciencedirect.com/science/article/pii/S1877050924024256},
+author = {Wolf Culemann and Leana Neuber and Angela Heine},
+keywords = {eye tracking, drift correction, line assignment, implicit recalibration, multiline reading},
 }
 ```
